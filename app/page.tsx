@@ -1,8 +1,9 @@
+import Link from "next/link";
 import Grain from "@/components/Grain";
 import Wordmark from "@/components/Wordmark";
-import { VOLUMES, TOTAL_CHAPTERS, chapterCount, type Part } from "@/lib/kapital";
+import { VOLUMES, TOTAL_CHAPTERS, chapterCount, chapterHref, type Part } from "@/lib/kapital";
 
-const [V1, V2, V3] = VOLUMES;
+const [V1, V2, V3, V4] = VOLUMES;
 
 const range = (p: Part) =>
   p.chapters[0] === p.chapters[1] ? `Ch. ${p.chapters[0]}` : `Ch. ${p.chapters[0]}–${p.chapters[1]}`;
@@ -16,15 +17,15 @@ export default function Home() {
         <Wordmark />
         <div className="mt-2.5 grid grid-cols-1 gap-y-1.5 text-[13px] leading-tight sm:grid-cols-12">
           <p className="strip sm:col-span-6">
-            Marx in Motion / <a href="#volume-1">Das Kapital</a>, all three volumes
+            Marx in Motion / <a href="#contents">Das Kapital</a>, all three volumes and a bonus
           </p>
           <p className="strip sm:col-span-3 sm:pb-3">
             Every chapter, explained with
             <br className="hidden sm:block" /> moving pictures a kid can follow
           </p>
           <p className="strip flex justify-between gap-6 sm:col-span-3 sm:justify-end">
-            <a href="#volume-1">Kid Mode</a>
-            <a href="#volume-1">Grown-up Mode</a>
+            <Link href="/introduction">Start here</Link>
+            <Link href="/glossary">Glossary</Link>
           </p>
         </div>
       </header>
@@ -58,7 +59,10 @@ export default function Home() {
         </div>
 
         <p className="reveal mx-auto mt-6 max-w-[335px] text-[13px] leading-snug text-white/60">
-          <span className="text-white">{V1.kidLine}</span> {V1.parts.length} parts, {chapterCount(V1)} chapters.
+          <span className="text-white">{V1.kidLine}</span> {V1.parts.length} parts, {chapterCount(V1)} chapters.{" "}
+          <Link href={chapterHref(V1.chapters[0])} className="text-white">
+            Read Chapter 1
+          </Link>
         </p>
       </section>
 
@@ -125,6 +129,45 @@ export default function Home() {
         <p className="reveal mx-auto mt-6 max-w-[335px] text-[13px] leading-snug text-white/60">
           <span className="text-white">{V3.kidLine}</span> {V3.parts.length} parts, {chapterCount(V3)} chapters.
         </p>
+      </section>
+
+      {/* ── Contents ───────────────────────────────────────── */}
+      <section id="contents" className="scroll-mt-6 px-4 pb-24 sm:px-5">
+        <p className="label">(Contents)</p>
+        <h2 className="mb-8 text-[34px] leading-none tracking-[-0.03em] sm:text-[52px]">Every chapter</h2>
+        <p className="mb-8 max-w-[420px] text-[13px] leading-snug text-white/60">
+          <Link href="/introduction" className="text-white">
+            Start with the introduction
+          </Link>
+          . Underlined chapters are ready to read; the rest are on their way.
+        </p>
+        <div className="grid gap-x-5 gap-y-12 sm:grid-cols-2 lg:grid-cols-4">
+          {[V1, V2, V3, V4].map((v) => (
+            <div key={v.n}>
+              <p className="label">(Volume {v.roman}){v.n === 4 ? " Bonus" : ""}</p>
+              <h3 className="mb-4 text-[17px] leading-tight">{v.title}</h3>
+              {v.parts.map((p) => (
+                <div key={p.n} className="mb-4">
+                  <p className="mb-1 text-[10px] text-white/40">
+                    {v.n}.{p.n} {v.n === 4 ? "" : p.title}
+                  </p>
+                  <ol className="space-y-0.5 text-[12px] leading-tight">
+                    {v.chapters.slice(p.chapters[0] - 1, p.chapters[1]).map((c) => (
+                      <li key={c.n} className="grid grid-cols-[22px_1fr]">
+                        <span className="text-white/40">{c.n}</span>
+                        {c.status === "ready" ? (
+                          <Link href={chapterHref(c)}>{c.title}</Link>
+                        ) : (
+                          <span className="text-white/45">{c.title}</span>
+                        )}
+                      </li>
+                    ))}
+                  </ol>
+                </div>
+              ))}
+            </div>
+          ))}
+        </div>
       </section>
 
       {/* ── Footer strip ───────────────────────────────────── */}

@@ -43,6 +43,99 @@ a {
   line-height: 1.2;
 }
 
+/* ── Reading pages ──────────────────────────────────────── */
+
+.paper .label,
+.anim .label {
+  color: rgba(0, 0, 0, 0.45);
+}
+
+/* The white sheet a chapter is printed on. */
+.paper {
+  background: var(--paper);
+  color: #000;
+}
+
+.chapter-no {
+  font-size: clamp(120px, 28vw, 220px);
+  line-height: 0.78;
+  letter-spacing: -0.06em;
+}
+
+.big-question {
+  font-size: clamp(26px, 5vw, 36px);
+  line-height: 1.08;
+  letter-spacing: -0.025em;
+}
+
+.sub {
+  margin: 2.25rem 0 0.75rem;
+  font-size: 19px;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+}
+
+.prose-kid p {
+  margin-bottom: 1em;
+  font-size: 19px;
+  line-height: 1.55;
+}
+
+.prose-adult p {
+  margin-bottom: 0.9em;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.paper a,
+.prose-kid a {
+  color: inherit;
+}
+
+.guess {
+  background: #f1f1f1;
+  padding: 14px 16px;
+  font-size: 17px;
+  line-height: 1.5;
+}
+
+.eli5 {
+  margin: 2rem 0 0.5rem;
+  background: #000;
+  color: #fff;
+  padding: 18px 18px 20px;
+  font-size: 21px;
+  line-height: 1.35;
+  letter-spacing: -0.01em;
+}
+
+/* Animation controls */
+.ctl {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  min-height: 36px;
+  min-width: 36px;
+  justify-content: center;
+  padding: 0 10px;
+  background: #f1f1f1;
+  font-size: 14px;
+  line-height: 1;
+  touch-action: manipulation;
+}
+.ctl:hover:not(:disabled) { background: #e4e4e4; }
+.ctl:disabled { opacity: 0.35; }
+.ctl-primary { background: #000; color: #fff; padding: 0 14px; }
+.ctl-primary:hover:not(:disabled) { background: #333; }
+
+button { cursor: pointer; }
+button:disabled { cursor: default; }
+
+/* Larger SVG text reads better at phone width. */
+.anim-stage text {
+  font-family: var(--font-inter-tight), "Helvetica Neue", Arial, sans-serif;
+}
+
 /* ── Motion ─────────────────────────────────────────────── */
 
 @keyframes wm-rise {
@@ -81,6 +174,37 @@ a {
 
 .marquee-up {
   animation: marquee-up 18s linear infinite;
+}
+
+@keyframes step-progress {
+  from { transform: scaleX(0); }
+  to { transform: scaleX(1); }
+}
+
+@keyframes snow-fall {
+  from { transform: translateY(-12px); opacity: 0; }
+  30% { opacity: 1; }
+  to { transform: translateY(40px); opacity: 0; }
+}
+.snow { animation: snow-fall 2.4s linear infinite; }
+
+@keyframes twinkle {
+  0%, 100% { opacity: 0.2; }
+  50% { opacity: 1; }
+}
+.twinkle { animation: twinkle 1.2s ease-in-out infinite; }
+
+@keyframes flicker {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.6; }
+}
+.flicker { animation: flicker 0.6s ease-in-out infinite; }
+
+.spin-gear {
+  stroke-dasharray: 3 2;
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: spin 3s linear infinite;
 }
 
 @keyframes grain-drift {
