@@ -128,7 +128,7 @@ const chapter: ChapterContent = {
     "A higher daily wage can still mean labour is cheaper for the boss: the relative wage is lower.",
   ],
 
-  terms: ["nominal-wage", "relative-wage"],
+  terms: ["relative-wage"],
 
   source: (
     <p>

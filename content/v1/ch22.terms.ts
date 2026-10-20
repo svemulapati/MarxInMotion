@@ -1,13 +1,6 @@
 import type { Term } from "@/lib/glossary";
 
 export const TERMS = {
-  "nominal-wage": {
-    term: "Nominal wage",
-    kid: "How many coins a worker is paid, before you ask what the coins can buy.",
-    grownUp:
-      "The wage expressed in money. Because money is worth relatively less in a more developed country, nominal wages there are higher without proving that real wages are.",
-    firstSeen: "1-22",
-  },
   "relative-wage": {
     term: "Relative wage",
     kid: "How big the worker's pay is compared with what the boss keeps and what the work makes.",

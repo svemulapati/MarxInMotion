@@ -19,7 +19,7 @@ export const TERMS = {
     term: "Nominal wage",
     kid: "The number of coins in your pay, before you ask what they can buy or how long you worked for them.",
     grownUp:
-      "The sum of money received for a day's or week's labour. It differs both from the real wage (what it buys) and from the price of labour (what each hour is paid).",
+      "The sum of money received for a day's or week's labour. It differs both from the real wage (what it buys) and from the price of labour (what each hour is paid). Between countries it misleads too: money is worth relatively less where labour is more productive, so higher nominal wages there do not prove higher real wages.",
     firstSeen: "1-20",
   },
 } satisfies Record<string, Term>;
