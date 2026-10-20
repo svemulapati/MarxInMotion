@@ -89,6 +89,90 @@ export const GLOSSARY = {
       "The way relations between people's labours appear as relations between things, so that value looks like a natural property of products.",
     firstSeen: "1-1",
   },
+  "general-equivalent": {
+    term: "General equivalent",
+    kid: "The one thing that every other thing gets measured against.",
+    grownUp:
+      "A commodity set apart, by the common action of all commodity owners, to express the values of all the others. When the role settles on gold, it becomes money.",
+    firstSeen: "1-2",
+  },
+  "money-fetish": {
+    term: "Money fetish",
+    kid: "Thinking money is magic all by itself, instead of a way of comparing people's work.",
+    grownUp:
+      "The fetishism of commodities in its most dazzling form: money seems to be valuable by nature, which hides that it is a commodity whose special role comes from social relations.",
+    firstSeen: "1-2",
+  },
+  price: {
+    term: "Price",
+    kid: "How much money a thing is worth, written on its tag.",
+    grownUp:
+      "The money-name of the value in a commodity. It is ideal (a price tag needs no actual gold), and a price can drift above or below value.",
+    firstSeen: "1-3",
+  },
+  "c-m-c": {
+    term: "C\u2013M\u2013C (selling in order to buy)",
+    kid: "Swap your thing for money, then swap the money for the thing you need.",
+    grownUp:
+      "The simple circulation of commodities: commodity to money (sale), money to commodity (purchase). Its aim is a different use-value, so the circuit ends in consumption.",
+    firstSeen: "1-3",
+  },
+  "means-of-circulation": {
+    term: "Means of circulation",
+    kid: "Money as the go-between that passes from hand to hand.",
+    grownUp:
+      "Money's function in carrying out the sales and purchases of commodities, during which it keeps moving away from its starting point.",
+    firstSeen: "1-3",
+  },
+  "velocity-of-money": {
+    term: "Velocity of money",
+    kid: "How many times a coin changes hands in a day.",
+    grownUp:
+      "The number of moves a piece of money makes in a given time. Marx's rule: the money needed for circulation equals the sum of prices divided by the number of moves.",
+    firstSeen: "1-3",
+  },
+  hoarding: {
+    term: "Hoarding",
+    kid: "Keeping money out of use, locked away in a chest.",
+    grownUp:
+      "Withdrawing money from circulation to keep it as a store of value. Hoards also act as reservoirs that release or soak up money as trade grows or shrinks.",
+    firstSeen: "1-3",
+  },
+  "means-of-payment": {
+    term: "Means of payment",
+    kid: "Money paid later, to keep a promise for something you already got.",
+    grownUp:
+      "Money's function when the sale and the payment are separated in time, so the buyer becomes a debtor. Chains of such payments make monetary crises possible.",
+    firstSeen: "1-3",
+  },
+  "world-money": {
+    term: "World money",
+    kid: "Gold used for paying between countries.",
+    grownUp:
+      "Money in trade between nations, where it drops its local forms (coins, paper notes) and works as plain bullion.",
+    firstSeen: "1-3",
+  },
+  "general-formula": {
+    term: "M\u2013C\u2013M\u2032 (the general formula for capital)",
+    kid: "Start with money, buy things, then sell them for more money.",
+    grownUp:
+      "The circuit of money as capital: buying in order to sell dearer, where M\u2032 = M + \u0394M. It fits industrial and merchant capital, and in shortened form (M\u2013M\u2032) interest-bearing capital.",
+    firstSeen: "1-4",
+  },
+  "surplus-value": {
+    term: "Surplus-value",
+    kid: "The extra money that comes back after going round the circle.",
+    grownUp:
+      "The increase over the value first advanced (\u0394M). Explaining where it comes from is the puzzle of Part Two of Volume I.",
+    firstSeen: "1-4",
+  },
+  capitalist: {
+    term: "Capitalist",
+    kid: "Someone who uses money to make more money, again and again.",
+    grownUp:
+      "For Marx, capital in human form: the conscious bearer of capital's endless movement, whose aim is the unlimited growth of value rather than any useful thing.",
+    firstSeen: "1-4",
+  },
 } satisfies Record<string, Term>;
 
 export type TermId = keyof typeof GLOSSARY;

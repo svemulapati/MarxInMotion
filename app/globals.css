@@ -207,6 +207,23 @@ button:disabled { cursor: default; }
   animation: spin 3s linear infinite;
 }
 
+/* A coin settling a chain of debts, right to left (ch. 3). */
+@keyframes pay-chain {
+  0% { transform: translate(315px, 128px); }
+  30% { transform: translate(225px, 128px); }
+  36% { transform: translate(225px, 128px); }
+  63% { transform: translate(135px, 128px); }
+  69% { transform: translate(135px, 128px); }
+  100% { transform: translate(45px, 128px); }
+}
+.pay-chain { animation: pay-chain 3s ease-in-out forwards; }
+
+@keyframes hop {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-9px); }
+}
+.hop { animation: hop 0.7s ease-in-out infinite; }
+
 @keyframes grain-drift {
   0%, 100% { transform: translate(0, 0) scale(1); }
   50% { transform: translate(-4%, 3%) scale(1.06); }

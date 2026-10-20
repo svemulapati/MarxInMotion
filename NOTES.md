@@ -2,6 +2,23 @@
 
 Details that are uncertain or need a human check. Newest first.
 
+## Volume I, Chapters 2 to 4 (checked against marxists.org, 2026-10-20)
+
+- Verified in the text: commodities need "guardians" to reach market; exchange begins on the
+  boundaries of communities; nomads first develop the money-form; the money commodity must be
+  uniform and "divisible at will"; gold "serves to stop teeth"; the linen weaver's £2, family Bible
+  and the Bible seller's brandy (shown as cider); the £8 / four moves / £2 quantity example;
+  *salto mortale*; Marx arguing against Hume on prices and the quantity of money; "the miser is
+  merely a capitalist gone mad, the capitalist is a rational miser"; "the circulation of capital
+  has therefore no limits".
+- Mr. Moneybags appears in our Chapter 4 story, but Marx first names him at the end of Chapter 5.
+  The Chapter 4 source note says so.
+- Old Silas (the miser) is a one-off character, not part of the recurring cast.
+- Critics, summarised in my own words: Humphrey and Graeber on barter; Knapp's state theory and
+  MMT; Hume and Friedman on the quantity theory, with post-Keynesian endogenous money on Marx's
+  side; the end of gold convertibility in 1971; Senior's abstinence, J. B. Clark's marginal
+  productivity, Böhm-Bawerk's time preference. Worth a read for fairness of tone.
+
 ## Edition and numbering
 
 - **Volume I chapter titles use the Penguin/Fowkes wording from memory.** The part and chapter

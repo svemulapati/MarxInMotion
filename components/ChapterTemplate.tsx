@@ -31,7 +31,8 @@ export interface ChapterContent {
 function validate(key: string, c: ChapterContent) {
   const problems: string[] = [];
   if (c.struggle.length + c.reveal.length < 2) problems.push("needs at least two animations");
-  const sentences = c.eli5.split(/(?<=[.!?])\s+/).filter(Boolean).length;
+  // "Mr." and friends end a word, not a sentence
+  const sentences = c.eli5.split(/(?<!\b(?:Mr|Mrs|Ms|Dr|St|vs)\.)(?<=[.!?])\s+/).filter(Boolean).length;
   if (sentences > 3) problems.push(`"Say it like I'm 5" has ${sentences} sentences (max 3)`);
   if (c.quiz.length !== 3) problems.push(`quiz has ${c.quiz.length} questions (needs 3)`);
   c.quiz.forEach((q, i) => {

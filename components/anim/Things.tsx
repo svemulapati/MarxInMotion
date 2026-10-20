@@ -151,3 +151,88 @@ export const Bubble = ({ w, lines }: { w: number; lines: string[] }) => {
     </g>
   );
 };
+
+/** A small gold coin, for counting money in scenes. */
+export const Coin = ({ r = 7 }: { r?: number }) => (
+  <g>
+    <circle r={r} fill="#e6b800" stroke="#000" strokeWidth="1" />
+    <circle r={r * 0.62} fill="none" stroke="#8a6d00" strokeWidth=".8" />
+  </g>
+);
+
+/** A row of n coins with an optional label underneath. */
+export const Coins = ({ n, label }: { n: number; label?: string }) => (
+  <g>
+    {Array.from({ length: n }, (_, i) => (
+      <g key={i} transform={`translate(${(i - (n - 1) / 2) * 9} 0)`}>
+        <Coin r={6} />
+      </g>
+    ))}
+    {label && (
+      <text y="19" textAnchor="middle" fontSize="8.5">
+        {label}
+      </text>
+    )}
+  </g>
+);
+
+export const Bible = () => (
+  <g>
+    <rect x="-11" y="-14" width="22" height="28" fill="#4a3426" stroke="#000" strokeWidth="1.2" />
+    <rect x="-1.2" y="-8" width="2.4" height="12" fill="#e6b800" />
+    <rect x="-5" y="-4.5" width="10" height="2.4" fill="#e6b800" />
+  </g>
+);
+
+export const Jug = () => (
+  <g>
+    <path d="M-8,-12 h16 v4 q6,6 4,18 h-24 q-2,-12 4,-18 Z" fill="#e8a33d" stroke="#000" strokeWidth="1.2" />
+    <path d="M10,-6 q8,2 4,10" fill="none" stroke="#000" strokeWidth="1.2" />
+    <text y="7" textAnchor="middle" fontSize="6" fontWeight="600">
+      CIDER
+    </text>
+  </g>
+);
+
+export const Cow = () => (
+  <g>
+    <rect x="-20" y="-12" width="34" height="18" rx="6" fill="#fff" stroke="#000" strokeWidth="1.2" />
+    <circle cx="-8" cy="-4" r="4" fill="#000" />
+    <circle cx="6" cy="1" r="3" fill="#000" />
+    <rect x="12" y="-18" width="12" height="11" rx="3" fill="#fff" stroke="#000" strokeWidth="1.2" />
+    <circle cx="20" cy="-14" r="1" fill="#000" />
+    {[-16, -8, 4, 10].map((x) => (
+      <line key={x} x1={x} y1="6" x2={x} y2="16" stroke="#000" strokeWidth="2" />
+    ))}
+  </g>
+);
+
+/** A written promise to pay later. */
+export const IOU = ({ text = "IOU" }: { text?: string }) => (
+  <g>
+    <rect x="-14" y="-9" width="28" height="18" fill="#fffbe6" stroke="#000" strokeWidth="1" />
+    <text y="3" textAnchor="middle" fontSize="7.5" fontWeight="600">
+      {text}
+    </text>
+  </g>
+);
+
+export const Chest = ({ open = false }: { open?: boolean }) => (
+  <g>
+    <rect x="-20" y="-6" width="40" height="22" fill="#8a5a2b" stroke="#000" strokeWidth="1.2" />
+    <path
+      d={open ? "M-20,-6 L-24,-26 L16,-26 L20,-6 Z" : "M-20,-6 Q0,-20 20,-6 Z"}
+      fill="#a06a35"
+      stroke="#000"
+      strokeWidth="1.2"
+      style={{ transition: "d 500ms" }}
+    />
+    <rect x="-3" y="-2" width="6" height="7" fill="#e6b800" stroke="#000" strokeWidth=".8" />
+  </g>
+);
+
+export const Tick = () => <path d="M-6,0 L-2,5 L7,-6" fill="none" stroke="#2a9d5b" strokeWidth="3" strokeLinecap="round" />;
+
+export const Cross = () => (
+  <path d="M-5,-5 L5,5 M5,-5 L-5,5" fill="none" stroke="#d6452f" strokeWidth="3" strokeLinecap="round" />
+);
