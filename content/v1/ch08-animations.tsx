@@ -3,7 +3,7 @@
 import Figure from "@/components/anim/Figure";
 import Player from "@/components/anim/Player";
 import { Fade, Place } from "@/components/anim/Things";
-import { Bar, Cotton, Spindle, TONE } from "./ch07-animations";
+import { Bar, Cotton, Spindle, TONE } from "@/components/anim/Workshop";
 
 const NEW = "#4ec27f"; // fresh value, the same green family as Sam
 

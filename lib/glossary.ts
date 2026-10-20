@@ -2,6 +2,21 @@
  * The running glossary. Each chapter lists the terms it introduces; the
  * glossary page shows every term with a link back to where it first appears.
  */
+import { TERMS as V1C05 } from "@/content/v1/ch05.terms";
+import { TERMS as V1C06 } from "@/content/v1/ch06.terms";
+import { TERMS as V1C07 } from "@/content/v1/ch07.terms";
+import { TERMS as V1C08 } from "@/content/v1/ch08.terms";
+import { TERMS as V1C09 } from "@/content/v1/ch09.terms";
+import { TERMS as V1C10 } from "@/content/v1/ch10.terms";
+import { TERMS as V1C11 } from "@/content/v1/ch11.terms";
+import { TERMS as V1C12 } from "@/content/v1/ch12.terms";
+import { TERMS as V1C13 } from "@/content/v1/ch13.terms";
+import { TERMS as V1C14 } from "@/content/v1/ch14.terms";
+import { TERMS as V1C15 } from "@/content/v1/ch15.terms";
+import { TERMS as V1C16 } from "@/content/v1/ch16.terms";
+import { TERMS as V1C17 } from "@/content/v1/ch17.terms";
+import { TERMS as V1C18 } from "@/content/v1/ch18.terms";
+
 export interface Term {
   term: string;
   /** Kid-level meaning, one sentence. */
@@ -181,6 +196,20 @@ const CORE = {
  */
 export const GLOSSARY = {
   ...CORE,
+  ...V1C05,
+  ...V1C06,
+  ...V1C07,
+  ...V1C08,
+  ...V1C09,
+  ...V1C10,
+  ...V1C11,
+  ...V1C12,
+  ...V1C13,
+  ...V1C14,
+  ...V1C15,
+  ...V1C16,
+  ...V1C17,
+  ...V1C18,
 };
 
 export type TermId = keyof typeof GLOSSARY;

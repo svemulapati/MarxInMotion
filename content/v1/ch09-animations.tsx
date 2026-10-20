@@ -3,7 +3,7 @@
 import Figure from "@/components/anim/Figure";
 import Player from "@/components/anim/Player";
 import { Bubble, Fade } from "@/components/anim/Things";
-import { Bar, TONE, Yarn } from "./ch07-animations";
+import { Bar, TONE, Yarn } from "@/components/anim/Workshop";
 
 /* ─────────────────────────────────────────────────────────────
  * 9.1 · Sam's day, cut in two (necessary and surplus labour time)

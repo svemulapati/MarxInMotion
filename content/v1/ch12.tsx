@@ -11,8 +11,8 @@ const chapter: ChapterContent = {
         of his 3-coin wage. The other 6 hours are extra, and the extra belongs to Mr. Moneybags.
       </p>
       <p>
-        Mr. Moneybags wants more. Once he would simply have made the day longer. But Sam is already worn out, and the
-        town has passed a law: twelve hours, no more.
+        Mr. Moneybags wants more. Once he would simply have made the day longer. But Sam is already worn out, and after
+        the long fight over the clock the workers won&apos;t give up a single hour more.
       </p>
       <p>
         Then something odd happens. Mia gets a new oven and bread gets cheaper. The tailors speed up and clothes get

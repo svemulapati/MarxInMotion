@@ -151,7 +151,7 @@ export function PaidAndUnpaid() {
           ms: 5400,
         },
         {
-          caption: "Later the unpaid part gets shared out: profit for Mr. Moneybags, interest for Bea the banker, rent for Grandpa Ned. Marx says all of it is, at bottom, unpaid labour.",
+          caption: "Later the unpaid part gets shared out: profit for Mr. Moneybags, interest for Bea the banker, rent for the landlord. Marx says all of it is, at bottom, unpaid labour.",
           ms: 5400,
         },
       ]}
@@ -205,7 +205,7 @@ export function PaidAndUnpaid() {
             <Figure who="sam" x={225} y={200} scale={0.8} style={{ opacity: s <= 3 ? 1 : 0, transition: "opacity 500ms" }} />
             <Figure who="moneybags" x={s === 4 ? 205 : 310} y={200} scale={0.8} />
             <Figure who="bea" x={265} y={200} scale={0.8} style={{ opacity: s === 4 ? 1 : 0, transition: "opacity 500ms" }} />
-            <Figure who="ned" x={325} y={200} scale={0.8} style={{ opacity: s === 4 ? 1 : 0, transition: "opacity 500ms" }} />
+            <Figure name="Landlord" x={325} y={200} scale={0.8} style={{ opacity: s === 4 ? 1 : 0, transition: "opacity 500ms" }} />
 
             <Fade show={s >= 1 && s <= 3}>
               <g transform="translate(225 92)">
