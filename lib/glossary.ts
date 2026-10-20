@@ -12,7 +12,7 @@ export interface Term {
   firstSeen: string;
 }
 
-export const GLOSSARY = {
+const CORE = {
   "political-economy": {
     term: "Political economy",
     kid: "The old name for the study of how people make, swap and share things.",
@@ -174,6 +174,14 @@ export const GLOSSARY = {
     firstSeen: "1-4",
   },
 } satisfies Record<string, Term>;
+
+/**
+ * Chapters from Volume I, Chapter 5 on keep their new terms next to their
+ * content, in content/vN/chNN.terms.ts, and are merged in here.
+ */
+export const GLOSSARY = {
+  ...CORE,
+};
 
 export type TermId = keyof typeof GLOSSARY;
 
