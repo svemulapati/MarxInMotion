@@ -115,7 +115,7 @@ const chapter: ChapterContent = {
     "Marx called the Tableau the most brilliant idea political economy had produced up to its time.",
   ],
 
-  terms: ["sterile-class"],
+  terms: ["productive-class"],
 
   source: (
     <p>

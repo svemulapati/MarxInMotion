@@ -1,11 +1,11 @@
 import type { Term } from "@/lib/glossary";
 
 export const TERMS = {
-  "sterile-class": {
-    term: "Sterile class",
-    kid: "Quesnay's name for craftsmen and makers, because he thought only farming could make a surplus.",
+  "productive-class": {
+    term: "Productive class",
+    kid: "Quesnay's name for the farmers, because he thought only farming made something extra.",
     grownUp:
-      "In the Physiocrats' Tableau Économique, the manufacturers and artisans, whose labour was held to add no surplus over its own costs. Marx rejects the label but uses Quesnay's three classes to trace the circulation of money and goods.",
+      "In the Physiocrats' Tableau Économique, the farming tenants, held to be the only class whose labour yields a net product. Marx uses Quesnay's three classes (productive, landowning, sterile) to trace how money and goods circulate in a year, while rejecting the idea that only land yields a surplus.",
     firstSeen: "4-6",
   },
 } satisfies Record<string, Term>;
