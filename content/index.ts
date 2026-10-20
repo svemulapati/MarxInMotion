@@ -105,6 +105,30 @@ import v3c49 from "./v3/ch49";
 import v3c50 from "./v3/ch50";
 import v3c51 from "./v3/ch51";
 import v3c52 from "./v3/ch52";
+import v4c1 from "./v4/ch01";
+import v4c2 from "./v4/ch02";
+import v4c3 from "./v4/ch03";
+import v4c4 from "./v4/ch04";
+import v4c5 from "./v4/ch05";
+import v4c6 from "./v4/ch06";
+import v4c7 from "./v4/ch07";
+import v4c8 from "./v4/ch08";
+import v4c9 from "./v4/ch09";
+import v4c10 from "./v4/ch10";
+import v4c11 from "./v4/ch11";
+import v4c12 from "./v4/ch12";
+import v4c13 from "./v4/ch13";
+import v4c14 from "./v4/ch14";
+import v4c15 from "./v4/ch15";
+import v4c16 from "./v4/ch16";
+import v4c17 from "./v4/ch17";
+import v4c18 from "./v4/ch18";
+import v4c19 from "./v4/ch19";
+import v4c20 from "./v4/ch20";
+import v4c21 from "./v4/ch21";
+import v4c22 from "./v4/ch22";
+import v4c23 from "./v4/ch23";
+import v4c24 from "./v4/ch24";
 
 /** Written chapters, keyed "vol-n". Must match READY in lib/kapital.ts. */
 export const CONTENT: Record<string, ChapterContent> = {
@@ -214,4 +238,28 @@ export const CONTENT: Record<string, ChapterContent> = {
   "3-50": v3c50,
   "3-51": v3c51,
   "3-52": v3c52,
+  "4-1": v4c1,
+  "4-2": v4c2,
+  "4-3": v4c3,
+  "4-4": v4c4,
+  "4-5": v4c5,
+  "4-6": v4c6,
+  "4-7": v4c7,
+  "4-8": v4c8,
+  "4-9": v4c9,
+  "4-10": v4c10,
+  "4-11": v4c11,
+  "4-12": v4c12,
+  "4-13": v4c13,
+  "4-14": v4c14,
+  "4-15": v4c15,
+  "4-16": v4c16,
+  "4-17": v4c17,
+  "4-18": v4c18,
+  "4-19": v4c19,
+  "4-20": v4c20,
+  "4-21": v4c21,
+  "4-22": v4c22,
+  "4-23": v4c23,
+  "4-24": v4c24,
 };

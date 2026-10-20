@@ -38,7 +38,7 @@ export interface Volume {
 /** Chapter keys from..to of one volume, e.g. span(2, 1, 6) = "2-1".."2-6". */
 const span = (vol: number, from: number, to: number) => Array.from({ length: to - from + 1 }, (_, i) => `${vol}-${from + i}`);
 
-const READY = new Set<string>([...span(1, 1, 33), ...span(2, 1, 21), ...span(3, 1, 52)]);
+const READY = new Set<string>([...span(1, 1, 33), ...span(2, 1, 21), ...span(3, 1, 52), ...span(4, 1, 24)]);
 
 const make = (vol: VolumeNumber, titles: string[]): Chapter[] =>
   titles.map((title, i) => ({ vol, n: i + 1, title, status: READY.has(`${vol}-${i + 1}`) ? "ready" : "soon" }));

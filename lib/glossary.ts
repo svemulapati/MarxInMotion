@@ -104,6 +104,30 @@ import { TERMS as V3C49 } from "@/content/v3/ch49.terms";
 import { TERMS as V3C50 } from "@/content/v3/ch50.terms";
 import { TERMS as V3C51 } from "@/content/v3/ch51.terms";
 import { TERMS as V3C52 } from "@/content/v3/ch52.terms";
+import { TERMS as V4C01 } from "@/content/v4/ch01.terms";
+import { TERMS as V4C02 } from "@/content/v4/ch02.terms";
+import { TERMS as V4C03 } from "@/content/v4/ch03.terms";
+import { TERMS as V4C04 } from "@/content/v4/ch04.terms";
+import { TERMS as V4C05 } from "@/content/v4/ch05.terms";
+import { TERMS as V4C06 } from "@/content/v4/ch06.terms";
+import { TERMS as V4C07 } from "@/content/v4/ch07.terms";
+import { TERMS as V4C08 } from "@/content/v4/ch08.terms";
+import { TERMS as V4C09 } from "@/content/v4/ch09.terms";
+import { TERMS as V4C10 } from "@/content/v4/ch10.terms";
+import { TERMS as V4C11 } from "@/content/v4/ch11.terms";
+import { TERMS as V4C12 } from "@/content/v4/ch12.terms";
+import { TERMS as V4C13 } from "@/content/v4/ch13.terms";
+import { TERMS as V4C14 } from "@/content/v4/ch14.terms";
+import { TERMS as V4C15 } from "@/content/v4/ch15.terms";
+import { TERMS as V4C16 } from "@/content/v4/ch16.terms";
+import { TERMS as V4C17 } from "@/content/v4/ch17.terms";
+import { TERMS as V4C18 } from "@/content/v4/ch18.terms";
+import { TERMS as V4C19 } from "@/content/v4/ch19.terms";
+import { TERMS as V4C20 } from "@/content/v4/ch20.terms";
+import { TERMS as V4C21 } from "@/content/v4/ch21.terms";
+import { TERMS as V4C22 } from "@/content/v4/ch22.terms";
+import { TERMS as V4C23 } from "@/content/v4/ch23.terms";
+import { TERMS as V4C24 } from "@/content/v4/ch24.terms";
 
 export interface Term {
   term: string;
@@ -386,6 +410,30 @@ export const GLOSSARY = {
   ...V3C50,
   ...V3C51,
   ...V3C52,
+  ...V4C01,
+  ...V4C02,
+  ...V4C03,
+  ...V4C04,
+  ...V4C05,
+  ...V4C06,
+  ...V4C07,
+  ...V4C08,
+  ...V4C09,
+  ...V4C10,
+  ...V4C11,
+  ...V4C12,
+  ...V4C13,
+  ...V4C14,
+  ...V4C15,
+  ...V4C16,
+  ...V4C17,
+  ...V4C18,
+  ...V4C19,
+  ...V4C20,
+  ...V4C21,
+  ...V4C22,
+  ...V4C23,
+  ...V4C24,
 };
 
 export type TermId = keyof typeof GLOSSARY;

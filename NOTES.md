@@ -2,6 +2,421 @@
 
 Details that are uncertain or need a human check. Newest first.
 
+## Volume IV (Theories of Surplus-Value), all 24 chapters
+
+Written in parallel and merged on 2026-10-20, each checked against marxists.org (Progress
+Publishers, three parts) first. Every page carries a template banner: a critical history, not part
+of Capital proper, first edited by Kautsky (1905 to 1910). Items that most need a human eye:
+
+- **Corrections to my own worker brief, made from the source:** Marx praises Ricardo's
+  "scientific honesty" (not "impartiality"); Anderson went "entirely" unnoticed; Marx's singer and
+  Milton examples are in the addenda, not Ch 4, so Ch 4 uses only the chapter's own examples.
+- **Source typos noted:** Ch 12 Table A (mine III printed 70 for 75, mine II rent 13 for 10);
+  Ch 23's heading misspells Cherbuliez's title ("au" for "ou"); the marxists.org text dates the
+  Wealth of Nations 1775 in an aside (the page uses 1776).
+- **Outside Marx's text:** Ch 13 uses one step from Ricardo's Principles; several dates (Corn Laws
+  repeal 1846, Okishio 1961, Keynes 1936) are general history.
+- **Glossary:** "sterile class" is defined once (Ch 2); Ch 6 has "productive class" instead.
+- **Labels not Marx's:** "Ricardian socialists" is historians' term; the page says so.
+- **Tone:** Ch 7 (Linguet's comparison of wage labour with slavery) and Ch 19 (Marx's harsh words
+  on Malthus, not quoted) deserve a read.
+- **Critics** throughout are summarised in our own words.
+
+### Volume IV, Chapter 24
+
+- Verified: Jones, "An Essay on the Distribution of Wealth, and on the Sources of Taxation",
+  London, 1831; "An Introductory Lecture on Political Economy", London, 1833; "Text-book of
+  Lectures on the Political Economy of Nations", Hertford, 1852. Marx: "a sense of the historical
+  differences in modes of production", lacking "since Sir James Steuart"; labour or serf rents,
+  produce rents, metayer rents, ryot rents; "economical structure of nations"; labourers
+  transferred from customers who pay "out of their revenues" to employers; "a state of things may
+  hereafter exist ... under which the labourers and the owners of accumulated stock, may be
+  identical"; "He by no means regards capitalist relations as eternal"; Jones's merit on rent
+  growing with agricultural capital; his "historical blunders" (Edinburgh Review).
+- Simplified: Jones's full list of peasant rents (cottier rents etc.) is shortened to five forms.
+- Critic note on the historical school and the 1880s "battle of methods" is general history.
+- Ch 24 closes the bonus volume and points to the wrap-up chapter.
+
+### Volume IV, Chapter 23
+
+- Verified: Marx's heading cites "Richesse au pauvreté, Paris, 1841 (Reprint of the Geneva
+  edition) [published under the title Riche ou pauvre]". The real title is "Richesse ou pauvreté";
+  the page uses the correct spelling.
+- Verified: Marx doubts Cherbuliez deserves his own section since "most of what he writes is based
+  on Sismondi"; the "law of appropriation" whose principle is "the exclusive right of every worker
+  to the product of his labour"; Marx: a law of "expropriation" not of "appropriation"; the relative
+  fall of the part of capital spent on labour and "a continuous relative redundancy of the working
+  population"; heading "Cherbuliez Eclectically Combines Mutually Exclusive Propositions of Ricardo
+  and Sismondi".
+- Invented and labelled: the capital sizes 24, 36, 48 with wages 3 in 23.2.
+
+### Volume IV, Chapter 22
+
+- Verified: George Ramsay, "An Essay on the Distribution of Wealth", Edinburgh, 1836; Marx: he
+  "does in fact make the distinction between constant and variable capital"; fixed capital
+  includes "the seed of the agriculturist, and the raw material of the manufacturer", manure and
+  fuel; circulating capital "consists exclusively of subsistence and other necessaries advanced to
+  the workmen"; the wage advance is "a convenience rendered necessary by the deplorable poverty of
+  the mass of the people"; capital "not an absolute, but merely an 'accidental', historical
+  condition".
+- Workshop numbers (spindle wear 4, cotton 20, wage 3) are this site's, from CONTINUITY.md.
+- Ramsay's views on surplus-value, profit and gross/net revenue are not animated.
+- Critic note "admirers of Ramsay ... entrepreneur" is general knowledge; please confirm.
+
+### Volume IV, Chapter 21
+
+- Verified: anonymous pamphlet "The Source and Remedy of the National Difficulties" (London, 1821),
+  "an important advance on Ricardo"; "only six hours instead of twelve"; "Wealth ... is disposable
+  time, and nothing more"; Hodgskin, "Labour Defended against the Claims of Capital" (1825) and the
+  "unproductiveness of capital"; "coexisting labour"; Ravenstone: without capital, necessaries in
+  abundance but no machinery or luxury; Marx: they "confuse the contradictory form of this
+  development with its content" and are "determined to sacrifice the fruits".
+- Bray (1839) is mentioned in the source note only.
+- "Ricardian socialists" is a later historians' label, not Marx's (stated on the page).
+- From general knowledge, please confirm: Noel Thompson as a historian questioning the label;
+  Hodgskin as closer to a free-market radical.
+
+### Volume IV, Chapter 20
+
+- Verified: Mill (Elements, 1821) "the first to present Ricardo's theory in systematic form"; with
+  him "the disintegration of the Ricardian school ... begins"; the "manure" of contradictions;
+  Mill's wine "increased in value one-tenth by being kept a year" (quoted by Bailey, Critical
+  Dissertation, 1825); Bailey: "no human being ... has approached the wine"; McCulloch called an
+  "unscrupulous blockhead"; Conclusion: the school "declines at two points" (exchange between
+  capital and labour; the general rate of profit, identifying surplus-value and profit).
+- Only Mill and Bailey are animated; Torrens and McCulloch are named in prose.
+- Invented and labelled: Ned's cider standing in for Mill's wine; the two-workshop scene. No
+  numeric rates are shown.
+- Critics are this site's summaries; "historians think disintegration too harsh" is general,
+  no specific author named.
+
+### Volume IV, Chapter 19
+
+- Verified in the text: Malthus works listed by Marx, with the Principles dated "1820 or
+  thereabout"; Marx's charges of "skilful plagiarism" and of representing the landlords; but also
+  "a certain theoretical, speculative interest" and "a correct surmise".
+- Verified: profit as "a nominal surcharge over and above the cost of the commodity"; "buyers who
+  are not sellers"; "landlords, pensioners, sinecurists, priests, etc., not to forget their menial
+  servants and retainers"; the "third class of purchasers, a deus ex machina".
+- Marx's harshest phrase ("parasites and gluttonous drones") is not quoted on the page; the page
+  says only that Marx is harsh.
+- The 27-in, 30-out figures are the site's workshop numbers, not Malthus's examples.
+- General history: Keynes's praise of Malthus (Essays in Biography, 1933); "Parson" and
+  "Courtier" are gray one-off figures standing for Marx's priests and sinecurists.
+
+### Volume IV, Chapter 18
+
+- Verified in the text: Ricardo's machinery example (Chapter XXXI "On Machinery", "added to his
+  third edition"): £20,000 capital, £7,000 fixed, £13,000 circulating, £2,000 profit, £15,000
+  gross; half the men build a machine worth £7,500; £5,500 left; labour formerly employed by
+  £7,500 "would become redundant".
+- Verified: Marx: the section "bears witness to his honesty"; Ricardo expressed tendencies
+  "consistently and ruthlessly"; "Barton has very great merit".
+- Verified: Barton, Observations… (London, 1817): "The demand for labour depends on the increasing
+  of circulating, and not of fixed capital"; British muslin uses "at least a hundred, probably a
+  thousand times" the fixed capital of Indian muslin.
+- Verified: Marx's correction that raw materials are circulating capital but are not exchanged
+  against living labour.
+- General history: the third edition's date (1821); Acemoglu and Restrepo (critic section).
+- The 13 worker figures in 18.1 stand for the £13,000 (one per thousand) and are illustrative.
+
+### Volume IV, Chapter 17
+
+- Verified in the text: the conception "really belongs to [James] Mill", adopted by Ricardo "from
+  the tedious Say"; "products are exchanged against products"; Mill's "metaphysical equilibrium of
+  sellers and buyers"; Ricardo's "any amount of capital can be employed productively in any
+  country".
+- Verified: "Crisis is nothing but the forcible assertion of the unity of phases of the production
+  process which have become independent of each other."
+- Verified: workers "can only expand their consumption within very narrow limits"; expansion driven
+  by "the unlimited desire of the capitalists to enrich themselves"; over-production "is only
+  concerned with demand that is backed by ability to pay".
+- The chapter's long first sections (constant capital, amortisation of fixed capital, capitalised
+  surplus-value) are left out for clarity; the source note says so.
+- Leo keeping coins "worried about the winter" and the shoes/coats scenes are this site's story.
+- General history, not Marx: Keynes 1936 and the new classical school (critic section).
+
+### Volume IV, Chapter 16
+
+- Verified in the text: Ricardo's example as quoted by Marx: goods £720, wages £240 rising to
+  £274 5s., profit £480 falling to £445 15s. (from Ricardo's Principles, pp. 116-17).
+- Verified: falling profits "bound up with the continuous rise in the rate of rent", food dearer
+  "because agriculture is becoming less productive" (Marx's summary of Ricardo).
+- Verified: the rate falls "not because labour becomes less productive, but because it becomes
+  more productive"; Ricardo's theory "rests on two false presuppositions" (rent from diminishing
+  productivity of agriculture; rate of profit equal to rate of surplus-value).
+- Made up and labelled: animation 16.2 doubles the workshop's constant capital twice
+  (24, 48, 96) giving 11%, 6%, 3%.
+- General history, not Marx: Corn Laws repeal in 1846 (critic section); Okishio 1961.
+- Critics are summarised in our own words and need a fairness read.
+
+### Volume IV, Chapter 15
+
+- Verified: "Nowhere does Ricardo consider surplus-value separately and independently from its
+  particular forms"; profit and surplus-value identical only when capital advanced is laid out in
+  wages; confusion of value with cost-price; "Quantity of labour and value of labour are two
+  different things"; the "natural price of labour"; the working day as "a fixed magnitude" and "a
+  given magnitude", and the "elastic" reply with Marx's example (10 + 2 hours, lengthened by 2 2/5,
+  worker gets 2, surplus 2/5); Ricardo analyses relative surplus-value under the name of profit;
+  wages and surplus-value in inverse proportion, wages the determinant; "one of Ricardo's great
+  merits that he examined relative or proportionate wages"; Ricardo's "ten shillings ... eight"
+  example.
+- Workshop numbers (24 / 3 / 3, 6 coins of new value) follow CONTINUITY.md; the 2-coin wage and the
+  14-hour day with 3½ coins each are made up and labelled.
+- General knowledge, not from the chapter: Sraffa as editor of Ricardo's works and the
+  neo-Ricardian critique.
+- Critics (neo-Ricardians; mainstream wage and profit theory) are summaries in my own words.
+
+### Volume IV, Chapter 14
+
+- Verified: Smith's definition "the price paid for the use of land" (land = every power of nature,
+  water included); rent "naturally a monopoly price" and Marx's agreement; Part I "Of the Produce of
+  Land which always affords Rent" with Smith's population argument; Marx: "Why 'always' and
+  'necessarily', has not been shown"; the section title on physiocratic elements; Part II on products
+  that "sometimes may, and sometimes may not" afford rent; wages and profit as causes, rent as effect
+  of price, and Marx's remark that Smith "progresses from an assertion to its very opposite"; rent
+  commonly a third of gross produce on farms, a fifth very great and a tenth common in coal mines;
+  metal mines depend more on fertility, coal mines on situation.
+- General history, not from the chapter: The Wealth of Nations published 1776.
+- Critics (Smith's admirers; modern rent theory) are summaries in my own words.
+
+### Volume IV, Chapter 13
+
+- Verified: Ricardo's "colonial theory" opening; land "not yet appropriated" ("which Ricardo
+  entirely forgets later on"); three lands giving 100, 90, 80 quarters, No. 1 bearing 10 quarters
+  of rent once No. 2 is farmed; "Corn is not high because a rent is paid, but a rent is paid because
+  corn is high" and landlords foregoing rent; Marx: no difference for differential rent, "But this
+  does not apply to absolute rent"; Ricardo on improvements and organic composition.
+- Outside this chapter: the next step of Ricardo's example (No. 1 pays 20, No. 2 pays 10 when No. 3
+  is farmed) is from Ricardo's Principles, Ch. II, not quoted by Marx here; flagged in the source note.
+- Made up and labelled: the 6 and 7 coin prices in 13.2.
+- Ricardo described as a stockbroker turned economist (general history).
+- Critics (Ricardo's defenders on marginal land; Henry George) are summaries in my own words.
+
+### Volume IV, Chapter 12
+
+- Verified: the chapter uses coal mines, and Marx says a quarter of wheat "can always be
+  substituted for a ton of coal"; Table A (three classes, £100 each, 60 / 65 / 75 tons, market-value
+  £2, rents £10, £20, £40, absolute £30 + differential £40 = £70); Table B (mine IV with 92½ tons,
+  II reduced to £50 and 32½ tons, market-value £1 11/13, rents £5, £28 6/13, £60 10/13, total
+  £94 3/13 on £250); Marx's summary that absolute rent = value over cost-price and differential rent
+  = market-value over individual value; the descending line III to II to I with prices £1 12s,
+  £1 16 12/13s, £2; "a great multiplicity of combinations".
+- Source typos: the marxists.org Table A prints mine III's tons as 70 and mine II's differential
+  rent as 13. Marx's prose and totals (75 tons; II's differential rent £10; 200 tons; £40 total
+  differential) are used instead.
+- Table B's classes are relabelled in Marx's table (I = old II and so on); the page keeps the mine
+  names used in Marx's prose (II, III, IV).
+- Not animated: Tables C, D and E, and the sections on organic composition and the rate of profit.
+- Critics (Ricardo's defenders; modern rent theory) are summaries in my own words.
+
+### Volume IV, Chapter 11
+
+- Source: Theories of Surplus-Value, Part II, Chapter XI, "Ricardo's Theory of Rent", Progress
+  Publishers edition on marxists.org (ch11.htm), plus Chapter IX section 5 ("Ricardo's Denial of
+  Absolute Rent", ch09.htm). The marxists.org Chapter XI is short (three sections).
+- Verified in the text: Ricardo "concerned with the period 1770-1815 ... during which wheat prices
+  were constantly rising"; the three assumptions shared by Anderson and Ricardo (no landed property
+  shackling investment; better to worse land, absolute for Ricardo, relative for Anderson; capital
+  always available); the English law of enclosures; England "the most revolutionary country in the
+  world"; differential rent as excess profit, "fluid" in industry and fixed on the land; Ricardo's
+  definition "the original and indestructible powers of the soil" and Marx's reply that land is "the
+  product of an historical and natural process"; Ricardo denies absolute rent because he assumes
+  average prices must equal values.
+- Marx on Carey (Ch IX): the claim that the most fertile land is not cultivated first "has nothing to
+  do with Ricardo", since land is most fertile only under existing conditions. The critic section
+  reflects this.
+- Invented: Ned's thirty years of draining and the Landlord's letter (story); the size of the extra
+  in 11.2 (no numbers shown).
+- Critics are summaries in our own words and need a fairness read.
+
+### Volume IV, Chapter 10
+
+- Source: Theories of Surplus-Value, Part II, Chapter X, "Ricardo's and Adam Smith's Theory of
+  Cost-Price (Refutation)", Progress Publishers edition on marxists.org (ch10.htm).
+- In these notebooks "cost-price" means cost plus average profit, i.e. Volume III's price of
+  production. The page and glossary say so.
+- Verified in the text: two movements, values transformed into cost-prices, and market-prices
+  rotating around the cost-price, which "now appears as the natural price"; Ricardo examines the
+  latter and "at times unconsciously confuses with the other"; in Chapter XXX Ricardo "expressly
+  identifies natural price, that is, cost-price, with natural value"; the error dates from his
+  Chapter I, where he brought in the general rate of profit; he identified profit with surplus-value;
+  Smith's "false assumption, that the three elements independently determine the value"; Ricardo's
+  "correct assumption" that the average rate of profit determines cost-prices; Smith's chapter on
+  wages shows "the true nature of surplus-value".
+- Invented and labelled: values 110 and 130 and the cost-price 120 in 10.1. Animation 10.2 uses the
+  workshop numbers (6 coins of new value, wage 3, surplus 3).
+- Critics are summaries in our own words (Sraffa 1960, Steedman 1977; historians who read Ricardo's
+  labour theory as a deliberate approximation) and need a fairness read.
+
+### Volume IV, Chapter 9
+
+- Source: Theories of Surplus-Value, Part II, Chapter IX, "Notes on the History of the Discovery of
+  the So-Called Ricardian Law of Rent", Progress Publishers edition on marxists.org (ch09.htm).
+- Verified in the text: Anderson "a practical farmer"; his first work on rent "appeared in 1777"
+  (An Enquiry into the Nature of the Corn Laws, Edinburgh, 1777); A Calm Investigation (London,
+  1801); the 1815 works of West and Malthus; Ricardo's preface treats West and Malthus as the
+  originators; Malthus "plagiarist by profession"; Anderson "a decided enemy of the theory of
+  population"; Anderson explained the corn price rise after 1750 by legislation; Ricardo's
+  "scientific honesty" and "production for the sake of production"; Marx's correction of Roscher:
+  Anderson's theory went not "almost" but "entirely" unnoticed; the wheat price table 1641 to 1859.
+- The brief suggested the phrase "scientific impartiality"; the text says "scientific honesty", which
+  is what the page uses.
+- Half-century averages in 9.2 are Marx's table rounded to whole shillings: 44s 2d, 35s 10d (shown
+  36), 45s 3d, 69s 6d (shown 70), 53s 5d.
+- General history, not in the chapter: Ricardo's Principles dated 1817; Parliament arguing about corn
+  in 1815; Ricardo as a stockbroker (story only).
+- Critics are summaries in our own words (Keynes's admiration for Malthus; simultaneous discovery
+  around 1815) and need a fairness read.
+
+### Volume IV, Chapter 8
+
+- Source: Theories of Surplus-Value, Part II, Chapter VIII, "Herr Rodbertus. New Theory of Rent.
+  (Digression)", Progress Publishers edition on marxists.org (ch08.htm).
+- Verified in the text: Rodbertus's "Dritter Brief an von Kirchmann", Berlin, 1851; "no raw
+  material enters into agricultural calculations" because the German peasant does not reckon seeds
+  and feeding stuffs as costs; Marx: "in fact he miscalculates"; machinery etc. enter agriculture
+  from industry just as raw materials enter industry; Rodbertus's scheme (agriculture 100 machinery,
+  100 wages, 50 surplus-value = 1/4; industry with raw materials taken as 100 gives 16 2/3 per cent);
+  capitalists "like hostile brothers, divide among themselves the loot"; agriculture's value above
+  its average price because "manual labour is still relatively dominant"; "a historical difference
+  which can disappear"; private ownership of land enables owners to "snatch, intercept and seize the
+  excess surplus-value"; manufacture tenfold vs agriculture "perhaps" doubled.
+- Invented and labelled on the page: the 20 / 30 / 40 surplus-values and 25 / 15 split in 8.2.
+- Not from Marx's chapter: Engels answering Rodbertus's admirers in his 1885 preface to Volume II
+  (general history, believed correct; please confirm).
+- Critics are summaries in our own words and need a fairness read.
+
+### Volume IV, Chapter 7
+
+- Verified in the text: Linguet, Théorie des lois civiles (London, 1767); Marx normally excludes
+  socialist writers, but "Linguet however is not a socialist"; his polemics are given
+  "half-seriously, half-ironically" a reactionary appearance; he "defends slavery against
+  wage-labour"; "l'esprit des lois, c'est la propriété" against Montesquieu; "He is bound to no
+  one; but also no one is bound to him"; dismissed "with the coldest indifference"; the drop of
+  water in a great river; "they have one, and the most terrible, the most imperious of masters,
+  that is, need"; "They live only by hiring out their arms... Is that to be free?"; the slave was
+  "precious to his master because of the money he had cost him"; chains "made of the same
+  material and only differently coloured... both are equally forged by necessity"; the only
+  economists Linguet dealt with were the Physiocrats.
+- Tone: the slavery comparison is presented as Linguet's half-ironic provocation, with Marx's
+  framing, and with a critics section that rejects the comparison. Wording was checked so the page
+  does not attribute to Marx anything he does not say in this chapter. Worth a review for tone.
+- From general knowledge, not Marx: Linguet's full name, profession (lawyer) and dates
+  (1736 to 1794).
+- `wage-slavery` is a later polemical term; the glossary says Linguet's image is an early form of
+  the idea, not that he used the word.
+- Critics (defenders of free labour; historians of slavery) are our own summaries.
+
+### Volume IV, Chapter 6
+
+- Verified in the text: Marx's version of the Tableau (5,000 millions annual gross product, in
+  pounds of Tours, i.e. livres); the farmer pays 2,000 millions rent; the landlord buys 1,000
+  millions of means of subsistence from the farmer and 1,000 millions of manufactures from the
+  sterile class, which buys 1,000 millions of means of subsistence from the farmer; the 2,000
+  millions end back with the farmer; this return "does not express reproduction"; "as if the farmer
+  had given the landlord tokens or tickets"; if rent were paid in kind no money would circulate;
+  the producer laying out £100 (£80 raw material etc. + £20 labour) whose return "expresses nothing
+  but continuous reproduction"; taxes as the same kind of return flow; the absurdity of explaining
+  profit by the capitalist "advancing" wages; the Tableau as "an extremely brilliant conception,
+  incontestably the most brilliant" up to then.
+- Corrected during writing: the artisans buy "means of subsistence" (food) from the farmer, not raw
+  materials; the page says food only.
+- Kept distinct from Vol II, Ch 19 (which introduces the Tableau and its three classes): this page
+  follows the money step by step and adds Marx's "tickets" distinction.
+- 1758 as the Tableau's date is general knowledge, as in Vol II, Ch 19.
+- Critic (Leontief, historians of thought) is our own summary.
+
+### Volume IV, Chapter 5
+
+- Verified in the text: Necker's De l'administration des finances de la France (1784) and Sur la
+  législation et le commerce des grains, quoted by Marx; productivity means the worker needs less
+  time to reproduce his wage "and therefore working more time for his employer unpaid"; "a hundred
+  thousand workers were required to do what is done today by eighty thousand"; the other twenty
+  thousand make products that "increase the pleasures and the luxuries of the rich"; wages
+  "proportionate to the necessary price of subsistence"; one class "whose wealth must always be
+  pretty nearly the same", another "whose wealth necessarily increases"; durable products
+  accumulate; "they must work today on pain of dying tomorrow"; Marx: Necker traces profit and rent
+  "entirely to surplus-labour" and has relative surplus-value in mind, but treats it as the
+  antithesis of poverty and wealth.
+- From general knowledge, not Marx's chapter: Necker as Swiss (Genevan) banker and French finance
+  minister, his dates (1732 to 1804), "the 1770s and 1780s", and 1775 as the date of the grain-trade
+  book.
+- Invented: the examples of luxuries in 5.1 (lace, carriages, gold clocks); Necker only says
+  "pleasures and luxuries". The ten figures stand for 100,000 workers.
+- Critic (rising real wages) is our own summary.
+
+### Volume IV, Chapter 4
+
+- Verified in the text: Smith "jumbled together" two definitions of productive labour, the first
+  being "the correct definition" (labour exchanged against capital, producing surplus-value); the
+  second, labour that "fixes and realises itself" in a "vendible commodity"; the actor "or even a
+  clown" employed by an entrepreneur is productive while "a jobbing tailor who comes to the
+  capitalist's house and patches his trousers" is not; "the cooks and waiters in a public hotel
+  are productive labourers" for the proprietor but unproductive "as menial servants"; "The same
+  labour can be productive when I buy it as a capitalist... and unproductive when I buy it as a
+  consumer"; Smith's list (sovereign, army, churchmen, lawyers, physicians, men of letters,
+  players, buffoons, musicians, opera-singers, opera-dancers); Garnier, Lauderdale, Say, Storch,
+  Destutt de Tracy, Senior; Senior's line that "the lawgiver of the Hebrews was an unproductive
+  labourer"; political economy "in its classical period... adopted a severely critical attitude"
+  to the state machinery.
+- Not used: the famous singer and Milton examples ("Milton produced Paradise Lost") are NOT in this
+  chapter on marxists.org; they are in the addenda on the productivity of capital. The page only
+  uses singers from Smith's own list.
+- `productive-labour` already exists (Vol I, Ch 16, which also covers the teacher example), so only
+  `unproductive-labour` is defined here.
+- Invented, labelled as the site's: Rosa the cook, the Tiny Town Inn, the coins in 4.2.
+- From general knowledge, not Marx: The Wealth of Nations' date (1776); the Progress Publishers
+  edition's dates (1963 to 1971) in the source note.
+- Critics are our own summaries (national accounts; the debate over where to draw the line).
+
+### Volume IV, Chapter 3
+
+- Verified in the text: Smith's two different definitions of value; "the quantity of labour which it
+  enables him to purchase or command"; Marx: "he makes wages the measure"; the "original state of
+  things" where "the whole produce of labour belongs to the labourer"; rent "makes the first
+  deduction" and profit "makes a second deduction", likewise "in all arts and manufactures";
+  "Adam Smith's great merit"; "the law of value changes into its opposite"; the contradiction
+  "shakes his confidence in the general law"; "Wages, profit, and rent, are the three original
+  sources of all revenue, as well as of all exchangeable value".
+- Date: the Chapter 1 text on marxists.org gives the Wealth of Nations as 1775 in an aside; it was
+  published in March 1776, which the page uses.
+- Covers mainly sections 1 to 3 of this very long chapter; the constant-capital error is only
+  mentioned (already animated in Volume II, Ch 19). Productive labour is left to Chapter 4.
+- Invented and labelled: the 12 / 3 / 3 / 6 sacks in 3.2. 3.1 and 3.3 use the workshop numbers.
+- Critics are summaries in our own words: Smith scholars on labour commanded as a welfare measure;
+  later mainstream cost-of-production and demand views.
+
+### Volume IV, Chapter 2
+
+- Verified in the text: "essentially the work of the Physiocrats", "the true fathers of modern
+  political economy"; transfer of the inquiry from circulation to direct production; "only that
+  labour is productive which creates a surplus-value"; minimum of wages, "strict nécessaire";
+  surplus-value as "a gift of nature"; agriculture the only productive labour and rent the only form
+  of surplus-value; profit as "a kind of higher wages"; the "sterile class" (Quesnay's three classes);
+  the feudal semblance and bourgeois essence; Mirabeau the elder; laissez faire, laissez aller and
+  the overthrow of Colbertism; Turgot as "the radical bourgeois minister"; the edict of February
+  1776 abolishing the guilds, revoked three months later; the single tax on rent; Turgot on the
+  separation of the labourer from the land.
+- Not from this chapter's text: Quesnay as a court doctor (Marx says "Dr. Quesnay"); "Physiocrat"
+  meaning "rule of nature" (general knowledge).
+- Invented and labelled: the 10 and 15 sack figures.
+- Not repeated here: the Tableau Économique (Volume II, Ch 19) and the avances (Volume II, Ch 10).
+- Critics are summaries in our own words: marginal productivity theory; Ronald Meek's historical
+  reading of the Physiocrats.
+
+### Volume IV, Chapter 1
+
+- Verified in the text: the "General Observation" (all economists examined surplus-value only in
+  the forms of profit and rent); Steuart's "positive profit" / "relative profit" quotation
+  ("implies no loss to any body", "a vibration of the balance of wealth between parties");
+  "the real value of the commodity, and the profit upon alienation"; Marx: "If therefore all
+  commodities were sold at their value, no profit would exist"; Steuart as "the rational expression
+  of the Monetary and Mercantile systems"; his service in showing the separation of the conditions
+  of production from labour-power, especially in agriculture; Steuart's book 1767.
+- Invented and labelled: the 30 and 33 coin sale, the 200-coin town total, the library framing.
+- Critics are summaries in our own words: Schumpeter (1954) on Steuart; mainstream gains from trade.
+
 ## Volume III, all 52 chapters
 
 Written in parallel and merged on 2026-10-20, each checked against marxists.org (International
