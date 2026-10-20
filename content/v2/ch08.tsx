@@ -130,7 +130,7 @@ const chapter: ChapterContent = {
     "Fixed and circulating is a different sorting from constant and variable.",
   ],
 
-  terms: ["fixed-capital", "circulating-capital", "wear-and-tear", "reserve-fund", "moral-depreciation"],
+  terms: ["fixed-capital", "circulating-capital", "wear-and-tear", "moral-depreciation"],
 
   source: (
     <p>

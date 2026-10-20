@@ -31,6 +31,27 @@ import { TERMS as V1C30 } from "@/content/v1/ch30.terms";
 import { TERMS as V1C31 } from "@/content/v1/ch31.terms";
 import { TERMS as V1C32 } from "@/content/v1/ch32.terms";
 import { TERMS as V1C33 } from "@/content/v1/ch33.terms";
+import { TERMS as V2C01 } from "@/content/v2/ch01.terms";
+import { TERMS as V2C02 } from "@/content/v2/ch02.terms";
+import { TERMS as V2C03 } from "@/content/v2/ch03.terms";
+import { TERMS as V2C04 } from "@/content/v2/ch04.terms";
+import { TERMS as V2C05 } from "@/content/v2/ch05.terms";
+import { TERMS as V2C06 } from "@/content/v2/ch06.terms";
+import { TERMS as V2C07 } from "@/content/v2/ch07.terms";
+import { TERMS as V2C08 } from "@/content/v2/ch08.terms";
+import { TERMS as V2C09 } from "@/content/v2/ch09.terms";
+import { TERMS as V2C10 } from "@/content/v2/ch10.terms";
+import { TERMS as V2C11 } from "@/content/v2/ch11.terms";
+import { TERMS as V2C12 } from "@/content/v2/ch12.terms";
+import { TERMS as V2C13 } from "@/content/v2/ch13.terms";
+import { TERMS as V2C14 } from "@/content/v2/ch14.terms";
+import { TERMS as V2C15 } from "@/content/v2/ch15.terms";
+import { TERMS as V2C16 } from "@/content/v2/ch16.terms";
+import { TERMS as V2C17 } from "@/content/v2/ch17.terms";
+import { TERMS as V2C18 } from "@/content/v2/ch18.terms";
+import { TERMS as V2C19 } from "@/content/v2/ch19.terms";
+import { TERMS as V2C20 } from "@/content/v2/ch20.terms";
+import { TERMS as V2C21 } from "@/content/v2/ch21.terms";
 
 export interface Term {
   term: string;
@@ -240,6 +261,27 @@ export const GLOSSARY = {
   ...V1C31,
   ...V1C32,
   ...V1C33,
+  ...V2C01,
+  ...V2C02,
+  ...V2C03,
+  ...V2C04,
+  ...V2C05,
+  ...V2C06,
+  ...V2C07,
+  ...V2C08,
+  ...V2C09,
+  ...V2C10,
+  ...V2C11,
+  ...V2C12,
+  ...V2C13,
+  ...V2C14,
+  ...V2C15,
+  ...V2C16,
+  ...V2C17,
+  ...V2C18,
+  ...V2C19,
+  ...V2C20,
+  ...V2C21,
 };
 
 export type TermId = keyof typeof GLOSSARY;

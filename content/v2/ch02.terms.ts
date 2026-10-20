@@ -17,9 +17,9 @@ export const TERMS = {
   },
   "reserve-fund": {
     term: "Reserve fund",
-    kid: "Money kept aside so the business can keep going when something goes wrong.",
+    kid: "Money kept aside so the business can keep going when something goes wrong, or to buy a new machine when the old one wears out.",
     grownUp:
-      "A money hoard used to bridge disturbances in the circuit, for example when prices of materials rise or sales are delayed, so that production need not stop.",
+      "A money hoard used to bridge disturbances in the circuit, for example when prices of materials rise or sales are delayed, so that production need not stop. In Chapter 8 it also names the money that builds up from the wear and tear of fixed capital until a worn-out machine must be replaced (a sinking fund).",
     firstSeen: "2-2",
   },
 } satisfies Record<string, Term>;

@@ -2,6 +2,358 @@
 
 Details that are uncertain or need a human check. Newest first.
 
+## Volume II, all 21 chapters
+
+Written in parallel and merged on 2026-10-20, each checked against marxists.org (the Lasker
+translation, Progress Publishers) first. Volume II was assembled by Engels from Marx's
+manuscripts, and every source note says so. Items that most need a human eye:
+
+- **Ch 21, source typo:** marxists.org prints the first illustration's second year as
+  "1,600c + 800v + 800v"; the sums need 800s, which the page uses.
+- **Ch 21, "unfinished":** the claim rests on the chapter's abrupt last line ("They hoard it.")
+  and Engels' prefaces; there is no explicit Engels footnote in those files.
+- **Ch 7, formula letters:** marxists.org writes n = T/t (other editions use U/u); the page
+  follows the source.
+- **Ch 1:** Engels' notes show it was stitched from Manuscripts II, VII, VI and V.
+- **Ch 15:** quotes Engels' note that Marx "got so tangled up in his computations of turnovers".
+- **Glossary:** "reserve fund" is defined once, in Ch 2 (Ch 8's sinking-fund sense merged in).
+- **Continuity:** Clerk Pim appears first in Ch 6 and returns in Ch 10 and 11; the Ironmaster
+  runs the Forge (Department I); Grandpa Ned is the tenant capitalist farmer of Ch 17.
+- **Invented numbers** are labelled on every page that uses them.
+- **Critics** in every chapter are summarised in our own words and deserve a fairness read
+  (Leontief, Kalecki, Luxemburg, Bukharin, Böhm-Bawerk, Mises and Hayek, Schumpeter and others).
+
+### Volume II, Chapter 21
+
+- Verified in the text: hoarding as "potential" money-capital; some capitalists "sell without buying",
+  others "buy without selling"; the process "offers ever so many occasions for running abnormally".
+- First illustration, copied exactly: B. I. 4,000c + 1,000v + 1,000s = 6,000; II. 1,500c + 750v + 750s
+  = 3,000. I accumulates 500 (400c + 100v); II adds 100c + 50v and consumes 600. Capital 7,900 against
+  7,250. Year totals 9,800, 10,780, 11,858, 13,043, 14,348. "In the course of five years ... from ... 7,250
+  to ... 11,566 ... in the ratio of 100:160."
+- **Typo in the source:** marxists.org prints the second-year line as "II. 1,600c + 800v + 800v = 3,200";
+  the sum and the next steps require 800s. The animation uses 800s and the source note says so.
+- Second illustration numbers quoted in prose only: I. 5,000c + 1,000v + 1,000s; II. 1,430c + 285v + 285s.
+- Next-year step in 21.3: I spends 1,100v + 550s = 1,650 against IIc 1,600, so 50 comes from IIs (Marx's
+  own numbers).
+- Three cases for I(v + ½s) against IIc, and "This would mean an over-production in II and could not be
+  adjusted in any other way than by a great crash".
+- The chapter ends mid-thought on hoarding: last sentence "They hoard it." Marx left it unfinished; Engels
+  printed the manuscript. The page states this. (I did not find an explicit Engels footnote saying
+  "unfinished" in these two files; the claim rests on the abrupt ending and Engels' prefaces.)
+- Not in Marx: Ironmaster A and B (one-offs), the chest/fill gauge, the "=?" mark in 21.1.
+- Critics in my words: Luxemburg (1913) and replies by Bauer and Bukharin; Tugan-Baranovsky's
+  optimistic reading; later growth models. Worth a fairness read.
+
+### Volume II, Chapter 20
+
+- Verified in the text: the simple reproduction scheme I. 4,000c + 1,000v + 1,000s = 6,000;
+  II. 2,000c + 500v + 500s = 3,000; total 9,000; rate of surplus-value 100 per cent; "the figures may
+  indicate millions of marks, francs, or pounds sterling".
+- The three "great points of support": (500v + 500s) II exchanged within II; (1,000v + 1,000s) I against
+  2,000 IIc; 4,000 Ic by mutual exchange within I.
+- The £1,000 round trip (I's wages, workers buy from II, II buys means of production from I) is Marx's own.
+- "the money advanced by the capitalist producer to the circulation must return to its point of departure"
+  (section 11), used in 20.3's last caption in paraphrase.
+- Necessities and luxuries: IIa (400v + 400s), IIb (100v + 100s), three-fifths/two-fifths split. Mentioned
+  in prose only; no animation.
+- Fixed capital: uneven replacement can bring "a crisis of over-production" even under simple
+  reproduction; "Such surplus is not an evil in itself, but an advantage; however it is an evil under
+  capitalist production." Quoted as "is an evil" in the Marx section.
+- Money material: gold production in class I, Marx's example of 30 (verify scale if expanded later).
+- Destutt de Tracy section summarised in one sentence.
+- Invented for the site: the Forge and the Ironmaster (one-offs, per CONTINUITY.md), Mia and Ava as
+  Department II, the bread/oven puzzle bubbles.
+- Critics in my words: Kalecki and Leontief (input-output) as heirs; the "labour values, no trade or state"
+  objection. Worth a fairness read.
+
+### Volume II, Chapter 19
+
+- Verified in the text: the Tableau shows "in a few broad outlines" how the annual product is
+  distributed by circulation for simple reproduction; three classes, the capitalist farmer as
+  producer of surplus-value, landowners appropriating it; seed and stock "remains in the hands of its
+  producers, the class of farmers", where Quesnay "strikes upon the main thing"; the physiocratic system
+  as "the first systematic conception of capitalist production"; Smith's "retrogression"; avances
+  primitives / annuelles renamed fixed and circulating capital; Smith's dogma that price resolves into
+  wages, profit and rent (v + s); "His proof consists simply in the repetition of the same assertion";
+  gross and net revenue smuggling in capital "by circuitous route"; Ricardo "almost verbatim"; Storch:
+  capital "not consumable".
+- From general history, not this chapter: the Tableau's date (1758), and the simplified flows in 19.1
+  (rent to landowners, landowners spending on food and goods, artisans buying food and raw materials).
+  Quesnay's own numbers are not used. The name "sterile class" is avoided.
+- Ned's 10 sacks (8 net, 2 seed) in 19.3 are illustrative and labelled as example numbers.
+- Critics (national income as value added; Schumpeter on Quesnay) are summarised in our own words.
+
+### Volume II, Chapter 18
+
+- Verified in the text: individual capital as "an individualised fraction ... endowed with individual
+  life" of the aggregate social capital; circuits that "intertwine, presuppose and necessitate one
+  another"; wages spent and surplus-value consumed belong to the total movement though not to the
+  circuit of capital; Volume I assumed sale at value and means of production found on the market;
+  money-capital as "primus motor"; elasticity of production (intensity, nature, science, co-operation);
+  long operations need large money advances, a barrier broken by "the credit system and the
+  associations connected with it, e.g., the stock companies", which also cause disturbances in the
+  money-market; under socialised production "paper vouchers ... are not money. They do not circulate."
+- Section II is marked by Engels as from Manuscript II; the source note says so.
+- The railway example is the site's illustration of a long working period, not from Ch 18.
+- The yarn numbers in 18.2 (20 lb, 30 coins, c 24, v 3, s 3) are the CONTINUITY.md workshop numbers.
+- Critics (Leontief and national accounts; Mises, Hayek and Lange on the calculation debate) are
+  summarised in our own words.
+
+### Volume II, Chapter 17
+
+- Verified: "neither Tooke nor any one else has answered it so far"; the capitalist class advancing
+  £500 and drawing out £600; answers that assume "the money, whose existence it is called upon to
+  explain"; "it is the capitalist class itself that throws the money into circulation"; the farmer
+  with £5,000 (£4,000 + £1,000), £1,000 of personal consumption, £6,000 at sale; the gold producer
+  paying labourers "with a portion of the gold they themselves produced"; the "absurd question"
+  whether production at its present volume would be possible without credit.
+- Marx's farmer is unnamed; here he is Grandpa Ned (a tenant capitalist farmer, as in Vol I Ch 29).
+- Critics: Rosa Luxemburg (1913) and Bukharin's reply; endogenous money. Our own summaries.
+
+### Volume II, Chapter 16
+
+- Verified numbers: capital A, variable capital £500, turned over 10 times, £5,000 surplus-value,
+  annual rate 1,000%; capital B, £5,000 turned over once, product paid for on the day it is finished,
+  annual rate 100%; £100 a week of wages in both; a difference of 900%; B placed in A's conditions
+  makes £50,000, 1,000%.
+- Quoted: the phenomenon "completely routed the Ricardian school"; "social reason always asserts itself
+  only post festum"; railways withdrawing labour and means of subsistence for "a year or more"; wages
+  rising until "the inevitable crash".
+- Invented: the shipbuilder in the story, the 50 piles of coins in 16.2, the railway scene's details.
+- Critics (Böhm-Bawerk; Mises 1920, Hayek 1945, Lange) are summarised in our own words.
+
+### Volume II, Chapter 15
+
+- Verified numbers (pounds, shown as coins): 9-week working period at £100 a week (£900), 3-week
+  circulation, 12-week turnover; production idle "three weeks every three months"; £75 a week if
+  spread; £300 additional capital, 300/1,200 = 3/12; week 13 return of £900 with only £600 needed and
+  £300 "set free"; the freed £300 carrying weeks 19-21; the 5 + 5 week case where capitals I and II
+  move separately; a 6-week working period with circulation cut from 3 to 2 weeks so £800 does the
+  work of £900; prices of materials and labour halving so £450 replaces £900; released money-capital
+  must "form one of the [credit system's] foundations".
+- Engels' long note on Marx's commercial arithmetic is quoted in the critics section.
+- The workshop scenes and Bea's bank are this site's.
+
+### Volume II, Chapter 14
+
+- Verified in the text: turnover time = production time + circulation time; selling time as the most
+  decisive part; distance to market; goods shipped to India "four months" with the money's return
+  "another four months", eight in all; railways shifting relative distances; breweries in big towns;
+  overseas commerce in Venice and Genoa as "one of the sources of the credit system"; the Economist
+  1866 quotes on India and China bills; Engels' note that the Suez Canal "revolutionized all this";
+  London wool auctions "every three months"; buying time.
+- Invented and labelled: the villages Hollow and Ford and their one-day / three-day / half-day trips.
+- Critics are summarised in our own words (Böhm-Bawerk on waiting; "business already knew this").
+
+### Volume II, Chapter 13
+
+- Verified in the text: working time is always production time but not vice versa; grape juice
+  ferments and rests; pottery drying; bleaching; "Winter grain needs about nine months to mature";
+  timber "about 100 years"; chemical bleaching vs bleaching on the green; tanning "six to eighteen
+  months" vs "one and a half to two months" with an air-pump; puddling "about 1780" to the Bessemer
+  process, with fixed capital "increased in proportion"; northern Russia "from 130 to 150 days" of
+  field labour, village weavers, tanners and shoemakers; the merchant as capital's first point of
+  entry; the rural labourer's condition "deteriorates"; forestry "of little attraction to private ...
+  enterprise".
+- "Pits of tree bark" (13.2 caption) is general background on old tanning, not Marx's words; Marx
+  only says the tannic acid took six to eighteen months to penetrate the skins.
+- The October-to-July calendar for Ned's winter wheat illustrates Marx's "about nine months".
+- Critics (my own summaries): Böhm-Bawerk on wine and timber as productive waiting; Faustmann (1849)
+  on forest rotation, general knowledge, not Marx.
+
+### Volume II, Chapter 12
+
+- Verified in the text: cotton-spinning mill vs locomotive works, equal ten-hour days; a locomotive
+  "perhaps three months"; "twelve times as much circulating capital"; 100 working-days = "a working-day
+  of 1,000 working-hours"; the definition of the working period; warship "one year or more", grain
+  "nearly a year", timber "from twelve to one hundred years", a Gobelin "years"; interrupted ships,
+  buildings and railways waste the labour already spent; long works at "communal or state expense (in
+  earlier times generally by forced labour)"; houses paid for in partial advance payments; the London
+  builder before the banking committee of 1857: 100 to 200 houses, "twenty to fifty times" his
+  resources, sold at auction "for half their cost"; credit lets the capitalist risk "other people's
+  capital".
+- The 10 coins a week, the Forge and the Ironmaster (gray one-off, as in CONTINUITY.md) are this
+  site's. The tally in 12.1 (10, 20 ... 120) is our own arithmetic on Marx's ratio of twelve.
+- Critics (my own summaries): eighteenth-century private canals and turnpikes (the Bridgewater Canal
+  opened 1761, general history, not Marx); interest as a payment for waiting and risk.
+
+### Volume II, Chapter 11
+
+- Verified in the text: Ricardo introduces fixed/circulating only to illustrate exceptions to the
+  rule of value (wages affecting prices); "the capital that is to support labour" vs capital "in
+  tools, machinery, and buildings"; raw material vanishes "entirely from his sight"; the labourer
+  advances his labour to the capitalist ("a capitalist quid pro quo"); the confusion repeated
+  "parrotlike ... for a century"; Ricardo's seed wheat "comparatively a fixed capital" beside the
+  baker's wheat returned in a week.
+- Animation 11.2: Marx's reply is that "it is not only the more or less slow or rapid return which
+  makes a fixed capital ... but also the definite manner in which it transfers its value to the
+  product". The plough as the fixed-capital contrast is this site's.
+- Critics (my own summaries): Sraffa as editor of Ricardo and Ricardo's real purpose; the employer
+  carrying sales risk; wage-arrears priority in insolvency law is general knowledge.
+
+### Volume II, Chapter 10
+
+- Verified in the text: Quesnay's *avances primitives* and *avances annuelles*, applied only to the
+  farmer's capital; one part replaced annually, the other at longer ("decennial") intervals; Smith's
+  "only progress" was the generalisation of the categories, and his working-out is "far inferior" to
+  Quesnay's; Smith's merchant example and "The capital of a merchant ... is altogether a circulating
+  capital"; Smith "forgets to mention labour-power" and lists means of subsistence instead; the
+  constant/variable distinction is "buried" beneath fixed/circulating; footnote 24: "his labouring
+  cattle are productive labourers".
+- "Physiocrats thought the extra was a gift of nature" summarises Marx's remark that for them
+  surplus-value arises "not out of labour but out of the special activity (assistance) of nature".
+- Grandpa Ned's farm, Clerk Pim and the workshop's 3-coin wage are this site's illustrations.
+- Critics (my own summaries): historians of thought on Smith's practical purpose; Quesnay as an
+  ancestor of Leontief's input-output analysis. Leontief's Nobel (1973) is general knowledge.
+
+### Volume II, Chapter 9
+
+- Verified in the text: aggregate turnover as "the average turnover of its various constituent
+  parts", computed by fixing all elements in the money-form; the £10,000 machine returning £1,000 a
+  year; the main example: fixed £80,000 lasting 10 years (£8,000 a year), circulating £20,000 turned
+  over five times (£100,000), "£108,000, or £8,000 more than the advanced capital"; the fixed capital
+  left at "£72,000" for "nine years more"; the cycle of "ten annual" turnovers; "this life-cycle now
+  averages ten years. However we are not concerned here with the exact figure"; "a material basis for
+  the periodic crises"; "depression, medium activity, precipitancy, crisis"; "a crisis always forms
+  the starting-point of large new investments".
+- 9.2's business wave is drawn for illustration; its shape is not data. The stage label "rush"
+  renders Marx's "precipitancy" in kid language.
+- Not shown: the Scrope/Potter calculation in section 5 (and Engels' note on its error) and section
+  6 on real and apparent differences in turnover.
+- Critics (Juglar-cycle research; Keynes on expectations) are our own summaries.
+
+### Volume II, Chapter 8
+
+- Verified in the text: instruments of labour fix capital-value; the proportion of value yielded "is
+  always inverse to the entire time it functions", with two machines of equal value lasting five and
+  ten years; the machine "worth £10,000" lasting ten years and the "money reserve fund"; the ox: "As a
+  beast of toil an ox is fixed capital. If he is eaten, he no longer functions as an instrument of
+  labour"; locomotive and ship as mobile fixed capital; "Seeds ... are not fixed capital"; the
+  "fundamental mistake" of mixing fixed/circulating with constant/variable; only productive capital
+  divides into fixed and circulating; repairs; insurance as a deduction from surplus-value; "moral
+  depreciation", with Lardner's cars and locomotives at £30,000 after ten years instead of £40,000.
+- Simplification: animation 8.1 leaves surplus-value aside, as Marx does in this chapter, and uses
+  the workshop's daily figures from CONTINUITY.md (cotton 20, wear 4, wage 3). Combining spindle wear
+  and machine wear into one "wear 4" is our simplification.
+- Not shown: the sinking-fund detail, the railway examples beyond Lardner's figure, and insurance.
+- Clerk Pim is the one-off clerk named in CONTINUITY.md.
+- Critics (Sraffa on joint-product depreciation; accountants' forward-looking valuation) are our
+  own summaries.
+
+### Volume II, Chapter 7
+
+- Verified in the text (Lasker translation): turnover time is "the sum of its time of circulation
+  and its time of production"; a circuit repeated as "a periodical process, not an individual act,
+  is called its turnover"; "the year is the natural unit for measuring the turnovers", compared with
+  the working day, "because the most important crops of the temperate zone ... are annual products";
+  n = T/t with Marx's own examples, t = 3 months gives 4 and t = 18 months gives two-thirds.
+- The marxists.org English writes the formula with T (year) and t (turnover time). Some editions use
+  U and u (from the German *Umschlag*); the page uses T and t to match the source text.
+- Invented and labelled: Mr. Moneybags' 13-week trip and the weeks on 7.1's clock.
+- Critic (Böhm-Bawerk on roundaboutness and time as a cost) is a summary in our own words.
+
+### Volume II, Chapter 6
+
+Source: marxists.org Volume II (Progress Publishers, Lasker translation), ch06.htm.
+
+### Verified in the text
+
+- **Ch 6:** buying and selling time and the selling agent ("just as another does by spinning or
+  making pills"), who creates neither value nor product; faux frais; bookkeeping "becomes the more
+  necessary the more the process assumes a social scale", "more necessary in collective production
+  than in capitalist production", with pens, ink, paper and desks; gold and silver as money are
+  faux frais of commodity production; costs of storage "enter to a certain extent into the value"
+  for a normal supply, while stock piled up through stagnation of sale is a loss (the buyer who
+  "would laugh in his face", "Tant pis pour vous!", fresh goods "completed only the day before
+  yesterday"); transport "appears as a continuation of a process of production within the process
+  of circulation", adds value by transferring the wear of the means of transport and by labour,
+  in direct proportion to distance and inverse proportion to the productivity of transport;
+  where only the title of ownership moves, nothing is transported.
+
+### Invented for the site (labelled on the page)
+
+- Clerk Pim's 1-coin wage (6.1), the storeman, and the 2 coins of transport value (6.3).
+- Ch 6.2's yarn store and "+ a bit" tag are illustrative; Marx gives no figures.
+
+### Uncertain or worth a look
+
+- Ch 6 critics cite Isaak Rubin (1920s) and Shaikh and Tonak, *Measuring the Wealth of Nations*
+  (1994) from memory; worth confirming the date and title.
+- Ch 6 storage: Marx's position is nuanced ("to a certain extent"); the page simplifies to
+  "can enter the value, up to a point". Good enough for kids, but flagged.
+- "Faux frais" is glossed as "false costs"; a looser translation is "incidental expenses".
+
+### Volume II, Chapter 5
+
+Source: marxists.org Volume II (Progress Publishers, Lasker translation), ch05.htm.
+
+### Verified in the text
+
+- **Ch 5:** total time = time of production + time of circulation; production time includes
+  pauses (night), stocks held in readiness ("fallow capital", cotton and coal in a spinning mill),
+  and natural processes (grain after sowing, wine fermenting, tanneries); only labour-time
+  creates value; "Time of circulation and time of production mutually exclude each other";
+  circulation time is a negative limit on production; Political Economy mistakes this negative
+  effect for a positive one; C–M, the sale, is the hardest part; use-values are perishable and
+  the value is lost with them; perishable goods have localised markets unless transport improves;
+  large breweries and dairies. Engels' note: Chapter 5 begins Manuscript IV.
+
+### Invented for the site (labelled on the page)
+
+- The two schedules in 5.1 (slow selling 3 rounds, quick selling 4) are made-up round numbers.
+
+### Uncertain or worth a look
+
+- Ch 4 critics (Say's law; the cash conversion cycle) and Ch 5 critics (Böhm-Bawerk's time
+  preference; just-in-time production) are summarised in our own words.
+
+### Volume II, Chapter 4
+
+Source: marxists.org Volume II (Progress Publishers, Lasker translation), ch04.htm.
+
+### Verified in the text
+
+- **Ch 4:** "every individual industrial capital is present simultaneously in all three circuits";
+  the spinner whose weekly product is 10,000 lbs. of yarn, sold while new cotton and coal are
+  already in production; "continuity is the characteristic mark of capitalist production";
+  revolutions in value can ruin an individual capital that cannot adapt; supply always exceeds
+  the capitalist's demand, with Marx's own numbers 80c + 20v + 20s (demand one-fifth smaller
+  than supply) and his aim "to make the inequality ... as great as possible"; natural,
+  money and credit economy, with credit-economy "merely a form of the money-economy"; the
+  farmer in the Scottish lowlands vs the old-fashioned small peasant on the Continent; the
+  Inca state of Peru as an isolated natural economy; the Chinese artisan who works only to order.
+
+### Invented for the site (labelled on the page)
+
+- Leo's loom stopping while he sells (Ch 4 story) is the site's own illustration of Marx's point
+  about a capital that circulates in one lump (his example is the Chinese artisan).
+
+### Uncertain or worth a look
+
+- Ch 4 critics (Say's law; the cash conversion cycle) and Ch 5 critics (Böhm-Bawerk's time
+  preference; just-in-time production) are summarised in our own words.
+
+### Volume II, Chapter 3
+
+- Verified: general formula C', M', C ... P ... C'; C' is the premise of the other circuits because means of production are other capitals' commodity-capital ("coal, machinery, etc., represent the commodity-capital of the mine-owner, of the capitalist machine-manufacturer"); the circuit "does not open with just capital-value but with capital-value augmented in the commodity-form", hence includes surplus-value from the start; consumption of the entire product (individual and productive) is a condition of the circuit; C' ... C' as the movement of social capital; "C' ... C' is the groundwork for Quesnay's Tableau économique".
+- Tiny Town stand-ins (cotton farm, weaving mill, the Forge) are this site's; the Forge follows CONTINUITY.md.
+- Only one critic (consumer sovereignty), summarised in this site's words.
+
+### Volume II, Chapter 2
+
+- Verified: general formula P ... C', M', C ... P as periodical renewal (reproduction); circulation as a mere connecting link between two P's; split into C, M, C and c, m, c (simple reproduction); P ... P' for accumulation on an extended scale; surplus-value congeals into a hoard as "latent money-capital" until it reaches the size needed; the money-accumulation fund "serves as a reserve fund for counter-balancing disturbances in the circuit".
+- The text records Marx's own manuscript note: "All this, however, belongs to the last part of Book Two." (marked "Ed.").
+- Invented and labelled: the 12-coin machine from the Forge, saving 3 coins a week for four weeks, the 6 coins saved later, "cotton dearer".
+- Critics are this site's summaries: saving as an ordinary intertemporal choice; Schumpeter's view that bank credit, not prior saving, finances investment.
+
+### Volume II, Chapter 1
+
+- Verified: three stages (buyer, productive consumption, seller); formula M, C ... P ... C', M' with dots for interrupted circulation; M–C splits into labour-power and means of production in a fixed proportion (mill: 50 labourers, £50 a week, £372 of means of production, 3,000 hours of which 1,500 surplus); 10,000 lb yarn = £372 + £50 + £78 = £500 at 156%; "class relation ... presupposed from the moment the two face each other in the act M, L"; money-capital, productive capital and commodity-capital "do not ... designate independent kinds of capital" but forms of industrial capital; stopping in each phase (hoard; idle means of production and unemployed labour-power; unsold commodities clog circulation); production as "a necessary evil for the sake of money-making"; nations "seized periodically by a feverish attempt to make money without the intervention of the process of production".
+- Engels' notes: the chapter is stitched from Manuscripts II, VII (started July 1878), VI and V.
+- Tiny Town uses the workshop numbers (24 + 3 = 27 in, 30 out), not Marx's £500 example; the source note says so.
+- Critics are this site's summaries: cash conversion cycle; MEGA-based readings of Engels' editing (e.g. Heinrich) are paraphrased generally, no names given.
+
 ## Volume I, Chapters 19 to 33
 
 Written in parallel and merged on 2026-10-20, each checked against marxists.org first.

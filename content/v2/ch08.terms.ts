@@ -22,13 +22,6 @@ export const TERMS = {
       "The part of the value of fixed capital transferred to the product in proportion to its average loss of use-value through use and the action of the elements.",
     firstSeen: "2-8",
   },
-  "reserve-fund": {
-    term: "Reserve fund",
-    kid: "Money a boss puts aside, bit by bit, to buy a new machine when the old one wears out.",
-    grownUp:
-      "The money into which the wear and tear of fixed capital is converted as goods are sold, accumulating until the fixed capital must be replaced (also called a sinking fund).",
-    firstSeen: "2-8",
-  },
   "moral-depreciation": {
     term: "Moral depreciation",
     kid: "When a machine loses value, not because it is worn out, but because newer, cheaper or better machines appear.",
