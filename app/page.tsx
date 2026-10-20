@@ -1,12 +1,15 @@
 import Link from "next/link";
-import Grain from "@/components/Grain";
+import CountUp from "@/components/home/CountUp";
+import ScrollStory from "@/components/home/ScrollStory";
+import StretchTheDay from "@/components/home/StretchTheDay";
 import Wordmark from "@/components/Wordmark";
-import { VOLUMES, TOTAL_CHAPTERS, chapterCount, chapterHref, type Part } from "@/lib/kapital";
+import { CONTENT } from "@/content";
+import { CAST_LIST } from "@/lib/cast";
+import { GLOSSARY_LIST } from "@/lib/glossary";
+import { READY_CHAPTERS, TOTAL_CHAPTERS, VOLUMES, chapterHref } from "@/lib/kapital";
 
-const [V1, V2, V3, V4] = VOLUMES;
-
-const range = (p: Part) =>
-  p.chapters[0] === p.chapters[1] ? `Ch. ${p.chapters[0]}` : `Ch. ${p.chapters[0]}–${p.chapters[1]}`;
+/** Every animation on the site: the chapters' own, plus the two in the introduction. */
+const ANIMATIONS = Object.values(CONTENT).reduce((n, c) => n + c.struggle.length + c.reveal.length, 2);
 
 export default function Home() {
   return (
@@ -30,106 +33,29 @@ export default function Home() {
         </div>
       </header>
 
-      {/* ── Volume I: the tall card ─────────────────────────── */}
-      <section id="volume-1" className="scroll-mt-6 px-4 pt-32 pb-24 sm:pt-44">
-        <div className="mx-auto flex max-w-[640px] flex-col items-center gap-2 sm:flex-row sm:items-start sm:justify-center">
-          <article className="reveal grid w-full max-w-[335px] grid-cols-[130px_1fr] bg-white p-2.5 text-black sm:aspect-[335/426]">
-            <Grain className="h-full min-h-[300px]" />
-            <div className="flex flex-col justify-end pl-2.5">
-              <p className="label">(Volume)</p>
-              <h2 className="mb-6 text-[13px]">One</h2>
-              <ol className="space-y-3">
-                {V1.parts.slice(0, 4).map((p) => (
-                  <li key={p.n} className="grid grid-cols-[22px_1fr] text-[8.5px] leading-[1.15]">
-                    <span>1.{p.n}</span>
-                    <span>
-                      {p.title}
-                      <span className="block text-black/40">{range(p)}</span>
-                    </span>
-                  </li>
-                ))}
-              </ol>
-            </div>
-          </article>
+      {/* ── Capital in one scroll ───────────────────────── */}
+      <ScrollStory />
 
-          <div className="flex gap-2 sm:flex-col">
-            <CircuitDial />
-            <Grain mood="mid" className="h-[68px] w-[68px]" />
+      {/* ── The toy: stretch Sam's day ─────────────────── */}
+      <StretchTheDay />
+
+      {/* ── Running totals ─────────────────────────────── */}
+      <section aria-label="What is ready" className="grid grid-cols-2 gap-px border-y border-white/10 bg-white/10 sm:grid-cols-4">
+        {[
+          { n: READY_CHAPTERS.length, label: "chapters to read" },
+          { n: ANIMATIONS, label: "step-by-step animations" },
+          { n: GLOSSARY_LIST.length, label: "words explained twice" },
+          { n: CAST_LIST.length, label: "neighbours in Tiny Town" },
+        ].map((s) => (
+          <div key={s.label} className="bg-[#222] px-4 py-10 sm:px-5 sm:py-14">
+            <p className="text-[64px] leading-none tracking-[-0.05em] sm:text-[104px]">
+              <CountUp to={s.n} />
+            </p>
+            <p className="mt-2 text-[13px] text-white/50">{s.label}</p>
           </div>
-        </div>
-
-        <p className="reveal mx-auto mt-6 max-w-[335px] text-[13px] leading-snug text-white/60">
-          <span className="text-white">{V1.kidLine}</span> {V1.parts.length} parts, {chapterCount(V1)} chapters.{" "}
-          <Link href={chapterHref(V1.chapters[0])} className="text-white">
-            Read Chapter 1
-          </Link>
-        </p>
+        ))}
       </section>
 
-      {/* ── Volume II: the wide card over a full-bleed print ───── */}
-      <section id="volume-2" className="relative py-24 sm:py-36">
-        <Grain mood="mid" className="!absolute inset-0" />
-        <article className="reveal relative mx-4 grid max-w-[1045px] grid-cols-1 bg-white text-black sm:mx-auto sm:h-[420px] sm:grid-cols-[1fr_1fr_1fr]">
-          <Grain className="h-48 sm:h-full" />
-          <div className="flex items-center gap-10 p-3 sm:pl-3">
-            <span className="text-[10px]">2</span>
-            <div>
-              <p className="label">(Volume)</p>
-              <h2 className="text-[13px]">Two</h2>
-            </div>
-          </div>
-          <div className="relative h-56 overflow-hidden sm:h-full" aria-label="Volume II parts">
-            <div className="marquee-up">
-              {[0, 1].map((copy) => (
-                <ul key={copy} aria-hidden={copy === 1} className="text-[38px] leading-[0.98] tracking-[-0.03em]">
-                  {V2.parts.concat(V2.parts).map((p, i) => (
-                    <li key={i}>{p.title}</li>
-                  ))}
-                </ul>
-              ))}
-            </div>
-          </div>
-        </article>
-        <p className="reveal relative mx-4 mt-4 max-w-[335px] bg-black/80 p-3 text-[13px] leading-snug text-white sm:mx-auto">
-          {V2.kidLine} {V2.parts.length} parts, {chapterCount(V2)} chapters.
-        </p>
-      </section>
-
-      {/* ── Volume III: the circle ──────────────────────────── */}
-      <section id="volume-3" className="px-4 py-24 sm:py-36">
-        <div className="reveal relative mx-auto aspect-square w-full max-w-[560px] rounded-full bg-white text-black">
-          <svg viewBox="0 0 200 200" className="spin-slow absolute inset-0 h-full w-full" aria-hidden>
-            {Array.from({ length: 12 }, (_, i) => (
-              <text
-                key={i}
-                x="100"
-                y="13"
-                fontSize="4.2"
-                fill="#bfbfbf"
-                textAnchor="middle"
-                transform={`rotate(${i * 30} 100 100)`}
-              >
-                (Volume)
-              </text>
-            ))}
-          </svg>
-          <div className="absolute inset-[18%] flex flex-col items-center justify-center text-center">
-            <p className="label">(Volume)</p>
-            <h2 className="mb-5 text-[13px]">Three</h2>
-            <ol className="grid grid-cols-1 gap-x-6 gap-y-1.5 text-left text-[9px] leading-[1.15] sm:grid-cols-2">
-              {V3.parts.map((p) => (
-                <li key={p.n} className="grid grid-cols-[22px_1fr]">
-                  <span>3.{p.n}</span>
-                  <span>{p.title}</span>
-                </li>
-              ))}
-            </ol>
-          </div>
-        </div>
-        <p className="reveal mx-auto mt-6 max-w-[335px] text-[13px] leading-snug text-white/60">
-          <span className="text-white">{V3.kidLine}</span> {V3.parts.length} parts, {chapterCount(V3)} chapters.
-        </p>
-      </section>
 
       {/* ── Contents ───────────────────────────────────────── */}
       <section id="contents" className="scroll-mt-6 px-4 pb-24 sm:px-5">
@@ -142,7 +68,7 @@ export default function Home() {
           . Underlined chapters are ready to read; the rest are on their way.
         </p>
         <div className="grid gap-x-5 gap-y-12 sm:grid-cols-2 lg:grid-cols-4">
-          {[V1, V2, V3, V4].map((v) => (
+          {VOLUMES.map((v) => (
             <div key={v.n}>
               <p className="label">(Volume {v.roman}){v.n === 4 ? " Bonus" : ""}</p>
               <h3 className="mb-4 text-[17px] leading-tight">{v.title}</h3>
@@ -178,36 +104,5 @@ export default function Home() {
         <p className="strip sm:col-span-6 sm:text-right">Built chapter by chapter. First chapters coming soon.</p>
       </footer>
     </main>
-  );
-}
-
-/** The M → C → M′ loop as a tiny dial: money becomes goods becomes more money. */
-function CircuitDial() {
-  return (
-    <div className="relative h-[68px] w-[68px] rounded-full bg-white" title="M → C → M′">
-      <svg viewBox="0 0 68 68" className="absolute inset-0" aria-hidden>
-        {Array.from({ length: 12 }, (_, i) => (
-          <line
-            key={i}
-            x1="34"
-            y1="2"
-            x2="34"
-            y2="5"
-            stroke="#bfbfbf"
-            strokeWidth="0.8"
-            transform={`rotate(${i * 30} 34 34)`}
-          />
-        ))}
-      </svg>
-      <div className="spin-a absolute inset-0">
-        <span className="absolute top-[10px] left-[19px] h-[6px] w-[6px] rounded-full bg-black" />
-      </div>
-      <div className="spin-b absolute inset-0">
-        <span className="absolute top-[28px] right-[6px] h-[10px] w-[10px] rounded-full bg-black" />
-      </div>
-      <div className="spin-c absolute inset-0">
-        <span className="absolute bottom-[12px] left-[24px] h-[4px] w-[4px] rounded-full bg-black" />
-      </div>
-    </div>
   );
 }
