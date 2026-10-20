@@ -6,10 +6,13 @@ import Wordmark from "@/components/Wordmark";
 import { CONTENT } from "@/content";
 import { CAST_LIST } from "@/lib/cast";
 import { GLOSSARY_LIST } from "@/lib/glossary";
-import { READY_CHAPTERS, TOTAL_CHAPTERS, VOLUMES, chapterHref } from "@/lib/kapital";
+import { AUTHOR } from "@/lib/site";
+import { ALL_CHAPTERS, CAPITAL, READY_CHAPTERS, VOLUMES, chapterHref } from "@/lib/kapital";
 
 /** Every animation on the site: the chapters' own, plus the two in the introduction. */
 const ANIMATIONS = Object.values(CONTENT).reduce((n, c) => n + c.struggle.length + c.reveal.length, 2);
+
+const allReady = READY_CHAPTERS.length === ALL_CHAPTERS.length;
 
 export default function Home() {
   return (
@@ -65,7 +68,10 @@ export default function Home() {
           <Link href="/introduction" className="text-white">
             Start with the introduction
           </Link>
-          . Underlined chapters are ready to read; the rest are on their way.
+          .{" "}
+          {allReady
+            ? `All ${ALL_CHAPTERS.length} chapters are ready to read.`
+            : "Underlined chapters are ready to read; the rest are on their way."}
         </p>
         <div className="grid gap-x-5 gap-y-12 sm:grid-cols-2 lg:grid-cols-4">
           {VOLUMES.map((v) => (
@@ -109,9 +115,12 @@ export default function Home() {
       {/* ── Footer strip ───────────────────────────────────── */}
       <footer className="grid grid-cols-1 gap-y-1.5 px-4 pb-5 text-[13px] leading-tight sm:grid-cols-12 sm:px-5">
         <p className="strip sm:col-span-6">
-          {VOLUMES.length} volumes / {TOTAL_CHAPTERS} chapters / one story about work and money
+          Capital in {CAPITAL.length} volumes and a bonus / {ALL_CHAPTERS.length} chapters / one story about work and money
         </p>
-        <p className="strip sm:col-span-6 sm:text-right">Built chapter by chapter. First chapters coming soon.</p>
+        <p className="strip sm:col-span-6 sm:text-right">
+          {allReady ? "Every chapter animated." : `${READY_CHAPTERS.length} of ${ALL_CHAPTERS.length} chapters ready.`} Made by{" "}
+          {AUTHOR}
+        </p>
       </footer>
     </main>
   );

@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Inter_Tight } from "next/font/google";
+import { AUTHOR } from "@/lib/site";
 import "./globals.css";
 
 const interTight = Inter_Tight({
@@ -10,7 +11,9 @@ const interTight = Inter_Tight({
 export const metadata: Metadata = {
   title: "Marx in Motion",
   description:
-    "Das Kapital, all three volumes, explained chapter by chapter with animations simple enough for a kid to follow.",
+    "Das Kapital, all four volumes, explained chapter by chapter with animations simple enough for a kid to follow.",
+  authors: [{ name: AUTHOR }],
+  creator: AUTHOR,
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
