@@ -68,6 +68,14 @@ export default function ChapterTemplate({ chapter, content }: { chapter: Chapter
       </header>
 
       <article className="paper mx-auto max-w-[760px] px-5 pt-8 pb-14 sm:px-10 sm:pt-12">
+        {chapter.vol === 4 && (
+          <p className="mb-8 border-l-2 border-black bg-[#f1f1f1] px-4 py-3 text-[14px] leading-snug">
+            <span className="label block">(Bonus volume)</span>
+            Theories of Surplus-Value is Marx&apos;s critical history of the economists who came before him. It is
+            often called &ldquo;Volume IV&rdquo;, but it is not part of <em>Capital</em> proper: Marx left it as
+            notebooks, and Karl Kautsky first edited it (1905 to 1910).
+          </p>
+        )}
         {/* ── Challenge ─────────────────────────────────── */}
         <Section id="challenge" label="Challenge" title="The Big Question">
           <p className="big-question">{content.bigQuestion}</p>

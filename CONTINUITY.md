@@ -102,6 +102,24 @@ over slices.
 - Volume III was assembled by **Engels** from Marx's manuscripts and published in 1894; every
   source note says so. Some chapters (e.g. Part V) are notably fragmentary; say so where true.
 
+## Volume IV plan (binding): Theories of Surplus-Value
+
+The bonus volume is Marx arguing with earlier thinkers. Tiny Town frames it as **the Old Thinkers'
+Shelf**: in the town library, each chapter one earlier economist "visits" (a gray one-off Figure
+named after them, e.g. `name="Adam Smith"`), explains their idea with Tiny Town examples, and Marx's
+reply is shown (Marx can appear as a gray one-off too). The cast tests each idea: Sam's workday,
+Moneybags' workshop (c 24, v 3, s 3), Grandpa Ned's tenant farm and the Landlord, Bea's bank.
+
+- Every page already carries a template banner saying this is not part of Capital proper and was
+  first edited by Kautsky (1905-1910). Source notes name the edition used (Progress Publishers,
+  three parts, on marxists.org).
+- Be especially fair here: each thinker's view gets explained on its own terms first, then Marx's
+  criticism, then (in "What critics say") how later economists judge both.
+- Reuse earlier glossary ids in prose (physiocrats, tableau-economique, smiths-dogma,
+  productive-labour, differential-rent, ...). Define only new ideas specific to the chapter.
+- Ch 24 (Richard Jones) closes the bonus volume: its "Remember this" ends warmly and points to the
+  wrap-up chapter, "The whole story in one animation".
+
 ## The numbers (Marx's own, Ch 7 to 9; 1 coin = 1 shilling)
 
 - A day of Sam's labour-power is worth **3 coins** (his daily food, rent, clothes).
