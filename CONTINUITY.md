@@ -70,6 +70,38 @@ Volume I watched value being *made*. Volume II follows capital as it *moves*.
 - Vol II was assembled by **Engels** from Marx's manuscripts; chapters may say so where the text is
   unfinished (Engels' notes in the text).
 
+## Volume III plan (binding)
+
+Volume I showed surplus-value being made, Volume II showed it travelling. Volume III shows how it is
+*shared out* and why the sharing hides where it came from. The surplus is a pie; the town fights
+over slices.
+
+- **Profit (Ch 1-7):** Mr. Moneybags stops thinking in c, v and s. He sees only cost-price (c + v)
+  and profit; the rate of profit s/(c+v) is always smaller than s/v. Use the workshop numbers
+  (c 24, v 3, s 3: rate of surplus-value 100%, rate of profit 3/27 = 11.1%) when the chapter
+  doesn't give its own.
+- **Average profit (Ch 8-12):** many workshops in Tiny Town with different mixes of machines and
+  workers (e.g. Moneybags' machine-heavy mill vs Ava's labour-heavy tailoring). Competition moves
+  capital until every branch earns the same average rate; prices of production replace values.
+  Use Marx's own five-capital table in Ch 9 exactly. The "transformation problem" critics belong here.
+- **Falling rate of profit (Ch 13-15):** more machines per worker; the rate falls even as the mass
+  of profit grows; counteracting influences; crises. Critics (Okishio etc.) given fair space.
+- **Merchant's capital (Ch 16-20):** **Tom the shopkeeper** buys Moneybags' yarn wholesale and sells
+  it on; he gets a slice of the surplus as commercial profit without making anything. A gray
+  one-off money-changer for money-dealing capital (Ch 19).
+- **Interest and credit (Ch 21-36):** **Bea the banker** lends money-capital; profit splits into
+  interest (Bea) and profit of enterprise (Moneybags). Bills of exchange, fictitious capital,
+  joint-stock companies, the Bank of England and 1844 Act, crises of 1847 and 1857: verify every
+  date and number against the text. Ch 36 looks back to usury before capitalism.
+- **Ground-rent (Ch 37-47):** **Grandpa Ned** is the tenant capitalist farmer; a gray one-off
+  **Landlord** owns the fields and takes rent. Differential rent uses Marx's soils A, B, C, D with
+  his own numbers. Absolute rent, building-site rent and mining rent follow. Ned is never the landlord.
+- **Revenues and classes (Ch 48-52):** the "trinity formula": capital-profit (Moneybags, Bea),
+  land-rent (the Landlord), labour-wages (Sam). Ch 52 "Classes" breaks off after a page in Marx's
+  manuscript; the site says so plainly. Ch 52 closes Volume III and points to the bonus Volume IV.
+- Volume III was assembled by **Engels** from Marx's manuscripts and published in 1894; every
+  source note says so. Some chapters (e.g. Part V) are notably fragmentary; say so where true.
+
 ## The numbers (Marx's own, Ch 7 to 9; 1 coin = 1 shilling)
 
 - A day of Sam's labour-power is worth **3 coins** (his daily food, rent, clothes).
