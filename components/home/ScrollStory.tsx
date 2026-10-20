@@ -17,7 +17,8 @@ const FRAMES = [
   { head: "His secret purchase is Sam's working day.", sub: "Labour-power costs 3 coins, and it can work for 12 hours." },
   { head: "Six hours pay for Sam. Six hours are the boss's.", sub: "The unpaid half is surplus-value, and nobody cheated." },
   { head: "The extra goes back in. The circle becomes a spiral.", sub: "Accumulate, accumulate! The workshop grows every year." },
-  { head: "That is Volume I. Three more volumes to go.", sub: "Thirty-three chapters, all animated, all for curious kids." },
+  // the last frame is written from `ready` at render time
+  { head: "", sub: "" },
 ];
 const N = FRAMES.length;
 
@@ -43,7 +44,22 @@ function vis(p: number, from: number, to: number) {
   return Math.min(fadeIn, fadeOut);
 }
 
-export default function ScrollStory() {
+const WORDS = ["one", "two", "three", "four"];
+const ROMAN = ["I", "II", "III", "IV"];
+
+/** The closing frame, from which volumes are fully written. */
+function closing(ready: number[]) {
+  const names = ready.map((v) => ROMAN[v - 1]);
+  const left = 4 - ready.length;
+  const which = names.length === 1 ? `Volume ${names[0]}` : `Volumes ${names.slice(0, -1).join(", ")} and ${names.at(-1)}`;
+  return {
+    head: left === 0 ? "All four volumes are ready." : `${which} ${names.length === 1 ? "is" : "are"} ready. ${WORDS[left - 1][0].toUpperCase() + WORDS[left - 1].slice(1)} more to go.`,
+    sub: "Every chapter animated, every idea told in Tiny Town.",
+  };
+}
+
+export default function ScrollStory({ ready }: { ready: number[] }) {
+  const frames = [...FRAMES.slice(0, -1), closing(ready)];
   const ref = useRef<HTMLElement>(null);
   const [p, setP] = useState(0);
 
@@ -95,14 +111,14 @@ export default function ScrollStory() {
         <div className="grid flex-1 grid-rows-[1fr_auto] gap-4 pb-6 lg:grid-cols-[minmax(340px,0.8fr)_1.4fr] lg:grid-rows-1 lg:items-center lg:gap-10">
           {/* the stage */}
           <div className="relative row-start-1 h-full min-h-0 lg:col-start-2 lg:self-stretch">
-            <svg viewBox="0 0 800 600" className="absolute inset-0 h-full w-full" role="img" aria-label={FRAMES[frame].head}>
-              <Stage p={p} />
+            <svg viewBox="0 0 800 600" className="absolute inset-0 h-full w-full" role="img" aria-label={frames[frame].head}>
+              <Stage p={p} ready={ready} />
             </svg>
           </div>
 
           {/* captions: stacked in one place, scrubbed in and out */}
           <div className="relative row-start-2 min-h-[150px] lg:col-start-1 lg:row-start-1 lg:min-h-[260px]">
-            {FRAMES.map((f, i) => {
+            {frames.map((f, i) => {
               const o = vis(p, i, i + 1);
               return (
                 <div
@@ -188,7 +204,7 @@ function Person({ x, y, s = 1, fill = WHITE, hat = false }: { x: number; y: numb
   );
 }
 
-function Stage({ p }: { p: number }) {
+function Stage({ p, ready }: { p: number; ready: number[] }) {
   /* 1–2 · the balance, then the hidden hours */
   const t0 = ease(local(p, 0));
   const tilt = lerp(-13, 0, t0);
@@ -396,7 +412,7 @@ function Stage({ p }: { p: number }) {
       {/* ── 08 four volumes ─────────────────────────── */}
       <g opacity={vis(p, 7, N)}>
         {["I", "II", "III", "IV"].map((r, i) => {
-          const done = i === 0;
+          const done = ready.includes(i + 1);
           const y = lerp(80, 0, ease(clamp(t7 * 2 - i * 0.25)));
           return (
             <g key={r} transform={`translate(${70 + i * 172} ${120 + y})`}>
@@ -411,7 +427,7 @@ function Stage({ p }: { p: number }) {
                 {r}
               </text>
               <text x="75" y="372" textAnchor="middle" fontSize="18" fill={MUTE} opacity={clamp(t7 * 2 - i * 0.25)}>
-                {done ? "ready to read" : i === 3 ? "bonus" : "coming next"}
+                {done ? "ready to read" : i === 3 ? "bonus" : "coming soon"}
               </text>
             </g>
           );

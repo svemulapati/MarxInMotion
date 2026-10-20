@@ -34,7 +34,7 @@ export default function Home() {
       </header>
 
       {/* ── Capital in one scroll ───────────────────────── */}
-      <ScrollStory />
+      <ScrollStory ready={VOLUMES.filter((v) => v.chapters.every((c) => c.status === "ready")).map((v) => v.n)} />
 
       {/* ── The toy: stretch Sam's day ─────────────────── */}
       <StretchTheDay />
