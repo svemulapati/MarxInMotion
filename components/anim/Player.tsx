@@ -130,7 +130,7 @@ export default function Player({
         <button type="button" onClick={() => go(step + 1)} disabled={step === last} className="ctl" aria-label="Next step">
           ›
         </button>
-        <span className="ml-auto flex items-center gap-1.5">
+        <span className={`ml-auto flex flex-wrap items-center justify-end ${steps.length > 8 ? "gap-0.5" : "gap-1.5"}`}>
           {steps.map((s, i) => (
             <button
               key={i}

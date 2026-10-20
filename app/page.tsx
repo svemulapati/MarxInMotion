@@ -94,6 +94,16 @@ export default function Home() {
             </div>
           ))}
         </div>
+        <Link
+          href="/the-whole-story"
+          className="mt-14 flex flex-wrap items-baseline justify-between gap-3 bg-white px-4 py-4 text-black no-underline"
+        >
+          <span>
+            <span className="label block">(Wrap-up)</span>
+            <span className="text-[22px] leading-tight tracking-[-0.02em] sm:text-[30px]">The whole story in one animation</span>
+          </span>
+          <span className="text-[13px]">All four volumes in sixteen steps →</span>
+        </Link>
       </section>
 
       {/* ── Footer strip ───────────────────────────────────── */}

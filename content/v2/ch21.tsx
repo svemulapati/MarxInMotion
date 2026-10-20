@@ -132,7 +132,7 @@ const chapter: ChapterContent = {
     "That is the end of Volume II: we followed capital round and round as it moves. Volume III asks how the surplus-value is shared out as profit, interest and rent.",
   ],
 
-  terms: ["potential-money-capital", "balance-condition"],
+  terms: ["latent-money-capital", "balance-condition"],
 
   source: (
     <p>

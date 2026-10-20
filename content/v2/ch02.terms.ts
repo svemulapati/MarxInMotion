@@ -12,7 +12,7 @@ export const TERMS = {
     term: "Latent money-capital",
     kid: "Saved-up money that will become capital later, once there is enough of it.",
     grownUp:
-      "Surplus-value held as a hoard until it reaches the minimum size needed to act as additional capital. It is capital only in waiting, since it cannot function while it stays money.",
+      "Surplus-value held as a hoard until it reaches the minimum size needed to act as additional capital. It is capital only in waiting, since it cannot function while it stays money. Volume II, Chapter 21 also calls it potential money-capital.",
     firstSeen: "2-2",
   },
   "reserve-fund": {

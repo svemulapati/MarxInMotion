@@ -2,6 +2,20 @@
 
 Details that are uncertain or need a human check. Newest first.
 
+## Wrap-up and cross-volume glossary (Phase 5)
+
+- **The whole story** (/the-whole-story): one 16-step animation across all four volumes, a
+  four-volume map linking to key chapters, two broad critic summaries (theory; history and the
+  record of states claiming Marx), a quiz and a recap. Step 11's profit rates are labelled
+  made-up; step 12 uses Marx's own Vol III Ch 13 sequence.
+- **Glossary audit:** every term is listed by a chapter, every listed term is defined, and every
+  "first seen" points to the earliest chapter using it. Two overlaps merged: "potential
+  money-capital" (Vol II Ch 21) into "latent money-capital" (Ch 2); merchant's capital reworded
+  as the umbrella for commercial and money-dealing capital. 279 terms remain.
+- **Glossary page** now has search, volume filters, an A to Z strip, "Also in" (every chapter
+  using a term) and "See also" links from 47 hand-made families of related ideas
+  (lib/glossary-related.ts), which tie ideas together across volumes.
+
 ## Volume IV (Theories of Surplus-Value), all 24 chapters
 
 Written in parallel and merged on 2026-10-20, each checked against marxists.org (Progress

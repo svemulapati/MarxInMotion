@@ -3,7 +3,7 @@ import type { Term } from "@/lib/glossary";
 export const TERMS = {
   "merchants-capital": {
     term: "Merchant's capital",
-    kid: "Money used only for buying and selling, like Tom's shop, never for making things.",
+    kid: "Money used only for buying and selling, never for making things. It comes in two kinds: dealing in goods, like Tom's shop, and dealing in money.",
     grownUp:
       "Capital that functions only in the sphere of circulation, M–C–M′. Marx splits it into commercial capital (dealing in commodities) and money-dealing capital (dealing in money). It produces neither value nor surplus-value directly.",
     firstSeen: "3-16",

@@ -22,6 +22,6 @@ for (const v of VOLUMES) {
     lines.push("");
   }
 }
-lines.push("## Phase 5 extras", "", "- [ ] The whole story in one animation (wrap-up chapter)", "- [ ] Cross-volume glossary review", "");
+lines.push("## Phase 5 extras", "", "- [x] The whole story in one animation (wrap-up chapter, /the-whole-story)", "- [x] Cross-volume glossary review (search, volume filters, \"also in\" and \"see also\" links)", "");
 writeFileSync(new URL("../PROGRESS.md", import.meta.url), lines.join("\n"));
 console.log("PROGRESS.md written");

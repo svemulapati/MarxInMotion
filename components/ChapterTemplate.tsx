@@ -172,10 +172,10 @@ export default function ChapterTemplate({ chapter, content }: { chapter: Chapter
             Vol. {getVolume(next.vol)!.roman}, Ch. {next.n}: {next.title}
           </Link>
         ) : (
-          <span className="strip block py-2 text-right text-black/40">
+          <Link href="/the-whole-story" className="strip block py-2 text-right no-underline">
             <span className="label block">(Next)</span>
-            The next chapter is on its way
-          </span>
+            Wrap-up: the whole story in one animation
+          </Link>
         )}
       </nav>
     </main>
