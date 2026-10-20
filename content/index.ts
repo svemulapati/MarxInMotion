@@ -53,6 +53,58 @@ import v2c18 from "./v2/ch18";
 import v2c19 from "./v2/ch19";
 import v2c20 from "./v2/ch20";
 import v2c21 from "./v2/ch21";
+import v3c1 from "./v3/ch01";
+import v3c2 from "./v3/ch02";
+import v3c3 from "./v3/ch03";
+import v3c4 from "./v3/ch04";
+import v3c5 from "./v3/ch05";
+import v3c6 from "./v3/ch06";
+import v3c7 from "./v3/ch07";
+import v3c8 from "./v3/ch08";
+import v3c9 from "./v3/ch09";
+import v3c10 from "./v3/ch10";
+import v3c11 from "./v3/ch11";
+import v3c12 from "./v3/ch12";
+import v3c13 from "./v3/ch13";
+import v3c14 from "./v3/ch14";
+import v3c15 from "./v3/ch15";
+import v3c16 from "./v3/ch16";
+import v3c17 from "./v3/ch17";
+import v3c18 from "./v3/ch18";
+import v3c19 from "./v3/ch19";
+import v3c20 from "./v3/ch20";
+import v3c21 from "./v3/ch21";
+import v3c22 from "./v3/ch22";
+import v3c23 from "./v3/ch23";
+import v3c24 from "./v3/ch24";
+import v3c25 from "./v3/ch25";
+import v3c26 from "./v3/ch26";
+import v3c27 from "./v3/ch27";
+import v3c28 from "./v3/ch28";
+import v3c29 from "./v3/ch29";
+import v3c30 from "./v3/ch30";
+import v3c31 from "./v3/ch31";
+import v3c32 from "./v3/ch32";
+import v3c33 from "./v3/ch33";
+import v3c34 from "./v3/ch34";
+import v3c35 from "./v3/ch35";
+import v3c36 from "./v3/ch36";
+import v3c37 from "./v3/ch37";
+import v3c38 from "./v3/ch38";
+import v3c39 from "./v3/ch39";
+import v3c40 from "./v3/ch40";
+import v3c41 from "./v3/ch41";
+import v3c42 from "./v3/ch42";
+import v3c43 from "./v3/ch43";
+import v3c44 from "./v3/ch44";
+import v3c45 from "./v3/ch45";
+import v3c46 from "./v3/ch46";
+import v3c47 from "./v3/ch47";
+import v3c48 from "./v3/ch48";
+import v3c49 from "./v3/ch49";
+import v3c50 from "./v3/ch50";
+import v3c51 from "./v3/ch51";
+import v3c52 from "./v3/ch52";
 
 /** Written chapters, keyed "vol-n". Must match READY in lib/kapital.ts. */
 export const CONTENT: Record<string, ChapterContent> = {
@@ -110,4 +162,56 @@ export const CONTENT: Record<string, ChapterContent> = {
   "2-19": v2c19,
   "2-20": v2c20,
   "2-21": v2c21,
+  "3-1": v3c1,
+  "3-2": v3c2,
+  "3-3": v3c3,
+  "3-4": v3c4,
+  "3-5": v3c5,
+  "3-6": v3c6,
+  "3-7": v3c7,
+  "3-8": v3c8,
+  "3-9": v3c9,
+  "3-10": v3c10,
+  "3-11": v3c11,
+  "3-12": v3c12,
+  "3-13": v3c13,
+  "3-14": v3c14,
+  "3-15": v3c15,
+  "3-16": v3c16,
+  "3-17": v3c17,
+  "3-18": v3c18,
+  "3-19": v3c19,
+  "3-20": v3c20,
+  "3-21": v3c21,
+  "3-22": v3c22,
+  "3-23": v3c23,
+  "3-24": v3c24,
+  "3-25": v3c25,
+  "3-26": v3c26,
+  "3-27": v3c27,
+  "3-28": v3c28,
+  "3-29": v3c29,
+  "3-30": v3c30,
+  "3-31": v3c31,
+  "3-32": v3c32,
+  "3-33": v3c33,
+  "3-34": v3c34,
+  "3-35": v3c35,
+  "3-36": v3c36,
+  "3-37": v3c37,
+  "3-38": v3c38,
+  "3-39": v3c39,
+  "3-40": v3c40,
+  "3-41": v3c41,
+  "3-42": v3c42,
+  "3-43": v3c43,
+  "3-44": v3c44,
+  "3-45": v3c45,
+  "3-46": v3c46,
+  "3-47": v3c47,
+  "3-48": v3c48,
+  "3-49": v3c49,
+  "3-50": v3c50,
+  "3-51": v3c51,
+  "3-52": v3c52,
 };

@@ -2,6 +2,710 @@
 
 Details that are uncertain or need a human check. Newest first.
 
+## Volume III, all 52 chapters
+
+Written in parallel and merged on 2026-10-20, each checked against marxists.org (International
+Publishers / Institute of Marxism-Leninism edition) first. Volume III was assembled by Engels from
+Marx's manuscripts and published in 1894; every source note says how much Engels had to supply.
+Items that most need a human eye:
+
+- **Engels wrote whole chapters:** Ch 4 (only the title was Marx's), Ch 43 (text, tables and
+  conclusions are Engels'), and Ch 33 to 35 were assembled by him from notes. The pages say so.
+- **Source typos noted, not used:** Ch 9 ("5v + 20v + 20s = 45", "I) 80v + 20v"); Ch 11 ("wage
+  rise of 255", "16¼p"); Ch 41 Table II (soil B "2" for 12). Ch 25 and Ch 29 print two different
+  totals for the 1847 fall in securities (£114,762,325 and £114,752,225); both are cited.
+- **Ch 42:** the 1894 German edition reads "one-half, from 180% to 90%" where the English has
+  "one-third, from 180% to 60%"; mentioned on the page.
+- **Ch 44:** Engels notes Marx's figures are "not quite correctly calculated"; the page uses Marx's
+  table and mentions the note.
+- **Ch 46:** has no worked price-of-land figure; it borrows Ch 37's (£200 rent at 5% = £4,000).
+- **Ch 52:** ends at "[Here the manuscript breaks off.]", shown as a torn page.
+- **Glossary:** Ch 31's "plethora of loan capital" merged into Ch 30's "plethora of money-capital".
+- **Continuity:** Ava stays a worker (the tailoring workshop has an unnamed boss); Grandpa Ned is
+  only ever the tenant farmer; the Landlord, Old Nell the money-changer, Mr. Crane, Mr. Fenn and
+  Mr. Crust are gray one-offs.
+- **Invented numbers** are labelled on every page that uses them.
+- **Critics** throughout are summarised in our own words and deserve a fairness read, especially
+  the transformation problem (Ch 9), the falling rate of profit (Ch 13 to 15) and classes (Ch 52).
+
+### Volume III, Chapter 52
+
+- The whole chapter is about 470 words. Verified: owners of labour-power, of capital and land-owners,
+  "whose respective sources of income are wages, profit and ground-rent", are "three big classes of
+  modern society"; England "most highly and classically developed", yet "middle and intermediate
+  strata even here obliterate lines of demarcation everywhere"; "this is immaterial for our analysis";
+  the tendency "to divorce the means of production from labour"; "What constitutes a class?"; the
+  physicians and officials objection; owners of vineyards, farm owners, owners of forests, mine owners
+  and owners of fisheries; "[Here the manuscript breaks off.]"
+- The "shopkeepers, clerks and doctors" in 52.1 are our examples of intermediate strata; Marx gives
+  none at that point (physicians and officials come later, in the class question).
+- The grown-up section's last paragraph (classes defined by relation to the means of production) is
+  framed as how readers have answered from the rest of the book, not as Marx's text.
+- The closing "Remember this" lines thank the reader for finishing Capital and point to Volume IV.
+- Critics (my own summaries): Max Weber (class, status, party); the "new middle class" debate from
+  Bernstein onwards; Erik Olin Wright's contradictory class locations.
+
+### Volume III, Chapter 51
+
+- Verified in the text: distribution relations "appear as natural relations"; the surplus serving
+  "the general social needs" in "primitive Indian communities, or the more ingeniously developed
+  communism of the Peruvians"; the "more advanced, more critical mind" that admits distribution is
+  historical but clings to unchanging production relations (footnote 56a cites J. Stuart Mill, Some
+  Unsettled Questions in Political Economy, 1844); production relations have "a specific, historical
+  and transitory character"; capitalist production's "two characteristic features" (commodity
+  production; surplus-value as "the direct aim and determining motive of production"); "Whenever a
+  certain stage of maturity has been reached, the specific historical form is discarded and makes way
+  for a higher one."
+- Mill's best-known statement of the production/distribution split is in Principles of Political
+  Economy (1848), Book II, ch. 1; Marx's footnote points to the 1844 essays. The page names Mill only.
+- Our own: the caring-for-the-old and mending-roads examples (Marx says only "general social needs"),
+  the village story, the tree and pot image, the pile sizes.
+- Critics (my own summaries): Mises (1920) and Hayek on economic calculation; Polanyi (1944) as a
+  partial ally. Worth a fairness read.
+
+### Volume III, Chapter 50
+
+- Verified in the text: "Let the total value of a certain commodity = 300, of which 200 is the value
+  of the means of production... This leaves 100 as the amount of new value"; "If we let wages = x,
+  profit = y and ground-rent = z, then the sum of x + y + z will always = 100"; "to the industrialists,
+  merchants and bankers, and to the vulgar economists, this appears quite different"; wages "stipulated
+  by contract, before their corresponding value equivalent has been produced"; "a general rise or fall
+  in wages, by causing a movement of the general rate of profit in the opposite direction... changes
+  the prices of production of the various commodities, i.e., raises some and lowers others, depending
+  on the average composition of capital".
+- Direction in 50.2 step 4 (machine-heavy trades' prices fall, labour-heavy trades' prices rise) is
+  from Volume III, Chapter 11, consistent with the wording here.
+- Invented and labelled: the 50 / 30 / 20 split and the rise to 60.
+- Critics (my own summaries): marginalist price theory; Hall and Hitch (1939) on full-cost pricing;
+  Kalecki's mark-up theory.
+
+### Volume III, Chapter 49
+
+- Verified in the text: "the absurd dogma pervading political economy since Adam Smith, that in the
+  final analysis the value of commodities resolves itself completely into income, into wages, profit
+  and rent"; the spinner and weaver example ("the yarn of the spinner contains a portion of value
+  representing profit for him... for himself this yarn is merely a part of his constant capital");
+  gross output vs gross income vs net income (gross income = wages + profit + rent; net income = the
+  surplus-value); "the fantasy of men like Say" that the entire gross output resolves into the net
+  income of the nation.
+- Invented and labelled: the 300-coin year split 200 / 50 / 50 in 49.2. The 30-coin yarn (24 / 3 / 3)
+  follows CONTINUITY.md.
+- "The weaving mill" stands in for Marx's weaver; Leo stays an independent hand-loom weaver.
+- Critic (my own summary): modern national accounts (Kuznets, Stone) separate intermediate
+  consumption and depreciation, agreeing with Marx against Smith on that point only.
+
+### Volume III, Chapter 48
+
+- Verified in the text: "Capital, profit (profit of enterprise plus interest), land, ground-rent,
+  labour, wages, this is the trinity formula which comprises all the secrets of the social
+  production process"; "an enchanted, perverted, topsy-turvy world, in which Monsieur le Capital and
+  Madame la Terre do their ghost-walking"; "all science would be superfluous if the outward
+  appearance and the essence of things directly coincided"; vulgar economy "interpret[s],
+  systematise[s] and defend[s]" the conceptions of the agents of production; the realm of necessity
+  passage, "socialised man, the associated producers, rationally regulating their interchange with
+  Nature", "the true realm of freedom", "The shortening of the working-day is its basic prerequisite."
+- Engels' notes: the chapter opens with three fragments "found in different parts of the manuscript
+  for Part VI"; one fragment ends "[The manuscript breaks off here]". The source note says so.
+- Invented and labelled: the split of the 3 coins of surplus into interest 1, rent 1, profit 1 (48.2);
+  the 16-hour waking day and the 12, 9, 6 hour steps in 48.3. The 6 coins of new value, 3 wage and
+  3 surplus follow CONTINUITY.md.
+- The Landlord is a gray one-off; Grandpa Ned is mentioned only as the tenant who pays rent.
+- Critics (my own summaries): J. B. Clark, The Distribution of Wealth (1899); the Cambridge capital
+  controversy and Samuelson's 1966 concession ("A Summing Up", QJE). Worth a fairness read.
+
+### Volume III, Chapter 47
+
+- Verified section structure: I Introductory Remarks, II Labour rent, III Rent in Kind, IV
+  Money-Rent, V Métayage and Peasant Proprietorship of Land Parcels.
+- Verified: in labour rent "rent and surplus-value are identical" and surplus-labour is extracted
+  "by other than economic pressure"; rent in kind "through legal enactment rather than the whip";
+  money rent presupposes commerce, urban industry and money circulation; it leads either to
+  peasants' freehold or to rent paid by the capitalist tenant farmer; the "nursery school for
+  capitalist tenants"; 16th-century depreciation of money under long leases; métayer system with
+  the landlord supplying e.g. cattle; parcel holders farming down to the wages they pay themselves;
+  low grain prices "a result of the producers' poverty"; mortgage interest; causes of downfall
+  (destruction of rural domestic industry, soil exhaustion, usurpation of common lands, competition).
+- Verified: Marx mentions relapses under the Roman Empire and money rent adulterated by survivals in
+  pre-revolutionary France (used in the critics section).
+- Invented: the three-days-each week (Marx gives no split), the chest of family papers, and the
+  drawings. Hob (gray, Ned's ancestor) comes from Volume I, Chapter 29.
+- Glossary: metayer, corvee and serfdom already exist from Volume I and are used in prose only.
+- Critics are my own summaries: Chayanov (1920s) on the peasant economy; historians on the
+  non-linear sequence of rent forms.
+
+### Volume III, Chapter 46
+
+- Verified: Edward Capps, "a big building speculator in London", before the Select Committee on Bank
+  Acts of 1857 (No. 5435): ground at £300 a year, £400 or £450 after building, improved ground-rent
+  £100 or £150, "scarcely looks at" the profit on buildings; leases "generally at the end of 99
+  years" revert to the landlord.
+- Verified: mining rent determined like agricultural rent; Adam Smith on Scottish coal mines that
+  pay no rent; monopoly price from a rare vineyard; capitalised rent appears as the price of land;
+  the title is transferred, not created, by sale; private ownership of the globe will appear as
+  absurd as ownership of one man by another; societies are only "possessors, its usufructuaries".
+- Chapter 46 gives no worked price-of-land figure. The £200 rent at 5% = £4,000 (20 years'
+  purchase) and at 4% = £5,000 (25 years) is Marx's own example from Chapter 37; the source note
+  says so. Please make sure the Chapter 37 page uses the same numbers.
+- Invented: Tiny Town's mill and station, the plot drawing, and the gray "Builder" one-off (Marx's
+  witness is Capps).
+- Critics are my own summaries: Henry George (Progress and Poverty, 1879, land value tax); urban
+  land economics.
+
+### Volume III, Chapter 45
+
+- Verified: P and P + r; differential rents d, 2d, 3d unchanged; "The mere legal ownership of land
+  does not create any ground-rent for the owner" but gives the power to withdraw land; Fourier on a
+  comparatively appreciable portion of land always uncultivated.
+- Verified numbers: non-agricultural 85c + 15v, rate of surplus-value 100%, price of production
+  115; agricultural 75c + 25v, value 125; equalised: surplus 40 on 200 = 20%, both sell at 120;
+  at full value farm products higher by 5.
+- Verified: "rent is the cause of the increase in the price of the product"; price may lie above
+  price of production without reaching value; absolute rent disappears if agricultural composition
+  equals or exceeds the social average; beyond that only a monopoly price.
+- Simplification: 45.1 draws d as one unit and r as one unit; the sizes are illustrative.
+- The rare-wine example for monopoly price is Marx's (Ch 46), used here to picture the term.
+- Critics are my own summaries (Ricardo's no-rent margin; mechanised farming today).
+
+### Volume III, Chapter 44
+
+- Verified numbers: price of production £3 a quarter; money-rents before A 0, B 4½, C 10½, D 16½
+  (total 31½); extra quarter costs £3¾ on A, £4 on A-1, £3½ on B; after, at £3½: A ½, B 6¼,
+  C 13¼, D 20¼ (total 40¼).
+- Engels' bracketed note says the figures are "not quite correctly calculated" (B's average price
+  would be £3½ including its rent, and A's rent different), but that the illustration still shows
+  how a better soil can regulate the price and make all land rent-bearing. The page uses Marx's
+  table and mentions the note; it does not reproduce Engels' corrected numbers.
+- Verified: "a free gift of Nature to capital"; permanent improvements give land what other land
+  has naturally; rent resolvable into interest "becomes pure differential rent as soon as the
+  invested capital is amortised"; notebook "begun in mid-February 1876".
+- Invented, labelled in the source note: the two fields, the stream and Ned's drains.
+- Critic claim to confirm: British law giving tenants compensation for improvements "from the
+  1870s and 1880s" (Agricultural Holdings Acts 1875 and 1883), from general history.
+
+### Volume III, Chapter 43
+
+- Verified: Marx left only the title for the third case; Engels says he filled the gap "to the best
+  of his ability" and drew up Tables XI to XXIV in bushels and shillings.
+- Verified numbers: Table XI soils A to E yield 10, 12, 14, 16, 18 bushels on 60 shillings (50 +
+  10 profit) per acre, 6 shillings a bushel, rents 0, 12, 24, 36, 48 (120 total).
+- Verified conclusions: 5 of 13 cases double the rent to 240; 4 more than double (330, 450, 380,
+  581¼); 1 rises to 150; 3 stay at 120. Rents follow differences of fertility, not fertility.
+- Verified: English corn duties abolished 1846; farmers compelled to invest £12 an acre instead of
+  £8; later competition from the prairies, pampas, and Russian and Indian peasants made rents fall.
+- Simplified: 43.2 lists the 13 cases as bars without naming each table; the order within groups
+  is the site's.
+- Glossary id `corn-laws` is new and chapter-specific (Engels says "corn duties").
+- Critics (Ricardo/Malthus pessimism vs farm productivity; rent as a scarcity price) are my own
+  summaries.
+
+### Volume III, Chapter 42
+
+- Verified in the text: starting from Table II with "18 qrs instead of 20" satisfying demand, soil A
+  drops out and B "and its price of production of 30 shillings per quarter" regulates; Table IV
+  (B, C, D with £5 each, 4/6/8 quarters at £1½, rents £0/£3/£6, total 18 quarters, £27 proceeds,
+  6 quarters or £9 rent); rent falling "from £36 to £9"; "a new differential rent I has been formed
+  in which the better soil B plays the same role as did formerly the inferior soil A"; Table IVd
+  (D with £12½ capital and 20 quarters, rent 10 quarters or £15; total rent 12 quarters or £18);
+  "the money-value and grain value of the rent per acre may rise, although it constitutes a smaller
+  aliquot part of the total yield"; Table I product £30 with rent £18 vs IVd product £45 with rent
+  £18.
+- Editorial notes in the marxists.org text: "[* In the German 1894 edition this reads: D. - Ed.]"
+  and "[Ibid.: one-half, from 180% to 90%. - Ed.]" against the English "to one-third, from 180% to
+  60%". These are the English editors' notes on the 1894 German edition. The page mentions the
+  second one in the critics section.
+- Not animated: Tables IVa, IVb, IVc, V, VI and VIa (falling and rising productivity of additional
+  capital).
+- Critics in my own words: the European agricultural depression after the 1870s (general history);
+  editors' corrections to Marx's draft arithmetic.
+
+### Volume III, Chapter 41
+
+- Verified in the text: the assumption that "the market-price is regulated as before by the capital
+  invested in the worst soil A"; case I (additional capital on B, C, D yielding only as much as on A
+  leaves rent unchanged, "as though an arbitrary number of acres of A quality ... has been added");
+  Table I in pounds (£2½ capital, ½ profit, £3 price of production per acre; rents £0/£3/£6/£9,
+  total £18; rates of surplus-profit 120/240/360%); Table II (£5 per acre, 2/4/6/8 quarters, rents
+  £0/£6/£12/£18, total 20 quarters, £60 proceeds, 12 quarters or £36 rent); case III with Table III
+  (second doses yielding 1½, 2 and 3½ quarters; rents £4½, £9, £16½); case IV (rent per acre rises
+  "proportionately more than the additional capital").
+- Source typo: in the marxists.org Table II, soil B's proceeds read "2" where the arithmetic needs
+  12 (4 quarters at £3). Noted in the page's source note.
+- Invented, labelled on the page: the case IV bars (second doses of 3, 4 and 5 quarters, rents £9,
+  £15, £21). Marx gives no table for case IV.
+- Critics in my own words: diminishing returns (Ricardo, West); readers who find the tables of the
+  draft manuscript hard going.
+
+### Volume III, Chapter 40
+
+- Verified in the text: £10 of capital in portions of £2½ with a price of production of £3 per
+  portion; A to D yielding 1, 2, 3 and 4 quarters and surplus-profits of £0, £3, £6, £9, whether
+  side by side or on the same acre ("it is immaterial"); the "obstinate resistance of English
+  tenants to official agricultural statistics" (citing Morton); "rent is fixed when land is leased,
+  and after that the surplus-profit ... flows into the pockets of the tenant as long as the lease
+  lasts"; tenants fighting for long leases; "tenancies at will, i.e., leases which can be cancelled
+  annually"; intensive cultivation defined as "the concentration of capital upon the same plot";
+  differential rent I as the "basis and point of departure" of differential rent II.
+- Simplified: animation 40.1 assumes the four doses on one acre yield exactly 1, 2, 3 and 4
+  quarters, which is Marx's own hypothetical, stated as "suppose".
+- Critics in my own words: the intensive margin (Ricardo, Edward West); British and Irish tenant
+  compensation laws from the 1870s (general history, not from Marx).
+
+### Volume III, Chapter 39
+
+- Verified in the text: Table I (soils A to D, 50 shillings capital each, 1/2/3/4 quarters,
+  60 shillings a quarter, profit 10 shillings or 20% on A, rents 0/60/120/180 shillings, total
+  10 quarters or 600 shillings product and 6 quarters or 360 shillings rent); the descending
+  sequence with the price rising "from, say, 15 shillings to 60", C entering at 20, B at 30,
+  A at 60, and D's rent per quarter of 5, 15 and 45 shillings (20, 60 and 180 shillings in all);
+  sequences can be descending, ascending or fluctuating; the two causes, fertility and location,
+  which "may work in opposite directions"; location "a decisive factor in the case of colonies";
+  progress evening out location differences "by establishing communication and transportation
+  facilities" while also creating large centres of production; "false social value"; Marx quoting
+  Ricardo approvingly on rent as a difference in produce.
+- Invented, labelled on the page: the Near Field / Far Field numbers in 39.3.
+- One-off: the neighbour Pete in the story (not Hob, who is Ned's ancestor in Vol I Ch 29).
+- Not animated: Tables II and III and the long discussion of how changes in price and fertility
+  combine.
+- Critics in my own words: J. B. Clark's marginal productivity theory; historians on how rents were
+  actually set.
+
+### Volume III, Chapter 38
+
+- Verified in the text: steam-driven factories with cost 100 and price of production 115 (15%);
+  water-driven cost 90, sold at 115, profit 25, surplus-profit 10; the waterfall as a monopolisable
+  natural force "always bound to the land"; the natural force is the "natural basis" of the
+  surplus-profit, not its source; the price of the waterfall as "an irrational expression";
+  £10 a year at 5% average interest capitalised as £200 (x 20 years); a new method cutting the steam
+  cost-price from £100 to £90 would make the surplus-profit, rent and price vanish.
+- Simplified: "a steam engine can be bought, a waterfall cannot be made" paraphrases Marx's contrast
+  between coal and machines (products of labour) and the waterfall (not).
+- Story invention: the rival mill owner and the Landlord's letter.
+- Critics in my own words: Ricardo as the source of the differential idea; "economic rent" in modern
+  economics.
+
+### Volume III, Chapter 37
+
+- Verified in the text: the three classes ("wage-labourers, industrial capitalists, and landowners")
+  as "the framework of modern society"; rent as "that form in which property in land is realised
+  economically"; the landowner who "may spend his whole life in Constantinople, while his estates lie
+  in Scotland"; "terre-capital" as fixed capital; interest on capital incorporated in the land
+  added to rent at a new contract; tenants avoiding improvements they cannot recover during the lease,
+  denounced since James Anderson in the 18th century; building leases of 99 years; £200 rent
+  capitalised at 5% = £4,000 (20 years' purchase), at 4% = £5,000.
+- Invented, labelled as illustration: the drains, the lease timeline and bar lengths in 37.2.
+- Glossary: price-of-land is owned by the Ch 43-47 worker, so it is mentioned in prose only.
+- Critics in my own words: Henry George (Progress and Poverty, 1879); the mainstream view of rent as
+  a market price for a scarce input.
+
+### Volume III, Chapter 36
+
+- Verified: the two forms of usury (to "extravagant members of the upper classes, particularly
+  landowners" and to small producers, "mainly the peasant"); "does not alter the mode of production,
+  but attaches itself firmly to it like a parasite and makes it wretched"; Roman patricians ruining
+  plebeians; "In the Middle Ages ... The Church forbade, from the outset, all lending at interest";
+  "The credit system develops as a reaction against usury"; credit associations of the 12th and 14th
+  centuries in Venice and Genoa; Gilbart's sequence of English caps (Henry VIII 10%, James I 8%,
+  Charles II 6%, Queen Anne 5%), which Marx quotes.
+- Engels' preface: this chapter "was quite complete".
+- The grain sacks (10, 6, 4) and "lend 10, owe 30" are example numbers, labelled on the page.
+- Critics: Raymond de Roover on medieval finance; Banerjee and Duflo on microfinance (cited from
+  general knowledge; please confirm).
+
+### Volume III, Chapter 35
+
+- Verified: the metal reserve's three functions; "a drain of metal is generally ... a premonition
+  that conditions are again approaching a crisis"; "The central bank is the pivot of the credit
+  system. And the metal reserve, in turn, is the pivot of the bank"; "The monetary system is
+  essentially a Catholic institution, the credit system essentially Protestant"; the England and
+  Germany explanation of the rate of exchange as "the barometer" is in square brackets, i.e. Engels'
+  addition. The source note says so.
+- The price of marks (20, 21, 22) in 35.1 is an example number, labelled.
+- Critics: end of gold convertibility in the early 1970s; modern exchange-rate economics. General
+  knowledge, our own summaries.
+
+### Volume III, Chapter 34
+
+- Verified: Overstone, Torrens and others as the "Currency Principle"; Peel's Bank Acts of 1844 and
+  1845 (English and Scottish legislation); the issue department with 14 million in securities plus
+  the metal hoard; "for every five pounds in gold which leave ... a five-pound note returns ... and is
+  destroyed"; the banking department "on the verge of bankruptcy" while the issue department held
+  gold and securities; the Act made merchants hoard notes "to accelerate and intensify the crisis";
+  interest 8 and 9% in October and November 1847; Government Letter of 25 October 1847 (suspension);
+  Overstone's praise on 14 July 1857 and suspension on 12 November 1857 (Engels' bracketed text).
+- The 1845 Act is described as for Scotland (the text says "English and Scottish bank legislation").
+- Critic claims about the Act's long life and the pound's reputation are general history; check.
+
+### Volume III, Chapter 33
+
+- Verified: the £500 note example (A to B, deposit, discount for C, C's bank, bill-broker); "every
+  superfluous note wends its way back immediately to the issuer"; Neave (Governor, Bank Committee
+  1858): about £20,000,000 in ordinary times; notes in circulation fell 1844 to 1857 while trade more
+  than doubled; Wright: in an alarm "the country requires twice as much circulation"; "the sudden
+  change of the credit system into a monetary system during crises".
+- Engels' preface: Chapters 33 to 35 were assembled by him from Marx's notes headed "The Confusion",
+  with interpolations. The source note says so.
+- 33.2's bar for "notes actually out" in a panic (£16m) is illustrative; only £20m and "twice as
+  much" are from the text.
+- Critics: the Currency School and monetarists; the Bank of England's 2014 bulletin on money creation
+  (cited from general knowledge, please confirm).
+
+### Volume III, Chapter 32
+
+- Verified: "everyone borrows only for the purpose of paying"; interest reaches its maximum in the
+  crisis; money "suddenly stands as the only means of payment"; "universal depreciation of
+  commodities". The phrase "the sudden change of the credit system into a monetary system during
+  crises" is in Chapter 33; the page attributes it there.
+- Engels' bracketed notes appear in the chapter (e.g. "[This does not agree with my experience. F.E.]").
+- Yarn 30 to 15 in 32.2 is an example number, labelled.
+- Critics: Bagehot (1873), Bernanke; Diamond and Dybvig (1983). Our own summaries.
+
+### Volume III, Chapter 31
+
+- Verified: loan capital can build up "inversely proportional" to productive accumulation in two
+  phases of the cycle (after the crisis, and in smooth recovery with low interest); the surplus of
+  loan capital "expresses ... a stagnation of industrial capital"; the 1852 and 1853 Australian and
+  Californian gold deposited at the Bank of England for notes.
+- Engels' preface: Part V gave "the greatest difficulty"; Chapter 31 "possessed greater continuity".
+- Bar heights in 31.1 and the phase labels are illustrative, not Marx's data.
+- Critics (Friedman and Schwartz 1963; Minsky) are summarised in our own words; check for fairness.
+
+### Volume III, Chapter 30
+
+- Verified: Marx's two "difficult questions" (does accumulation of money-capital indicate real accumulation; does a shortage of money indicate a shortage of real capital); "paper duplicates of consumed capital"; commercial credit "forms the basis of the credit system", its limits being the wealth of industrialists and merchants and their returns; "commodity transactions for the sole purpose of manufacturing bills of exchange"; "business always appears almost excessively sound right on the eve of a crash"; the Bank Act reports of 1857 and 1858 with Overstone "at their head", "just one month before the outbreak of the crisis in August 1857"; the interest cycle (low after the crisis; "cavaliers who work without any reserve capital or without any capital at all"; maximum in the crisis; "in the opposite direction to that of industrial capital"); the 1857 crisis in the United States and the gold flows; "The ultimate reason for all real crises always remains the poverty and restricted consumption of the masses"; a real lack of productive capital only in general crop failures.
+- Engels' preface: from Chapter 30 the "real difficulty" began; it "was put together by means of transpositions and excisions".
+- The two curves in 30.1 are illustrative, not data, and the caption says so.
+- Critics (Minsky 1986; Friedman and Schwartz 1963; disputes over underconsumption among Marxists) are summaries in our own words.
+
+### Volume III, Chapter 29
+
+- Verified: bank capital = cash plus securities (bills of exchange; public securities, stocks, mortgages), split into invested and borrowed capital; £500 at 5% gives £25; state debt as "illusory, fictitious capital"; "The formation of a fictitious capital is called capitalisation"; £100 income at 5% = £2,000; a £100 share paying 10% worth £200 at 5%; at 10% interest a £5 income represents £50, at 2½% it represents £200; 23 October 1847 depreciation £114,752,225 (Morris, Governor of the Bank of England, No. 3800); "the nation did not grow one cent poorer by the bursting of this soap bubble of nominal money-capital"; "all capital seems to double itself, and sometimes treble itself"; deposits "merely claims on the banker".
+- Engels' preface: Chapter 29 "could be taken almost completely from the original manuscript".
+- Chapter 25 prints a slightly different total for the same depreciation (£114,762,325); the source note mentions both.
+- Invented: the war as the reason for state borrowing (Marx speaks only of capital "consumed, i.e., expended by the state"), Tom, Mia, Bea's book entries.
+- Critics (Irving Fisher 1906 present value; bank safety and regulation) are summaries in our own words.
+
+### Volume III, Chapter 28
+
+- Verified: Tooke's currency/capital distinction "comes down to two things"; the five-pound note passing between spheres; "the difference between the money-form of revenue and the money-form of capital, but not that between currency and capital"; Fullarton, "A demand for capital on loan and a demand for additional circulation are quite distinct things"; Marx: "the contrast drawn by Fullarton is not correct", the difference being "the ease with which this demand is satisfied in periods of prosperity, and the difficulties which it meets in periods of depression".
+- Engels' preface: Chapter 28 "had to be re-arranged in places".
+- "Banking School" is historians' label for Tooke and Fullarton, not used in the chapter; the source note says so. The Currency School is not discussed in this chapter.
+- Tooke is described as a "writer on money" (he was a merchant and economist), not a banker.
+- Invented: the 5-coin note's route, the professor, the bank window.
+- Critic (modern money statistics) is a summary in our own words.
+
+### Volume III, Chapter 27
+
+- Verified: Marx's numbered list (equalisation of the rate of profit; reduction of costs of circulation by economising money, faster circulation, paper for gold; credit keeping buying and selling apart "as a basis for speculation"; formation of stock companies); "the abolition of capital as private property within the framework of capitalist production itself"; the manager as "administrator of other people's capital"; "a new financial aristocracy"; "the little fish are swallowed by the sharks and the lambs by the stock-exchange wolves"; co-operative factories "the first sprouts of the new"; both "transitional forms", the antagonism "resolved negatively in the one and positively in the other"; credit's spokesmen from Law to Isaac Péreire, "swindler and prophet".
+- Engels' bracketed insert on cartels and the United Alkali Trust (more than thirty plants, about £5 million fixed plus £1 million floating, £6 million total) is labelled as Engels'.
+- Engels' preface: Chapter 27 "could be taken almost completely from the original manuscript".
+- Invented and labelled: the hat-makers' 14% and spinners' 8%, the railway company, the spinners' co-operative.
+- Critics (Berle and Means 1932; Mondragon and the record of co-operatives) are summaries in our own words.
+
+### Volume III, Chapter 26
+
+- Verified: the 1847 bank rate by month exactly as listed (Jan 3-3½%, Feb 4-4½%, Mar 4%, Apr 4-7½% panic, May 5-5½%, Jun 5%, Jul 5%, Aug 5-5½%, Sep 5% with variations to 6%, Oct 5-7%, Nov 7-10%, Dec 7 to 5%); "the interest rose because profits decreased"; at least £9 million gold paid abroad for foodstuffs in 1847; causes listed: rising corn and cotton prices, unsold sugar, railway speculation and crash, overcrowded foreign markets; Overstone (Samuel Jones Loyd), No. 3653, "an alteration in the value of capital", Marx's tautology charge; Gurney, No. 1324, fluctuations "advantageous to dealers in money".
+- Engels' preface: Chapter 26 needed "a sifting of the references".
+- The 26.1 chart shows each month's low and high from Marx's list; the "high"/"low" tags and the profit and interest lines in 26.2 are illustrative.
+- Critics (Keynes 1936 liquidity preference; Irving Fisher) are summaries in our own words.
+
+### Volume III, Chapter 25
+
+- Verified: Marx excludes an "exhaustive analysis" of credit; bills of exchange "form the actual commercial money"; Leatham's £528,493,842 of bills in 1839 and £132,123,460 out at one time; "accommodation paper"; Bosanquet on bills transferring property "by endorsement"; a bank as "a centralisation of money-capital, of the lenders, on the one hand, and on the other a centralisation of the borrowers"; profit from borrowing at a lower rate than lending; a bank-note as "a draft upon a banker"; the East India practice of buying goods "to be able to make out discountable drafts"; Mr. Lister (Union Bank of Liverpool) to the Lords' 1848 committee: bills "drawn for produce or for wind".
+- Engels' preface: Part V gave him the most trouble; Chapter 25 needed "a sifting of the references". Much of the chapter is quotation.
+- Invented and labelled: Tom's bill, the cotton dealer, the 29 coins, the 2% and 4% rates.
+- Critics (mainstream banking theory; bills vanishing and deposit money today) are summaries in our own words.
+- The chapter lists a 1847 depreciation of £114,762,325 (Lords' document); Chapter 29 gives £114,752,225 from Morris's evidence. Both are as printed on marxists.org.
+
+### Volume III, Chapter 24
+
+- Verified: "most externalised and most fetish-like form"; "M – M', money creating more money";
+  "much as it is an attribute of pear-trees to bear pears"; "automatic fetish ... no longer bears the
+  birth-marks of its origin"; Dr. Price's penny at 5% compound interest from "our Saviour's birth"
+  exceeding "a hundred and fifty millions of earths, all solid gold", versus "seven shillings and four
+  pence half-penny" at simple interest; Pitt and the sinking fund; "In 1786 the House of Commons had
+  resolved to raise £1 million"; "The identity of surplus-value and surplus-labour imposes a
+  qualitative limit"; the "merely quantitative" limit that "defies all fantasy".
+- "About 1,770 years" is our arithmetic from Christ's birth to Price's 1770s writing.
+- Price as "a preacher and writer" and the later abandonment of Pitt's sinking fund are general
+  history, not in Marx's chapter.
+- Invented: Mia's 20 coins growing to 21; the shapes of the curves.
+- Critics (own summaries): productivity-based growth; agreement that Price's sum was fantasy.
+
+### Volume III, Chapter 23
+
+- Verified: the "purely quantitative division" turning "into a qualitative one"; profit of enterprise
+  as "wages of superintendence of labour, higher than a common labourer's, 1) because the work is far
+  more complicated, and 2) because he pays them to himself"; the double nature of supervision; "much as
+  that of an orchestra conductor"; "An orchestra conductor need not own the instruments"; co-operative
+  factories proving the capitalist "redundant as a functionary in production"; wages of management
+  falling with "the general development which reduces the cost of production of specially trained
+  labour-power".
+- Figures reuse Marx's Ch 21 example (100 coins, 20 profit, 5 interest, 15 kept).
+- Critics (own summaries): Schumpeter and Knight on entrepreneurship and uncertainty; Mondragon.
+
+### Volume III, Chapter 22
+
+- Verified: "the maximum limit of interest is the profit itself"; the minimum "altogether
+  indeterminable"; "no such thing as a natural rate of interest" (with Massie); "Customs, juristic
+  tradition, etc."; interest low in prosperity and at its peak in crises, "when money is borrowed at any
+  cost to meet payments"; 4½% (spring 1842), 2% (spring and summer 1843), 1½% (September 1843, citing
+  Gilbart), "8% and higher during the crisis of 1847"; the tendency to fall (rentiers; credit system);
+  the rate of interest as "a uniform, definite and tangible magnitude".
+- Invented: the slice sizes (5, 20, 1) in 22.1, labelled "slice sizes made up".
+- Critics (own summaries): Wicksell's natural rate (1898); central banks and the "neutral" rate.
+
+### Volume III, Chapter 21
+
+- Verified: money's "additional use-value, namely that of serving as capital"; "a commodity sui
+  generis"; average rate of profit 20%, £100 yields £20, £5 paid as interest; interest as "another
+  name ... for a part of the profit"; the movement "M – M – C – M' – M'"; lending and borrowing instead
+  of selling and buying; interest as "an irrational form of price"; Gilbart's "natural justice"
+  dismissed as "nonsense".
+- Pounds shown as coins (100, 120, 105, 15).
+- Invented: Ava's 5-coin coat in 21.3.
+- Critics (own summaries): Böhm-Bawerk and Fisher on time preference; consumption loans (Marx himself
+  treats usury in Ch 36).
+
+### Volume III, Chapter 20
+
+- Verified: merchant's capital is "historically the oldest free state of existence of capital"; the
+  law of inverse development; the carrying trade of the "Venetians, Genoese, Dutch"; "a system of
+  robbery ... plundering, piracy, kidnapping slaves, and colonial conquest" in Carthage, Rome, the
+  Venetians, Portuguese, Dutch; "industry which constantly revolutionises commerce"; England and
+  Holland; the two transitions from feudalism, "the really revolutionising path", the English
+  17th-century clothier, and the merchant's road that "only worsens the condition of the direct
+  producers".
+- The ellipsis in the "industry ... revolutionises commerce" quote drops "in this case".
+- Invented: Spice Coast and Cloth Hills; Tom as the clothier who sells Leo wool (Marx's example is
+  unnamed English clothiers).
+- Critics (own summaries): Pirenne; the Sweezy–Dobb transition debate (1950s); merchants as builders
+  of financial institutions.
+
+### Volume III, Chapter 19
+
+- Verified: "purely technical movements" of money as a separate business; paying out and receiving as
+  a cost of circulation, "not labour creating value"; money-changing and the bullion trade as "the
+  original forms of the money trade"; concentration "on a large scale" with "numerous book-keepers and
+  cashiers"; M–M′ appearing here too; "the money-dealers' profit is nothing but a deduction from the
+  surplus-value".
+- The Amsterdam Bank of Exchange (1609) comes from a source Marx quotes in a note, not Marx's own text.
+- Invented: Old Nell (gray one-off money-changer), the travellers' coins, the 6/4/2 book entries,
+  and the size of Nell's fee (labelled "size made up").
+- Critics (own summaries): banking output in national accounts; Coase and transaction costs.
+
+### Volume III, Chapter 18
+
+- Verified in the text: merchant's turnover as repeated M–C, C–M; average annual rate 15%, £100 turned
+  over once sells at 115, five times sells at 103 each time so 500 sells for 515, same annual profit
+  of 15; a higher profit from faster turnover "would be in conflict with the law of the general rate
+  of profit"; the amount added to price "in inverse proportion to the number of turnovers"; "Small
+  profits and quick returns appear to the shopkeeper to be the principle"; "a fictitious demand is
+  then created"; goods lie unsold "at some particular imperceptible point"; the internal connection
+  "violently restored through a crisis"; crises break out first "in the spheres of wholesale trade,
+  and of banking", not in retail. The sugar example is in the chapter but not used.
+- Invented, labelled: Mr. Crane (one-off rival shopkeeper); the four-link chain in animation 18.2
+  simplifies Marx's manufacturer, exporter, importer, wholesaler sequence.
+- Glossary: Ch 18 defines its own id, `merchants-turnover` (not in the assigned list, Ch 18 only).
+- Critic summarised in our own words: unequal retail profits and the debate over profit-rate
+  equalisation.
+
+### Volume III, Chapter 17
+
+- Verified in the text: 720c + 180v = 900, s' = 100%, product 1,080, rate 20%; £100 of merchant's
+  capital, total 1,000, share 1/10, rate 18%; industrial capitalists sell to merchants at
+  720c + 180v + 162s = 1,062; merchant sells at 1,062 + 18 = 1,080; "It is just an illusion that
+  commercial profit is a mere addition to, or a nominal rise of, the prices"; buying below value
+  and selling at value; merchant's capital "enters the formation of the general rate of profit";
+  costs of offices, paper, postage and clerks as pure costs of circulation; "The unpaid labour of
+  these clerks, while it does not create surplus-value, enables him to appropriate surplus-value".
+- Invented, labelled: Lily the clerk (gray one-off) and the half-paid day in animation 17.2.
+- Critic summarised in our own words; Shaikh and Tonak (*Measuring the Wealth of Nations*, 1994)
+  cited from memory, worth confirming.
+
+### Volume III, Chapter 16
+
+- Verified in the text: the dealer with £3,000 buying 30,000 yards of linen at 2s. a yard and
+  ending the year with £3,300 at a 10% average rate; commodity-capital becoming commercial capital
+  "by virtue of the division of labour"; the merchant's circuit M–C–M′ with the same commodity
+  changing hands twice; the linen still on the market after the manufacturer is paid; transport,
+  storage and distribution as production processes within circulation (Vol II Ch 6), stripped away
+  to find commercial capital in pure form; merchant's capital "does not create either value or
+  surplus-value, at least not directly"; it shortens circulation time and so raises the rate of
+  profit indirectly.
+- Story choice: Tiny Town uses Mr. Moneybags' yarn and the 30-coin skein from CONTINUITY.md rather
+  than Marx's linen. The weeks bar in animation 16.2 is illustrative.
+- Critic summarised in our own words: mainstream view of trade as productive, and the reply that
+  Marx counts transport and storage as productive.
+
+### Volume III, Chapter 15
+
+- Verified in the text: "The conditions of direct exploitation, and those of realising it, are not
+  identical"; consumer power limited by "antagonistic conditions of distribution"; absolute
+  over-production of capital when additional capital = 0 (yields no more surplus-value);
+  "unemployed capital at one pole, and unemployed worker population at the other"; over-production
+  of capital "always includes over-production of commodities"; the chain of payments "broken in a
+  hundred places"; withdrawal and partial destruction of capital; "the cycle would run its course
+  anew"; crises "momentary and forcible solutions of the existing contradictions"; "The real barrier
+  of capitalist production is capital itself"; "Too little is produced to decently and humanely
+  satisfy the wants of the great mass."
+- Simplified: animation 15.3 orders Marx's description into four stations (boom, crash, clear-out,
+  new machines). The order is our reading of his sequence, not a diagram of his.
+- Ch 15 is among the rougher manuscript chapters Engels assembled; the critic section says so.
+- Critics summarised in our own words: Keynesian and other explanations of crises; the
+  profitability vs underconsumption vs disproportionality debate among Marxists; capitalism's
+  repeated recoveries.
+
+### Volume III, Chapter 14
+
+- Verified in the text: the six section headings and their order (I. Increasing intensity of
+  exploitation; II. Depression of wages below the value of labour-power; III. Cheapening of elements
+  of constant capital; IV. Relative over-population; V. Foreign trade; VI. The increase of stock
+  capital); counteracting influences "cross and annul the effect of the general law" and give it
+  "merely the characteristic of a tendency"; wages below value "one of the most important factors
+  checking the tendency"; the European spinner working up far more cotton whose value "has not grown
+  in the same proportion as its mass"; foreign and colonial trade yielding a higher rate of profit;
+  railways yielding only interest or dividends.
+- Invented, labelled: the ×10 bales and ×3 value in animation 14.2; "Sam's grandmother" at the wheel.
+- Critic summarised in our own words: the testability objection (Sweezy and later critics).
+
+### Volume III, Chapter 13
+
+- Verified in the text: v = 100, s = 100 (s/v = 100%) with c = 50, 100, 200, 300, 400 giving
+  p' = 66⅔%, 50%, 33⅓%, 25%, 20%; the 2 to 3 million worker example, 4c + 2v + 2s (C = 6, 33⅓%)
+  becoming 15c + 3v + 3s (C = 18, 16⅔%), mass of surplus-value up by half; "double-edged law";
+  "an expression peculiar to the capitalist mode of production of the progressive development of
+  the social productivity of labour"; "the price of the individual commodity to fall"; the law
+  "of great importance to capitalist production" and a "mystery" since Adam Smith.
+- Invented, labelled: the 10 versus 40 skeins in animation 13.3.
+- Critics summarised in our own words: Okishio (1961) and the temporalist reply; the empirical
+  debate on long-run profit rates (no specific studies named; worth a check if names are wanted).
+
+### Volume III, Chapter 12
+
+- Verified in the text: "There are just two causes that can change the price of production";
+  k = 200, p' = 20%, price 240; "All changes in the price of production of commodities are reduced,
+  in the last analysis, to changes in value"; commodities of average composition; shipping and
+  insurance as grounds for compensating; "everything appears reversed in competition"; "the
+  common loot, the total surplus-value".
+- Our arithmetic, labelled on the page: 200 at 15% = 230, and 180 at 20% = 216 (12.1); the
+  amounts added for risk, slow selling and management (12.2).
+- Clerk Pim (from Vol II Ch 6) reappears as Moneybags' bookkeeper.
+- Critic (Knight 1921) summarised in our own words.
+
+### Volume III, Chapter 11
+
+- Verified in the text: average 80c + 20v at 20%; wages up 25% gives 80c + 25v + 15p, rate
+  14 2/7%, new composition 76 4/21c + 23 17/21v; 50c + 50v goes to 50c + 62½v, price of
+  production 128 8/14 (= 128 4/7); 92c + 8v goes to 102 cost-price and 116 4/7; wages down a
+  quarter gives 80c + 15v + 25p, rate 26 6/19%; 50c + 37½v gives 110 10/19; 92c + 6v gives
+  123 15/19; Ricardo considered only the case of a rise.
+- **Source typos noted, not used:** "Owing to a wage rise of 255" (should be 25%), and "16¼p" in
+  "50c + 62½v + 16¼p = 128 8/14" (the profit is 16 1/14, as the previous sentence says).
+- The link to *Value, Price and Profit* (1865) and the 1865 argument against John Weston is
+  general knowledge, not in this chapter.
+- Critics (Sraffa 1960, Steedman 1977; wage-price spiral debate) are summarised in our own words.
+
+### Volume III, Chapter 10
+
+- Verified in the text: "capital withdraws from a sphere with a low rate of profit and invades
+  others, which yield a higher profit", the "incessant outflow and influx"; market-value as the
+  average value, or the individual value under average conditions; surplus-profit for those
+  below the market-value and loss of part of the surplus for those above it; supply and demand
+  regulating deviations of market-price from market-value, and market-value regulating supply and
+  demand; values "historically prius to the prices of production"; capitalists as "a veritable
+  freemason society vis-a-vis the whole working-class".
+- Marx discusses three cases (market-value set by average, best or worst conditions depending on
+  where the bulk of supply comes from). The page shows only the average case.
+- Invented, labelled: yarn 10% and coats 30% averaging 20% (10.1); ovens of 8, 10 and 12 hours
+  (10.2); Mr. Crust is a one-off.
+- Critics (marginalism; persistent inter-industry profit differences and Shaikh's reply) are
+  summarised in our own words.
+
+### Volume III, Chapter 9
+
+- Verified in the text: the five capitals 80c + 20v, 70c + 30v, 60c + 40v, 85c + 15v, 95c + 5v
+  at s' = 100%, rates 20, 30, 40, 15, 5%; total 500, surplus-value 110, value 610, average
+  78c + 22v and 22%; the second and third tables (used-up c 50, 51, 51, 40, 10; values 90, 111,
+  131, 70, 20; cost-prices 70, 81, 91, 55, 15; prices 92, 103, 113, 77, 37; deviations +2, -8,
+  -18, +7, +17; "2 + 7 + 17 = 26 above, and 8 + 18 = 26 below"); the three-capital tabulation at
+  80c + 20v and 20% (values 120, 110, 130; price 120); capitalists as "so many stockholders in a
+  stock company"; Marx's own remark that cost-prices contain the prices of production of inputs.
+- **Source typos noted, not used:** "5v + 20v + 20s = 45" (should be 5c) and "I) 80v + 20v"
+  (should be 80c) in the marxists.org text.
+- Totals 422 = 422 are our addition of Marx's numbers (90 + 111 + 131 + 70 + 20 and 92 + 103 +
+  113 + 77 + 37).
+- Bea's "pot" is the site's metaphor; Marx speaks of "uniform distribution of surplus-value".
+- Critics (Böhm-Bawerk 1896, Bortkiewicz 1907, Samuelson 1971; Duménil and Foley's New
+  Interpretation, the TSSI of Kliman and Freeman) are summarised in our own words.
+
+### Volume III, Chapter 8
+
+- Verified in the text: technical composition as "the real basis" of organic composition; copper
+  and iron with the same technical but different value composition; £1 = one labourer a week,
+  60 hours, rate of surplus-value 100%; A = 600c + 100v and B = 100c + 600v, both 700, profits 100
+  and 600, rates 14 2/7% and 85 5/7%; £100 of wages moving £200c or £400c (33⅓% and 20%);
+  90c + 10v versus 10c + 90v ("political economy would then be deprived of every rational basis");
+  the European/Asian example (84c + 16v at 100% gives 16%; 16c + 84v at 25% gives 21%), not used
+  on the page; fixed versus circulating capital does not in itself affect the rate of profit;
+  differences in average profit rates "do not exist in reality".
+- Marx's B in 8.2 has dearer materials; we cast it as copper work, following Marx's own copper and
+  iron remark a few paragraphs earlier.
+- The tailoring workshop's owner is left unnamed: Ava stays a worker, as in Volume I.
+- Critics: Böhm-Bawerk (1896); Shaikh and the price-value correlation debate, summarised in our
+  own words without figures.
+
+### Volume III, Chapter 7
+
+- Verified in the text: the capitalist "forgets the process of production" in circulation, with
+  Engels' bracketed note that a blank in the manuscript shows Marx meant to say more; the A/B
+  example (£1,000 wages, £1,000 surplus-value, £9,000 or £11,000 constant capital, 10% and 8⅓%);
+  "business acumen" convincing the capitalist his profits are due "particularly his individual
+  activity"; capitals of 1,000, 2,000 and 500 at 20% making 200, 400 and 100; gold halving or
+  doubling changes only money names (200:40 = 50:10 = 100:20).
+- Mr. Fenn, the badly run rival workshop, is this site's one-off.
+- The critic (Schumpeter 1911, Kirzner 1973) is summarised in our own words.
+
+### Volume III, Chapter 6
+
+- Verified: s/((c + d) + v); "the rate of profit ... falls and rises inversely to the price of raw material"; the importance of cutting import duties on raw materials; section II on appreciation, depreciation, release and tie-up of capital, which need credit and the world market to develop fully; vegetable and animal substances bound to "natural time periods"; "relative over-production of machinery ... relative under-production of vegetable and animal raw materials"; rising prices bring distant supply, more production the next year, substitutes and use of waste, then a reaction; capitalists forming associations after 1848 and then forgetting them; Engels' note on trusts; the cotton famine heading for 1861-64; Surat cotton waste 25%; October 1862, Lancashire and Cheshire: 40,146 (11.3%) full time, 134,767 (38%) short time, 179,721 (50.7%) unemployed; cotton prices "unequalled in almost 100 years".
+- Invented and labelled: cotton doubling from 20 to 40 coins in animation 6.1.
+- General history, not stated in Marx's text: that Lancashire relied mainly on American cotton (the text implies it through the switch to Surat cotton).
+- Critics (Hayek-style price signals; famines in non-capitalist societies and futures markets) are our own summaries.
+
+### Volume III, Chapter 5
+
+- Verified: concentration saves on buildings, heating, lighting and power; Horner's October 1852 report quoting the engineer James Nasmyth: Cornish and Woolf engines used 3½ to 4 lbs of coal per horse-power per hour against 8 to 12 for most cotton-mill engines; iron filings, shoddy, gas-tar into aniline dyes and alizarin; London's sewage and the Thames; about 15 colliery deaths a week around 1860; 8,466 killed 1852-61 (report of 6 February 1862), admitted too low; capitalism "squanders human lives ... not only blood and flesh, but also nerve and brain"; the saving "appears as a product of the social nature of directly productive labour", yet the capitalist sees it as "entirely alien to" his labourers; manufacturers resisting enforcement of machinery safety 1844-55.
+- Invented and labelled: the five workshops and the 100 to 60 figures in animation 5.1.
+- "Unfenced machinery" summarises the 1844-55 fight over safety appliances that Marx describes.
+- Critics (economies of scale passed on to buyers; falling industrial deaths) are our own summaries.
+
+### Volume III, Chapter 4
+
+- WRITTEN BY ENGELS: his 1894 preface says only the title existed and he wrote the chapter himself, all in brackets. The page says so in the prose, a quiz question and the source note.
+- Verified: capitals I, II and III of 11,000 each with 5,000 of annual surplus-value and p' = 45 5/11%; p' = s'n(v/C); Bessemer, Siemens, Gilchrist-Thomas; alizarin vs madder; an East Asia shipment "at least twelve months in 1847 ... reduced to almost as many weeks"; the Suez Canal; the 10,000-spindle mill of April 1871 giving about 33.27% / 33.28%, "abnormally high".
+- Invented and labelled: the working/stuck shares in animation 4.2.
+- "By Engels' time" stands for the 1894 "now" of the text.
+
+### Volume III, Chapter 3
+
+- Verified: p' = s'(v/C), p' : s' = v : C; 80c + 20v with 10s, 20s, 40s giving s' 50/100/200% and p' 10/20/40%; 15,000 C = 12,000c + 3,000v (+3,000s) at 20% vs 13,000c + 2,000v (+2,000s) at 13⅓%; 80c + 20v + 20s (100%, 20%) to 90c + 10v + 15s (150%, 15%); the conclusion that the rate of profit depends on the rate of surplus-value and the value-composition of capital, and that a rising, falling or constant p' can go with a rising, falling or constant s'.
+- Engels' preface: compiled from Samuel Moore's summary of a notebook of equations from the 1870s; Engels' note 10 says he left out detailed calculations of s' - p'.
+- In animation 3.2 the second capital is drawn per hundred as 87 + 13 squares (exactly 86⅔ + 13⅓).
+- Uncertain: the critic line about scholars of the original manuscripts is general, with no names given.
+
+### Volume III, Chapter 2
+
+- Verified: "rate of profit s/C=s/(c+v), as distinct from the rate of surplus-value s/v"; "two different measurements of the same entity"; profit "a converted form of surplus-value, a form in which its origin and the secret of its existence are obscured and extinguished"; "capital appears as a relation to itself"; "the more mysterious the relations of capital will become".
+- Engels' preface: Chapter 2 is taken from the main manuscript.
+- Workshop numbers (s 3, v 3, C 27, 11%) are this site's, from CONTINUITY.md.
+
+### Volume III, Chapter 1
+
+- Verified: C = c + v + s = k + s; the £20 wear + £380 materials + £100 labour-power example, 400c + 100v + 100s = £600, cost-price £500; "What the commodity costs the capitalist and its actual production cost are two quite different magnitudes"; surplus-value "does not cost the capitalist anything simply because it costs the labourer unpaid labour"; sales at £510 to £590 giving profits of £10 to £90; profit as surplus-value "in a mystified form"; C = k + p.
+- Engels' preface: Chapter 1 was built from two revised drafts of about eight folio pages each.
+- Invented: the Saturday-night ledger story; animations 1.1 and 1.2 use the workshop numbers (24 + 3 + 3).
+- Critics (Knight 1921 on risk, Schumpeter on innovation) are summaries in our own words.
+
 ## Volume II, all 21 chapters
 
 Written in parallel and merged on 2026-10-20, each checked against marxists.org (the Lasker

@@ -12,7 +12,7 @@ export const TERMS = {
     term: "Plethora of money-capital",
     kid: "Too much spare money sitting in banks with nobody wanting to borrow it.",
     grownUp:
-      "An abundance of loanable money-capital, typical just after a crisis, which shows stagnant industry rather than real wealth. Marx asks how far it expresses real accumulation and finds the two often move apart.",
+      "An abundance of loanable money-capital, typical just after a crisis, which shows stagnant industry rather than real wealth. Marx asks how far it expresses real accumulation and finds the two often move apart. Also called a plethora of loan capital (Ch. 31).",
     firstSeen: "3-30",
   },
 } satisfies Record<string, Term>;

@@ -126,7 +126,7 @@ const chapter: ChapterContent = {
     "New gold from abroad can swell the money to lend without one extra spindle turning.",
   ],
 
-  terms: ["plethora-of-loan-capital"],
+  terms: ["plethora-of-capital"],
 
   source: (
     <p>

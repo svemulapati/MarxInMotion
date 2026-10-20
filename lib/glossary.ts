@@ -52,6 +52,58 @@ import { TERMS as V2C18 } from "@/content/v2/ch18.terms";
 import { TERMS as V2C19 } from "@/content/v2/ch19.terms";
 import { TERMS as V2C20 } from "@/content/v2/ch20.terms";
 import { TERMS as V2C21 } from "@/content/v2/ch21.terms";
+import { TERMS as V3C01 } from "@/content/v3/ch01.terms";
+import { TERMS as V3C02 } from "@/content/v3/ch02.terms";
+import { TERMS as V3C03 } from "@/content/v3/ch03.terms";
+import { TERMS as V3C04 } from "@/content/v3/ch04.terms";
+import { TERMS as V3C05 } from "@/content/v3/ch05.terms";
+import { TERMS as V3C06 } from "@/content/v3/ch06.terms";
+import { TERMS as V3C07 } from "@/content/v3/ch07.terms";
+import { TERMS as V3C08 } from "@/content/v3/ch08.terms";
+import { TERMS as V3C09 } from "@/content/v3/ch09.terms";
+import { TERMS as V3C10 } from "@/content/v3/ch10.terms";
+import { TERMS as V3C11 } from "@/content/v3/ch11.terms";
+import { TERMS as V3C12 } from "@/content/v3/ch12.terms";
+import { TERMS as V3C13 } from "@/content/v3/ch13.terms";
+import { TERMS as V3C14 } from "@/content/v3/ch14.terms";
+import { TERMS as V3C15 } from "@/content/v3/ch15.terms";
+import { TERMS as V3C16 } from "@/content/v3/ch16.terms";
+import { TERMS as V3C17 } from "@/content/v3/ch17.terms";
+import { TERMS as V3C18 } from "@/content/v3/ch18.terms";
+import { TERMS as V3C19 } from "@/content/v3/ch19.terms";
+import { TERMS as V3C20 } from "@/content/v3/ch20.terms";
+import { TERMS as V3C21 } from "@/content/v3/ch21.terms";
+import { TERMS as V3C22 } from "@/content/v3/ch22.terms";
+import { TERMS as V3C23 } from "@/content/v3/ch23.terms";
+import { TERMS as V3C24 } from "@/content/v3/ch24.terms";
+import { TERMS as V3C25 } from "@/content/v3/ch25.terms";
+import { TERMS as V3C26 } from "@/content/v3/ch26.terms";
+import { TERMS as V3C27 } from "@/content/v3/ch27.terms";
+import { TERMS as V3C28 } from "@/content/v3/ch28.terms";
+import { TERMS as V3C29 } from "@/content/v3/ch29.terms";
+import { TERMS as V3C30 } from "@/content/v3/ch30.terms";
+import { TERMS as V3C31 } from "@/content/v3/ch31.terms";
+import { TERMS as V3C32 } from "@/content/v3/ch32.terms";
+import { TERMS as V3C33 } from "@/content/v3/ch33.terms";
+import { TERMS as V3C34 } from "@/content/v3/ch34.terms";
+import { TERMS as V3C35 } from "@/content/v3/ch35.terms";
+import { TERMS as V3C36 } from "@/content/v3/ch36.terms";
+import { TERMS as V3C37 } from "@/content/v3/ch37.terms";
+import { TERMS as V3C38 } from "@/content/v3/ch38.terms";
+import { TERMS as V3C39 } from "@/content/v3/ch39.terms";
+import { TERMS as V3C40 } from "@/content/v3/ch40.terms";
+import { TERMS as V3C41 } from "@/content/v3/ch41.terms";
+import { TERMS as V3C42 } from "@/content/v3/ch42.terms";
+import { TERMS as V3C43 } from "@/content/v3/ch43.terms";
+import { TERMS as V3C44 } from "@/content/v3/ch44.terms";
+import { TERMS as V3C45 } from "@/content/v3/ch45.terms";
+import { TERMS as V3C46 } from "@/content/v3/ch46.terms";
+import { TERMS as V3C47 } from "@/content/v3/ch47.terms";
+import { TERMS as V3C48 } from "@/content/v3/ch48.terms";
+import { TERMS as V3C49 } from "@/content/v3/ch49.terms";
+import { TERMS as V3C50 } from "@/content/v3/ch50.terms";
+import { TERMS as V3C51 } from "@/content/v3/ch51.terms";
+import { TERMS as V3C52 } from "@/content/v3/ch52.terms";
 
 export interface Term {
   term: string;
@@ -282,6 +334,58 @@ export const GLOSSARY = {
   ...V2C19,
   ...V2C20,
   ...V2C21,
+  ...V3C01,
+  ...V3C02,
+  ...V3C03,
+  ...V3C04,
+  ...V3C05,
+  ...V3C06,
+  ...V3C07,
+  ...V3C08,
+  ...V3C09,
+  ...V3C10,
+  ...V3C11,
+  ...V3C12,
+  ...V3C13,
+  ...V3C14,
+  ...V3C15,
+  ...V3C16,
+  ...V3C17,
+  ...V3C18,
+  ...V3C19,
+  ...V3C20,
+  ...V3C21,
+  ...V3C22,
+  ...V3C23,
+  ...V3C24,
+  ...V3C25,
+  ...V3C26,
+  ...V3C27,
+  ...V3C28,
+  ...V3C29,
+  ...V3C30,
+  ...V3C31,
+  ...V3C32,
+  ...V3C33,
+  ...V3C34,
+  ...V3C35,
+  ...V3C36,
+  ...V3C37,
+  ...V3C38,
+  ...V3C39,
+  ...V3C40,
+  ...V3C41,
+  ...V3C42,
+  ...V3C43,
+  ...V3C44,
+  ...V3C45,
+  ...V3C46,
+  ...V3C47,
+  ...V3C48,
+  ...V3C49,
+  ...V3C50,
+  ...V3C51,
+  ...V3C52,
 };
 
 export type TermId = keyof typeof GLOSSARY;

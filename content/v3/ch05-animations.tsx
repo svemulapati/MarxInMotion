@@ -107,8 +107,8 @@ export function OneRoofForMany() {
 export function SavingOnSafety() {
   return (
     <Player
-      id="anim-v3-5-2"
-      title="5.2 · Saving on safety"
+      id="anim-v3-5-3"
+      title="5.3 · Saving on safety"
       steps={[
         { caption: "There is a darker way to economise on constant capital: spend as little as possible on the place where people work." },
         { caption: "In the coal mines Marx read about, owners saved on drainage, fresh air, strong shafts and good machinery." },
@@ -174,8 +174,8 @@ const LOOPS = [
 export function WasteIntoWealth() {
   return (
     <Player
-      id="anim-v3-5-3"
-      title="5.3 · Waste into wealth"
+      id="anim-v3-5-2"
+      title="5.2 · Waste into wealth"
       steps={[
         { caption: "A big workshop makes big piles of waste. Big enough to be worth using again." },
         { caption: "Iron filings from machine-making go back into making iron. Old woollen rags are torn up and spun into new cloth called shoddy." },
