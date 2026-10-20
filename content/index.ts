@@ -17,6 +17,21 @@ import v1c15 from "./v1/ch15";
 import v1c16 from "./v1/ch16";
 import v1c17 from "./v1/ch17";
 import v1c18 from "./v1/ch18";
+import v1c19 from "./v1/ch19";
+import v1c20 from "./v1/ch20";
+import v1c21 from "./v1/ch21";
+import v1c22 from "./v1/ch22";
+import v1c23 from "./v1/ch23";
+import v1c24 from "./v1/ch24";
+import v1c25 from "./v1/ch25";
+import v1c26 from "./v1/ch26";
+import v1c27 from "./v1/ch27";
+import v1c28 from "./v1/ch28";
+import v1c29 from "./v1/ch29";
+import v1c30 from "./v1/ch30";
+import v1c31 from "./v1/ch31";
+import v1c32 from "./v1/ch32";
+import v1c33 from "./v1/ch33";
 
 /** Written chapters, keyed "vol-n". Must match READY in lib/kapital.ts. */
 export const CONTENT: Record<string, ChapterContent> = {
@@ -38,4 +53,19 @@ export const CONTENT: Record<string, ChapterContent> = {
   "1-16": v1c16,
   "1-17": v1c17,
   "1-18": v1c18,
+  "1-19": v1c19,
+  "1-20": v1c20,
+  "1-21": v1c21,
+  "1-22": v1c22,
+  "1-23": v1c23,
+  "1-24": v1c24,
+  "1-25": v1c25,
+  "1-26": v1c26,
+  "1-27": v1c27,
+  "1-28": v1c28,
+  "1-29": v1c29,
+  "1-30": v1c30,
+  "1-31": v1c31,
+  "1-32": v1c32,
+  "1-33": v1c33,
 };

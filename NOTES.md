@@ -2,6 +2,317 @@
 
 Details that are uncertain or need a human check. Newest first.
 
+## Volume I, Chapters 19 to 33
+
+Written in parallel and merged on 2026-10-20, each checked against marxists.org first.
+Items that most need a human eye:
+
+- **Ch 33, Mr. Peel:** marxists.org (Moore and Aveling) says **300** working people went to the
+  Swan River; some editions say 3,000. The page uses 300 and the source note mentions both.
+  Please check Fowkes.
+- **Ch 21:** the marxists.org text says one piece is paid "½d." in one place, but its own sums
+  need 1½d.; the page uses 1½d.
+- **Ch 22:** "nominal wage" is defined once, in Ch 20 (Ch 22's duplicate was merged into it).
+- **Ch 24:** the big mill uses Marx's own Ch 24 split (8,000 : 2,000), not the workshop's 24 : 3.
+- **Ch 25:** pauperism names all three of Marx's groups; most worker counts are invented and labelled.
+- **Ch 27 and 31:** the harshest scenes (the old woman burnt in the Sutherland clearance, the
+  scalp bounties, the Dutch slave prisons) are left out for a young audience; slavery and the
+  treatment of native peoples are still stated plainly.
+- **Ch 32:** the prediction is labelled a forecast throughout; 32.3 sets critics (Bernstein,
+  rising living standards, the USSR and China) beside supporters' replies. History there is
+  general history, not Marx.
+- **Ch 33:** the "free land" was not empty; the critic section mentions Noongar land.
+- **Invented numbers** are labelled on the page (Far Valley wages, Hob's lease, the 4-coin wage
+  in Ch 25, Mr. Grabb's waistcoat rates, and others listed below).
+- **Critics** in every chapter are summarised in our own words and deserve a fairness read.
+
+### Volume I, Chapter 33
+
+- **Mr. Peel's workers: 300, not 3,000.** The brief said 3,000, but the marxists.org text (Moore and
+  Aveling) reads "300 persons of the working class, men, women, and children". The page uses 300 and
+  the source note says some editions give 3,000. Please check the Fowkes edition.
+- Verified in the text: E. G. Wakefield; Mr. Peel took means of subsistence and production worth
+  £50,000 to Swan River, West Australia; "Mr. Peel was left without a servant to make his bed or fetch
+  him water from the river"; capital is "not a thing, but a social relation between persons,
+  established by the instrumentality of things"; "systematic colonisation"; the "sufficient price";
+  the scheme tried by the English government, its "fiasco", emigration diverted to the United States;
+  the closing sentence on "the expropriation of the labourer".
+- The date of Peel's voyage (1829) is not given by Marx and is not used.
+- Invented for the site: Mr. Moneybags plays Peel's part; the poster and the letter read in Mia's
+  bakery; the "newcomer" in 33.2.
+- Critics (my summaries): the land was not empty (Noongar country around the Swan River); South
+  Australia (founded 1836) applied Wakefield's land-price principle.
+- The last "Remember this" closes Volume I and points to Volume II.
+
+### Volume I, Chapter 32
+
+- Verified in the text: private property of the labourer as the basis of petty industry; Pecqueur's
+  "to decree universal mediocrity"; expropriation "with merciless Vandalism"; "One capitalist always
+  kills many"; the growth of misery and of a working class "disciplined, united, organised by the very
+  mechanism" of capitalist production; "The knell of capitalist private property sounds. The
+  expropriators are expropriated."; "with the inexorability of a law of Nature"; "the negation of
+  negation"; the second transformation is less "protracted, violent, and difficult" than the first.
+- Neutrality: the prediction is labelled as a forecast in the animation, the grown-up section and the
+  quiz. Animation 32.3 gives critics and supporters side by side.
+- Facts used in 32.3 (general history, not from Marx): Bernstein 1899; the Soviet Union 1917 to 1991;
+  famines and repression under states claiming Marx; the 2008 crisis. Karl Popper's *The Open Society
+  and Its Enemies* (1945) in the critics.
+- The eight workshops in 32.2 are an illustration, not Marx's numbers.
+
+### Volume I, Chapter 31
+
+- Verified in the text: the gradual road at a "snail's pace"; usurer's and merchant's capital;
+  gold and silver in America, the enslavement of native peoples, the East Indies, Africa as a
+  "warren for the commercial hunting of black-skins" (not quoted on the page); the four levers
+  combined in England at the end of the 17th century (colonies, national debt, modern taxation,
+  protection); "Force is the midwife of every old society pregnant with a new one"; Banjuwangi
+  80,000 to 18,000 (not used); the national debt "endows barren money with the power of breeding";
+  Bank of England (1694) lending to the government at 8%; taxes on the most necessary means of
+  subsistence; protection as "manufacturing manufacturers"; workhouse children "from the age of 7 to
+  the age of 13 or 14" sent north (quoting Fielden); "the beds never get cold"; Liverpool slave ships
+  15 (1730), 53 (1751), 74 (1760), 96 (1770), 132 (1792); "capital comes dripping from head to foot,
+  from every pore, with blood and dirt".
+- Tone: slavery and the treatment of native peoples are stated plainly but without graphic detail.
+  The Massachusetts scalp bounties and the Dutch slave prisons are left out for a child audience;
+  worth a review if a fuller treatment is wanted.
+- Invented for the site: Bea's old account books, Mr. Moneybags' family story, the king figure.
+- Critics (my summaries): Eric Williams (1944) vs Engerman and Anstey, with Inikori's reply;
+  Patrick O'Brien (1982) vs Kenneth Pomeranz (2000).
+
+### Volume I, Chapter 30
+
+- Verified in the text: fewer cultivators but as much or more produce; peasants' means of
+  nourishment "transformed into material elements of variable capital"; raw materials into constant
+  capital; the Westphalian peasants of Frederick II's time who "all span flax", and "Not a fibre of it
+  is changed, but a new social soul has popped into its body"; Mirabeau's *manufactures réunies*;
+  the destruction of rural domestic industry creates the home market; manufacture only half completes
+  it; modern industry "conquers for industrial capital the entire home market".
+- Invented for the site: Sam's great-grandparents, their candles and tallow, and the shops in 30.2.
+- Critics (my summaries): J. D. Chambers (1953) on enclosure and labour supply; Robert Allen on
+  yeomen; Jan de Vries' "industrious revolution" (2008).
+
+### Volume I, Chapter 29
+
+- Verified in the text: the bailiff, himself a serf, as the first form; replaced in the second half
+  of the 14th century by a farmer supplied with seed, cattle and implements; the métayer
+  (half-farmer) sharing stock and product by contract; quickly replaced in England by the farmer
+  proper who employs wage labourers and pays rent; enriched by the agricultural revolution from the
+  last third of the 15th century; usurped common lands enlarging his cattle; leases often for 99
+  years; the fall in the value of precious metals; prices of corn, wool and meat rising while rent
+  shrank in reality; rich "at the expense both of their labourers and their landlords"; a class of
+  wealthy capitalist farmers by the end of the 16th century.
+- Money wages rising "but not in proportion" to the depreciation of money is from Chapter 28.
+- The dates on the 29.1 staircase after "late 1300s" are approximate ("soon after", "by the
+  1500s"); Marx gives no exact dates for the métayer stage.
+- 29.2's figures (rent 10, corn 1 then 2 coins a sack, wages 10 then 14) are invented and labelled
+  as such on the page.
+- Hob, Grandpa Ned's ancestor, is this site's character; Ned stays a tenant, never the landlord.
+- Critics are my summaries: Earl J. Hamilton (1934) and the population explanation of the price
+  revolution; Mark Overton (1996) on dating the agricultural revolution. Worth a fairness read.
+
+### Volume I, Chapter 28
+
+- Verified in the text: the expropriated could not be absorbed by manufacture as fast as they were
+  thrown out; "partly from inclination, in most cases from stress of circumstances"; bloody
+  legislation "throughout Western Europe"; treated as "voluntary" criminals; Henry VIII 1530
+  (licence for old beggars; sturdy vagabonds whipped at the cart-tail and sworn to return and "put
+  themselves to labour"); 27 Henry VIII (half an ear on second arrest, execution on the third);
+  Edward VI 1547 (slave to the denouncer; branded S if absent a fortnight; V for vagabonds);
+  Elizabeth 1572 (beggars over 14 flogged and branded on the left ear unless taken into service for
+  two years; execution for repeat offences); laws "grotesquely terrible"; Statute of Labourers 1349
+  (maximum wage, no minimum; taking higher wages punished more than giving them); wage regulation
+  repealed 1813; combinations a crime until 1825, the ban falling only in part; "the dull
+  compulsion of economic relations".
+- Kid-level choices: the 28.1 cards say "marked with a hot iron" and "marked on the ear" rather
+  than describing branding in detail; the cart-tail whipping is summarised as "whipped".
+- Critics are my summaries: C. S. L. Davies (1966) on the 1547 slavery statute being little used and
+  soon repealed; the Elizabethan Poor Law of 1601. Worth a fairness read.
+
+### Volume I, Chapter 27
+
+- Verified in the text: serfdom practically gone in the last part of the 14th century; most people
+  free peasant proprietors in the 15th; the prelude in the last third of the 15th century; the
+  Flemish wool manufactures raising wool prices; Bacon on enclosures in 1489; More's sheep (quoted
+  in a footnote); the Reformation and the suppression of the monasteries; the yeomanry more numerous
+  than farmers in the 1690s and gone "about 1750"; the last trace of labourers' common land gone in
+  the 1790s; Acts for enclosures of Commons as decrees by which landlords grant themselves the
+  people's land; 3,511,770 acres between 1801 and 1831; the Sutherland clearance 1814 to 1820:
+  15,000 people, about 3,000 families, 794,000 acres, 6,000 acres on the shore (2 acres a family),
+  29 sheep farms, 131,000 sheep by 1835; later deer preserves.
+- Added from general history, not from Marx: Utopia's date (1516) and the 1530s date of the
+  dissolution of the monasteries.
+- Left out on purpose: the old woman burnt in her hut during the Sutherland clearance (too harsh for
+  the kid level; the page says villages were "pulled down").
+- 27.3 scales: each house = 500 people; each sheep icon about 10,000 sheep; the two squares are
+  drawn to scale by area (side ratio about 11.5).
+- Critics are my summaries: Chambers and Mingay (1966), Neeson (1993), Gregory Clark on common
+  rights. Worth a fairness read.
+
+### Volume I, Chapter 26
+
+- Verified in the text: the vicious circle and the need for a primitive accumulation ("previous
+  accumulation of Adam Smith"); the comparison with original sin; the "diligent, intelligent, and,
+  above all, frugal elite" and the "lazy rascals" with nothing to sell but "their own skins";
+  "conquest, enslavement, robbery, murder, briefly force"; free labourers in the double sense;
+  emancipation from serfdom and guilds versus being robbed of all means of production; "letters of
+  blood and fire"; the capitalist era dating from the 16th century; England as the classic form.
+- Marx calls the tale "insipid childishness" and "the intellectual food of the infant"; the page
+  renders this as "a nursery tale", a paraphrase rather than his exact phrase.
+- Critics are my summaries: the saving-and-enterprise view, and the transition debate (Postan, Le
+  Roy Ladurie versus Brenner, 1976). Worth a fairness read.
+- Bess and Will (Sam's great-grandparents) are this site's characters, per CONTINUITY.md.
+
+### Volume I, Chapter 25
+
+- Verified in the text: value, technical and organic composition defined in Section 1; "the rise of
+  wages therefore is confined within limits" that leave the system intact; the "golden chain"; the
+  example of 50 per cent becoming 80 per cent in means of production; "the larger capitals beat the
+  smaller"; credit and joint-stock companies; "the world would still be without railways" had it
+  waited for accumulation; the reserve army as product and "lever" of accumulation; wages regulated
+  by "the expansion and contraction of the industrial reserve army", not by absolute population; the
+  decennial cycle; overwork of the employed and "enforced idleness" of the others; the three forms
+  (floating, latent, stagnant); pauperism as "the hospital of the active labour-army and the dead
+  weight of the industrial reserve army"; "the absolute general law", "modified in its working by
+  many circumstances"; "be his payment high or low, must grow worse"; "accumulation of wealth at one
+  pole ... misery ... at the opposite pole"; Malthus explaining over-population by absolute growth;
+  Ireland 8,222,664 (1841) to 5½ million (1866), and the relative surplus population "as great as
+  before 1846".
+- Invented for the animations (and said so in the source note): the 4-coin wage in 25.1, the
+  100/300-coin capitals and the worker counts in 25.2 (10, 4, 12), the rival workshop in 25.4.
+- 25.3 shows the latent part as farm workers near Grandpa Ned's. Marx's latent form is the
+  agricultural population "on the point of passing over" to the towns; the threshing-machine idea is
+  left out of the caption, which only says farms need fewer hands.
+- Critics are summarised in my own words: long-run real wage growth and the absolute vs relative
+  immiseration debate; automation fears and the Phillips curve (A. W. Phillips, 1958).
+- Section 5 (England 1846-66, the badly paid strata, the nomad population, the agricultural
+  proletariat) is only summarised in one sentence; Ireland is the one illustration used in detail.
+
+### Volume I, Chapter 24
+
+- Verified in the text: the spinner advancing £10,000, four-fifths (£8,000) on cotton and machinery and
+  one-fifth (£2,000) on wages, 240,000 lb of yarn worth £12,000, rate of surplus-value 100%; the £2,000
+  laid out as £1,600 and £400; "£10,000 brings in a surplus-value of £2,000 ... £400 ... £80"; "Abraham
+  begat Isaac, Isaac begat Jacob"; Sismondi's circle that "changes into a spiral"; the laws of
+  appropriation "changed into their very opposite", "only an apparent exchange", property as "the right
+  ... to appropriate the unpaid labour of others"; Ricardo and Smith's error that the capitalised revenue
+  is "consumed by productive labourers"; the "Faustian conflict"; luxury as "a business necessity";
+  competition as "external coercive laws"; "Accumulate, accumulate! That is Moses and the prophets!";
+  "Accumulation for accumulation's sake, production for production's sake"; Senior: "I substitute ...
+  for the word capital ... the word abstinence", and Marx's "sycophantic phrase"; the capitalist
+  "enforces on the labourer abstinence"; machines' "gratuitous service"; the labour fund and Bentham.
+- Marx grants, for argument's sake, that the original capital came from the owner's own labour. The
+  page and animation 24.2 say "Marx is happy to assume this".
+- The big mill uses Marx's Chapter 24 numbers (4 : 1 split), which differ from the daily workshop numbers
+  in CONTINUITY.md (24 : 3). The source note says so.
+- 24.1 shows each new capital's own offspring (£2,000 to £400 to £80), as Marx does. It does not add up
+  the yearly total, where the first £10,000 also keeps producing £2,000 a year.
+- The 24.3 split between spending and investing is drawn, not numbered; the heights are illustrative.
+- Senior's abstinence book date is given only as "the 1830s" (his Outline of the Science of Political
+  Economy appeared in 1836); Marx says it came a year before the "last hour".
+- Critics are summarised in my own words: Senior, Böhm-Bawerk and Irving Fisher on waiting; pension-fund
+  savings; Solow (1956) growth theory and long-run real wage growth.
+
+### Volume I, Chapter 23
+
+- Verified in the text: "every social process of production is, at the same time, a process
+  of reproduction"; simple reproduction when surplus-value is consumed as revenue; the worker
+  is paid after he has worked; "It is his labour of last week, or of last year, that pays for
+  his labour-power this week or this year"; capitalists give workers "order-notes"; the peasant
+  doing 3 days for himself and 3 for his lord, who then takes the land and pays "wages".
+- £1,000 of capital, £200 a year consumed, gone in value after 5 years; 10 years if half is
+  consumed; the general rule (capital ÷ surplus-value consumed per year). The site scales this
+  to 100 coins and 20 a year.
+- Productive vs individual consumption; "just as coal and water are supplied to the
+  steam-engine and oil to the wheel"; "The Roman slave was held by fetters: the wage labourer is
+  bound to his owner by invisible threads"; the ban on emigrating machine-making mechanics
+  "down to 1815"; cotton famine and Edmund Potter's letter in The Times, 24 March 1863 (opposing
+  state-aided emigration of "superfluous" hands); "the labourer belongs to capital before he
+  has sold himself to capital".
+- The 36 coins of new value and 18-coin weekly wage in 23.1 follow CONTINUITY.md (6 coins of new
+  value and a 3-coin wage per 12-hour day, six days).
+- Critics are summarised in my words: the "accounting trick" objection (Marx anticipates it:
+  "what he thinks cannot alter facts"); wage-fund theorists and Böhm-Bawerk on advancing wages.
+
+### Volume I, Chapter 22
+
+- Verified in the text: the factors to compare (necessaries, training, women's and children's
+  labour, productivity, extensive and intensive magnitude); reduce day-wages to a uniform day,
+  then to piece-wages; national averages of intensity form a scale on the world market; "the
+  more productive national labour reckons also as the more intense, so long as..."; nominal
+  wages higher in the more developed nation without proving real wages are; relative price of
+  labour can be higher in the poorer nation.
+- J. W. Cowell, Factory Commission of 1833: "in England wages are virtually lower to the
+  capitalist, though higher to the operative than on the Continent of Europe" (quoted in part).
+- Alexander Redgrave, report of 31 Oct 1866: Oldenburg factory 5.30 a.m. to 8 p.m., wages
+  "in many cases 50%" lower, hands to machinery 5:3; spindles per person: France 14, Russia 28,
+  Prussia 37, Bavaria 46, Austria 49, Belgium 50, Saxony 50, Switzerland 55, smaller German
+  states 55, Great Britain 74 (the animation shows six of these); a mule of 2,200 spindles minded
+  by one man and two assistants, 220 lbs of yarn a day.
+- Railway builders in Eastern Europe and Asia; Henry Carey's "Essay on the Rate of Wages".
+- Invented for 22.1: Far Valley, Jan, 1½ coins, 14 hours, 20 lb against 5 lb. The caption says
+  the numbers are made up. 1½ coins echoes Redgrave's "50%"; 14 hours echoes Oldenburg's day.
+- Critics are summarised in my words: unit labour costs and Balassa-Samuelson (1964); Arghiri
+  Emmanuel's *Unequal Exchange* (French 1969) and Bettelheim's reply.
+- Fowkes title: "National Differences in Wages" (from memory, as elsewhere).
+
+### Volume I, Chapter 21
+
+- Verified in the text: piece-wages are "nothing else than a converted form of wages by time";
+  24 pieces in 12 hours, value-product 6s., 3d. a piece, the worker paid 1½d. a piece = 3s.;
+  London compositors by the piece vs country ones by the day; quality controlled by the work
+  itself; London tailors' waistcoat "called an hour... the hour at 6d."; middlemen whose gain
+  "comes entirely from the difference"; the "sweating system"; the head labourer hiring
+  assistants ("exploitation of the labourer by the labourer"); personal interest to intensify
+  and lengthen; individual wages above the average, average pushed down; the 1860 Coventry
+  ribbon-weavers' strike over compulsory transformation into time-wages; "most in harmony
+  with the capitalist mode of production"; productivity doubles → 48 pieces at ¾d.
+- **Text inconsistency:** the marxists.org (Moore and Aveling) text later says "the wage for
+  one piece ½d." while the same paragraph's arithmetic (and the earlier example) is 1½d.
+  falling to ¾d. The site uses 1½d., which fits the arithmetic.
+- Invented, labelled on screen or in the source note: Mr. Grabb (one-off middleman), Ava's 4p
+  per waistcoat, the 28-spool step in 21.3.
+- Ava now sews at home (Marx's "modern domestic industry"), continuing from Ch 14 where she sewed
+  carriage cushions.
+- Critic 1 cites Edward Lazear's study of a car-glass firm (Safelite, AER 2000) from memory:
+  output per worker up sharply (about 44%) and pay up (about 10%). The page avoids exact
+  figures; worth confirming before adding them.
+
+### Volume I, Chapter 20
+
+- Verified in the text: price of the working hour = daily value of labour-power ÷ hours of the
+  working day (3s. / 12 = 3d.); 3 3/5d., 3d., 2 2/5d. for 10, 12, 15 hours at the same 3s.;
+  employed only 6 or 8 hours, he receives "only 2s. or 1s. 6d." (8 hours → 2s., 6 hours →
+  1s. 6d.); "half of every hour for himself, and half for the capitalist"; the "perfectly
+  rational revolt in 1860 of the London labourers, employed in the building trades"; the
+  "normal working-day" up to the tenth hour, overtime paid better; the low normal price
+  "compels the labourer to work during the better paid over-time"; "the longer the
+  working-days... the lower are the wages"; Redgrave's 20 years 1839-1859; the London
+  "undersellers" getting "18 hours' work out of their men for 12 hours' wages"; overtime
+  hour at 4d. against 3d. (a third vs a half unpaid).
+- 1 coin = 1 shilling = 12 pennies, as in CONTINUITY.md.
+- The "10 regular hours + 2 overtime hours = 38p" example in 20.3 is invented; only the 3p
+  and 4p rates are Marx's. Labelled on screen.
+- The new bakery across the square that undersells Mia is this site's story.
+- Critics in my words: the flexibility argument; rising real hourly pay and the fall from
+  ~60 to ~40 normal weekly hours (round historical figures, worth a check).
+
+### Volume I, Chapter 19
+
+- Verified in the text: Marx's own example of a 12-hour day, labour-power worth 3s. (6 hours),
+  creating 6s.; "labour which creates a value of 6s. possesses a value of 3s."; "value of
+  labour" is "as imaginary as the value of the earth"; the wage-form "extinguishes every trace"
+  of the split and "All labour appears as paid labour"; the corvée (labour for self and for the
+  lord "differ in space and time"), slavery (all labour appears unpaid), wage-labour (unpaid
+  appears paid); "the property-relation conceals... the money-relation conceals"; wages paid
+  after the labour; hiring a machine for a week costs more than for a day; individual
+  differences in pay for the same work.
+- Mia's great-grandmother working three days for herself and three for the lord is invented;
+  Marx gives no specific day split here. (Ch 10 mentions the Danubian corvée.)
+- 19.3's loom-hire prices and the fast spinner's "bit more" are example numbers, labelled on screen.
+- "corvee" glossary id is first defined here, though the word is used in Ch 10's text.
+- Critics are summarised in my words: J. B. Clark's marginal productivity (1899) and Joan
+  Robinson's monopsony (1933).
+
 ## Volume I, Chapters 5 to 18
 
 Written in parallel and merged on 2026-10-20. Every chapter was checked against the
