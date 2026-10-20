@@ -47,6 +47,29 @@ Grandpa Ned the farmer, Bea the banker, Tom the shopkeeper. One-off extras are d
 - **Ch 32** states Marx's prediction ("the expropriators are expropriated") as his argument, with
   critics given fair space. No cheerleading, no mockery.
 
+## Volume II plan (binding)
+
+Volume I watched value being *made*. Volume II follows capital as it *moves*.
+
+- **The circuit (Ch 1-6):** Mr. Moneybags' coins (M) buy cotton, spindles and Sam's labour-power (C);
+  the workshop runs (P); out comes yarn worth more (C′), which must be sold to become more coins (M′).
+  Write it M–C…P…C′–M′. Selling the yarn is never instant: carts, shops, and waiting.
+  One-offs for costs of circulation: a clerk ("Clerk Pim") doing the books, a carter hauling yarn.
+  Transport counts as production in Marx; bookkeeping and selling time do not add value.
+- **Turnover (Ch 7-17):** the cotton is used up and replaced every week (circulating capital);
+  the spinning machine lasts for years and passes its value on slowly (fixed capital).
+  Grandpa Ned's wheat takes months to grow (production time longer than working time).
+  Yarn shipped to a far country takes weeks to sell (circulation time). Use Marx's own numbers
+  where the chapter gives them (e.g. a 9-week working period with 3 weeks' circulation in Ch 15,
+  capitals A and B in Ch 16) and label any conversion to coins.
+- **Reproduction (Ch 18-21):** the whole town split into two departments.
+  **Department I makes means of production:** the town Forge (machines, tools; gray one-off
+  "the Ironmaster") and Moneybags' spinning mill. **Department II makes things people consume:**
+  Mia's bakery and Ava's tailoring. Use Marx's own schemes and numbers (e.g. simple reproduction
+  I: 4000c + 1000v + 1000s, II: 2000c + 500v + 500s, so I(v+s) = IIc = 2000), scaled only if labelled.
+- Vol II was assembled by **Engels** from Marx's manuscripts; chapters may say so where the text is
+  unfinished (Engels' notes in the text).
+
 ## The numbers (Marx's own, Ch 7 to 9; 1 coin = 1 shilling)
 
 - A day of Sam's labour-power is worth **3 coins** (his daily food, rent, clothes).

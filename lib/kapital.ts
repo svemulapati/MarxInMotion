@@ -35,7 +35,10 @@ export interface Volume {
 }
 
 /** Chapters that have been written. Everything else renders as "soon". */
-const READY = new Set<string>(Array.from({ length: 33 }, (_, i) => `1-${i + 1}`));
+/** Chapter keys from..to of one volume, e.g. span(2, 1, 6) = "2-1".."2-6". */
+const span = (vol: number, from: number, to: number) => Array.from({ length: to - from + 1 }, (_, i) => `${vol}-${from + i}`);
+
+const READY = new Set<string>([...span(1, 1, 33)]);
 
 const make = (vol: VolumeNumber, titles: string[]): Chapter[] =>
   titles.map((title, i) => ({ vol, n: i + 1, title, status: READY.has(`${vol}-${i + 1}`) ? "ready" : "soon" }));
