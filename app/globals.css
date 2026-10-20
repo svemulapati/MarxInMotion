@@ -1,0 +1,119 @@
+@import "tailwindcss";
+
+:root {
+  --ink: #222222;
+  --paper: #ffffff;
+  --mute: #bfbfbf;
+}
+
+@theme inline {
+  --color-ink: var(--ink);
+  --color-paper: var(--paper);
+  --font-sans: var(--font-inter-tight);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--ink);
+  color: var(--paper);
+  font-family: var(--font-inter-tight), "Helvetica Neue", Arial, sans-serif;
+  letter-spacing: -0.01em;
+}
+
+a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  text-decoration-thickness: 1px;
+}
+
+/* White info bars under the masthead and in the footer. */
+.strip {
+  background: var(--paper);
+  color: #000;
+  padding: 1px 10px 2px;
+}
+
+/* "(Volume)" style eyebrow. */
+.label {
+  font-size: 10px;
+  color: var(--mute);
+  line-height: 1.2;
+}
+
+/* ── Motion ─────────────────────────────────────────────── */
+
+@keyframes wm-rise {
+  from {
+    transform: translateY(16%);
+    opacity: 0;
+  }
+  to {
+    transform: none;
+    opacity: 1;
+  }
+}
+
+.wm-block {
+  fill: var(--paper);
+  opacity: 0;
+  animation: wm-rise 0.9s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.spin-a { animation: spin 9s linear infinite; }
+.spin-b { animation: spin 60s linear infinite; }
+.spin-c { animation: spin 3s steps(12) infinite; }
+.spin-slow { animation: spin 80s linear infinite; }
+
+@keyframes marquee-up {
+  to {
+    transform: translateY(-50%);
+  }
+}
+
+.marquee-up {
+  animation: marquee-up 18s linear infinite;
+}
+
+@keyframes grain-drift {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  50% { transform: translate(-4%, 3%) scale(1.06); }
+}
+
+.grain-drift {
+  animation: grain-drift 22s ease-in-out infinite;
+}
+
+/* Scroll-driven reveal: cards slide up as they enter the viewport. */
+@supports (animation-timeline: view()) {
+  @keyframes reveal {
+    from {
+      opacity: 0;
+      transform: translateY(48px);
+    }
+  }
+  .reveal {
+    animation: reveal linear both;
+    animation-timeline: view();
+    animation-range: entry 0% entry 60%;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
