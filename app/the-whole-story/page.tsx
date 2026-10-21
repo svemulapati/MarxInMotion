@@ -3,7 +3,7 @@ import Link from "next/link";
 import Quiz from "@/components/Quiz";
 import SiteBar from "@/components/SiteBar";
 import { TheWholeStory } from "@/content/wrap-up-animations";
-import { chapterHref, getChapter, getVolume, VOLUMES, type VolumeNumber } from "@/lib/kapital";
+import { ALL_CHAPTERS, chapterHref, getChapter, getVolume, type VolumeNumber } from "@/lib/kapital";
 
 export const metadata: Metadata = {
   title: "The whole story in one animation · Marx in Motion",
@@ -53,7 +53,7 @@ const MAP: { vol: VolumeNumber; ideas: { text: string; ch: number }[] }[] = [
 ];
 
 export default function TheWholeStoryPage() {
-  const last = VOLUMES[3].chapters.at(-1)!;
+  const last = getVolume(4)!.chapters.at(-1)!;
   return (
     <main className="flex-1 overflow-x-clip">
       <SiteBar />
@@ -72,7 +72,7 @@ export default function TheWholeStoryPage() {
           <p className="big-question">Can you tell the whole of Capital in one go?</p>
           <div className="prose-kid mt-6">
             <p>
-              You have walked through Tiny Town for 130 chapters. You met Leo and his linen, Sam and his long day, Mr.
+              You have walked through Tiny Town for {ALL_CHAPTERS.length} chapters. You met Leo and his linen, Sam and his long day, Mr.
               Moneybags and his growing workshop, Bea at the bank, Tom in his shop, and Grandpa Ned on the Landlord&apos;s
               field.
             </p>

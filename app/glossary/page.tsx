@@ -4,20 +4,20 @@ import SiteBar from "@/components/SiteBar";
 import { CONTENT } from "@/content";
 import { GLOSSARY, GLOSSARY_LIST, type TermId } from "@/lib/glossary";
 import { relatedTo } from "@/lib/glossary-related";
-import { chapterHref, getChapter, getVolume, type VolumeNumber } from "@/lib/kapital";
+import { chapterHref, getChapter, getVolume, readingOrder, type VolumeNumber } from "@/lib/kapital";
 
 export const metadata: Metadata = {
   title: "Glossary · Marx in Motion",
-  description: "Every word from all four volumes, explained twice: once for kids, once for grown-ups, and linked across volumes.",
+  description: "Every word from the two preludes and all four volumes, explained twice: once for kids, once for grown-ups, and linked across volumes.",
 };
 
 const label = (key: string) => {
   const [vol, n] = key.split("-").map(Number);
-  return `Vol. ${getVolume(vol)!.roman}, Ch. ${n}: ${getChapter(vol, n)!.title}`;
+  return `${getVolume(vol)!.short}, Ch. ${n}: ${getChapter(vol, n)!.title}`;
 };
 const short = (key: string) => {
   const [vol, n] = key.split("-").map(Number);
-  return `Vol. ${getVolume(vol)!.roman}, Ch. ${n}`;
+  return `${getVolume(vol)!.short}, Ch. ${n}`;
 };
 const href = (key: string, id: string) => {
   const [vol, n] = key.split("-").map(Number);
@@ -28,8 +28,7 @@ const href = (key: string, id: string) => {
 function usage() {
   const used = new Map<string, string[]>();
   for (const [key, c] of Object.entries(CONTENT)) for (const id of c.terms) used.set(id, [...(used.get(id) ?? []), key]);
-  const order = (k: string) => k.split("-").map(Number).reduce((a, b) => a * 100 + b);
-  used.forEach((keys) => keys.sort((a, b) => order(a) - order(b)));
+  used.forEach((keys) => keys.sort((a, b) => readingOrder(a) - readingOrder(b)));
   return used;
 }
 
@@ -55,7 +54,7 @@ export default function GlossaryPage() {
           <p className="text-[13px] text-white/50">(Glossary)</p>
           <h1 className="mt-4 text-[40px] leading-[0.98] tracking-[-0.035em] sm:text-[64px]">Every new word, twice</h1>
           <p className="mt-4 max-w-[520px] text-[16px] leading-snug text-white/60">
-            All {rows.length} words from the four volumes. Each one is explained in kid language and in Marx&apos;s own
+            All {rows.length} words from the two short books and the four volumes. Each one is explained in kid language and in Marx&apos;s own
             sense, with the chapter where it first appears and links to related ideas in other volumes.
           </p>
         </div>

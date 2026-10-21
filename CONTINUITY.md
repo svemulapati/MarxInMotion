@@ -120,6 +120,35 @@ Moneybags' workshop (c 24, v 3, s 3), Grandpa Ned's tenant farm and the Landlord
 - Ch 24 (Richard Jones) closes the bonus volume: its "Remember this" ends warmly and points to the
   wrap-up chapter, "The whole story in one animation".
 
+## Preludes plan (binding): Wage-Labour and Capital, The Communist Manifesto
+
+Two short books come before Volume I. Internally they are volumes 5 (Wage-Labour and Capital, URL
+/wage-labour-and-capital/chapter-N, content/wl/) and 6 (the Manifesto, URL
+/communist-manifesto/chapter-N, content/cm/). Chapter keys are "5-0".."5-9" and "6-0".."6-4".
+
+- **Chapter 0 of each book is "The Story of This Book"**, a full chapter (same template) that answers,
+  in kid language first and grown-up detail after: why it was written and for whom; why it mattered;
+  how it became controversial; what happened to it afterwards; and why Marx had to leave the country
+  (expelled from Paris 1845, Brussels 1848, Prussia/Cologne 1849, then Paris again, ending in London
+  August 1849: verify every date). Use Marx himself as a gray one-off Figure (`name="Marx"`), with
+  Engels and Jenny Marx as gray one-offs if needed; a map-journey animation suits the exile story.
+  "What critics say" on the Manifesto story must be especially fair: both the book's influence and
+  the record of governments that claimed it.
+- **Wage-Labour and Capital** (lectures Dec 1847 in Brussels; printed April 1849 in the Neue
+  Rheinische Zeitung; Engels' 1891 edition changed "labour" to "labour-power" and said so):
+  Ch 1 to 9 follow marxists.org sections. Tiny Town works as in Volume I: Sam sells his work to
+  Mr. Moneybags for 3 coins a day; it is a warm-up, so keep it simpler than Volume I and point
+  forward ("you'll see this in full in Volume I, Chapter N").
+- **The Communist Manifesto** (Marx and Engels, Feb 1848, for the Communist League): Ch 1 Bourgeois
+  and Proletarians (include the opening preamble), Ch 2 Proletarians and Communists (with the ten
+  measures), Ch 3 Socialist and Communist Literature, Ch 4 Position of the Communists. It is a
+  political call to action, not an economics text: present every claim as Marx and Engels' claim,
+  quote only short phrases, and give critics fair, specific space in every chapter. Tiny Town can
+  stage the ideas (Moneybags and Sam as "bourgeois" and "proletarian", the old guild master, Ava as
+  a ruined small producer), but never cheerlead and never mock.
+- Prelude chapters may list existing glossary ids in `terms` (e.g. labour-power, capital) so the
+  reader sees the word explained; define new ids only for ideas not already in the glossary.
+
 ## The numbers (Marx's own, Ch 7 to 9; 1 coin = 1 shilling)
 
 - A day of Sam's labour-power is worth **3 coins** (his daily food, rent, clothes).

@@ -11,6 +11,8 @@ export const metadata: Metadata = {
 };
 
 const BUILT = [
+  { slug: "wage-labour-and-capital", year: "1849", who: "Marx's lectures to workers in Brussels, printed as newspaper articles", note: "A short warm-up" },
+  { slug: "communist-manifesto", year: "1848", who: "Written by Marx and Engels for the Communist League", note: "The famous pamphlet" },
   { roman: "I", year: "1867", who: "Published by Marx himself", note: "33 chapters in English editions" },
   { roman: "II", year: "1885", who: "Put together by Engels from Marx's notes", note: "21 chapters" },
   { roman: "III", year: "1894", who: "Put together by Engels from Marx's notes", note: "52 chapters" },
@@ -111,9 +113,11 @@ export default function IntroductionPage() {
           <h2 className="mb-5 text-[26px] leading-tight tracking-[-0.02em]">How the book is built</h2>
           <div className="grid gap-2 sm:grid-cols-2">
             {BUILT.map((b) => (
-              <div key={b.roman} className="bg-[#f1f1f1] p-4">
-                <span className="label block">(Volume {b.roman})</span>
-                <span className="block text-[22px] leading-tight tracking-[-0.02em]">{VOLUMES.find((v) => v.roman === b.roman)!.title}</span>
+              <div key={b.slug ?? b.roman} className="bg-[#f1f1f1] p-4">
+                <span className="label block">({VOLUMES.find((v) => (b.slug ? v.slug === b.slug : v.roman === b.roman))!.label})</span>
+                <span className="block text-[22px] leading-tight tracking-[-0.02em]">
+                  {VOLUMES.find((v) => (b.slug ? v.slug === b.slug : v.roman === b.roman))!.title}
+                </span>
                 <span className="mt-2 block text-[14px] leading-snug text-black/70">
                   {b.year}. {b.who}. {b.note}.
                 </span>
@@ -173,7 +177,7 @@ export default function IntroductionPage() {
         </Link>
         <Link href={chapterHref(first)} className="strip block py-2 text-right no-underline">
           <span className="label block">(Next)</span>
-          Vol. I, Ch. 1: {first.title}
+          {VOLUMES[0].short}, Ch. {first.n}: {first.title}
         </Link>
       </nav>
     </main>

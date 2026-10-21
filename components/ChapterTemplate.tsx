@@ -57,7 +57,7 @@ export default function ChapterTemplate({ chapter, content }: { chapter: Chapter
       <header className="px-4 pt-16 pb-12 sm:px-5 sm:pt-24">
         <div className="mx-auto max-w-[760px]">
           <p className="text-[13px] text-white/50">
-            (Volume {vol.roman}) · Part {part.n}: {part.title}
+            {vol.kind === "prelude" ? `(${vol.label}) · ${vol.title}` : `(${vol.label}) · Part ${part.n}: ${part.title}`}
           </p>
           <div className="mt-4 flex items-end gap-4">
             <span className="chapter-no">{chapter.n}</span>
@@ -68,6 +68,13 @@ export default function ChapterTemplate({ chapter, content }: { chapter: Chapter
       </header>
 
       <article className="paper mx-auto max-w-[760px] px-5 pt-8 pb-14 sm:px-10 sm:pt-12">
+        {vol.kind === "prelude" && chapter.n > 0 && (
+          <p className="mb-8 border-l-2 border-black bg-[#f1f1f1] px-4 py-3 text-[14px] leading-snug">
+            <span className="label block">(Prelude)</span>
+            {vol.title} is a short book Marx wrote before <em>Capital</em>. Read it as a warm-up: the big ideas
+            come back, worked out in full, in Volume I. Chapter 0 tells the story of the book.
+          </p>
+        )}
         {chapter.vol === 4 && (
           <p className="mb-8 border-l-2 border-black bg-[#f1f1f1] px-4 py-3 text-[14px] leading-snug">
             <span className="label block">(Bonus volume)</span>
@@ -158,7 +165,7 @@ export default function ChapterTemplate({ chapter, content }: { chapter: Chapter
         {prev ? (
           <Link href={chapterHref(prev)} className="strip block py-2 no-underline">
             <span className="label block">(Previous)</span>
-            Vol. {getVolume(prev.vol)!.roman}, Ch. {prev.n}: {prev.title}
+            {getVolume(prev.vol)!.short}, Ch. {prev.n}: {prev.title}
           </Link>
         ) : (
           <Link href="/introduction" className="strip block py-2 no-underline">
@@ -169,7 +176,7 @@ export default function ChapterTemplate({ chapter, content }: { chapter: Chapter
         {next ? (
           <Link href={chapterHref(next)} className="strip block py-2 text-right no-underline">
             <span className="label block">(Next)</span>
-            Vol. {getVolume(next.vol)!.roman}, Ch. {next.n}: {next.title}
+            {getVolume(next.vol)!.short}, Ch. {next.n}: {next.title}
           </Link>
         ) : (
           <Link href="/the-whole-story" className="strip block py-2 text-right no-underline">

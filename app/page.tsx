@@ -37,7 +37,7 @@ export default function Home() {
       </header>
 
       {/* ── Capital in one scroll ───────────────────────── */}
-      <ScrollStory ready={VOLUMES.filter((v) => v.chapters.every((c) => c.status === "ready")).map((v) => v.n)} />
+      <ScrollStory ready={VOLUMES.filter((v) => v.kind !== "prelude" && v.chapters.every((c) => c.status === "ready")).map((v) => v.n)} />
 
       {/* ── The toy: stretch Sam's day ─────────────────── */}
       <StretchTheDay />
@@ -73,18 +73,18 @@ export default function Home() {
             ? `All ${ALL_CHAPTERS.length} chapters are ready to read.`
             : "Underlined chapters are ready to read; the rest are on their way."}
         </p>
-        <div className="grid gap-x-5 gap-y-12 sm:grid-cols-2 lg:grid-cols-4">
+        <div className="grid gap-x-5 gap-y-12 sm:grid-cols-2 lg:grid-cols-3">
           {VOLUMES.map((v) => (
             <div key={v.n}>
-              <p className="label">(Volume {v.roman}){v.n === 4 ? " Bonus" : ""}</p>
+              <p className="label">({v.label}){v.kind === "bonus" ? " Bonus" : ""}</p>
               <h3 className="mb-4 text-[17px] leading-tight">{v.title}</h3>
               {v.parts.map((p) => (
                 <div key={p.n} className="mb-4">
                   <p className="mb-1 text-[10px] text-white/40">
-                    {v.n}.{p.n} {v.n === 4 ? "" : p.title}
+                    {v.kind === "prelude" ? p.title : `${v.roman}.${p.n} ${v.kind === "bonus" ? "" : p.title}`}
                   </p>
                   <ol className="space-y-0.5 text-[12px] leading-tight">
-                    {v.chapters.slice(p.chapters[0] - 1, p.chapters[1]).map((c) => (
+                    {v.chapters.filter((c) => c.n >= p.chapters[0] && c.n <= p.chapters[1]).map((c) => (
                       <li key={c.n} className="grid grid-cols-[22px_1fr]">
                         <span className="text-white/40">{c.n}</span>
                         {c.status === "ready" ? (
@@ -115,7 +115,7 @@ export default function Home() {
       {/* ── Footer strip ───────────────────────────────────── */}
       <footer className="grid grid-cols-1 gap-y-1.5 px-4 pb-5 text-[13px] leading-tight sm:grid-cols-12 sm:px-5">
         <p className="strip sm:col-span-6">
-          Capital in {CAPITAL.length} volumes and a bonus / {ALL_CHAPTERS.length} chapters / one story about work and money
+          Two short books, Capital in {CAPITAL.length} volumes and a bonus / {ALL_CHAPTERS.length} chapters
         </p>
         <p className="strip sm:col-span-6 sm:text-right">
           {allReady ? "Every chapter animated." : `${READY_CHAPTERS.length} of ${ALL_CHAPTERS.length} chapters ready.`} Made by{" "}

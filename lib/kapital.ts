@@ -3,6 +3,9 @@
  * (33 chapters, 8 parts); Volumes II and III follow the standard English
  * editions (Lasker; International Publishers) as hosted on marxists.org;
  * "Volume IV" is Theories of Surplus-Value (Progress Publishers).
+ * Two short books open the site as preludes: Wage-Labour and Capital (5)
+ * and the Communist Manifesto (6). Their chapter 0 tells the story of the
+ * book; chapters 1 on follow the marxists.org sections.
  * Verified against the marxists.org tables of contents on 2026-10-20.
  */
 export type Status = "ready" | "soon";
@@ -21,12 +24,19 @@ export interface Part {
   chapters: [number, number];
 }
 
-export type VolumeNumber = 1 | 2 | 3 | 4;
+/** 1 to 4: Capital and its bonus volume. 5 and 6: the two prelude books. */
+export type VolumeNumber = 1 | 2 | 3 | 4 | 5 | 6;
 
 export interface Volume {
   n: VolumeNumber;
-  roman: "I" | "II" | "III" | "IV";
-  word: "One" | "Two" | "Three" | "Four";
+  kind: "prelude" | "capital" | "bonus";
+  /** URL segment, e.g. "volume-1" or "communist-manifesto". */
+  slug: string;
+  /** Eyebrow label, e.g. "Volume I" or "Prelude, 1849". */
+  label: string;
+  /** Short form for links, e.g. "Vol. I" or "Manifesto". */
+  short: string;
+  roman: string;
   title: string;
   /** One line a child could repeat back. */
   kidLine: string;
@@ -40,14 +50,73 @@ const span = (vol: number, from: number, to: number) => Array.from({ length: to 
 
 const READY = new Set<string>([...span(1, 1, 33), ...span(2, 1, 21), ...span(3, 1, 52), ...span(4, 1, 24)]);
 
-const make = (vol: VolumeNumber, titles: string[]): Chapter[] =>
-  titles.map((title, i) => ({ vol, n: i + 1, title, status: READY.has(`${vol}-${i + 1}`) ? "ready" : "soon" }));
+/** Chapters numbered from `first` (1 for Capital, 0 for the preludes' story chapter). */
+const make = (vol: VolumeNumber, titles: string[], first = 1): Chapter[] =>
+  titles.map((title, i) => ({ vol, n: first + i, title, status: READY.has(`${vol}-${first + i}`) ? "ready" : "soon" }));
 
 export const VOLUMES: Volume[] = [
   {
+    n: 5,
+    kind: "prelude",
+    slug: "wage-labour-and-capital",
+    label: "Prelude, 1849",
+    short: "Wage-Labour",
+    roman: "",
+    title: "Wage-Labour and Capital",
+    kidLine: "Why does working for a wage leave the boss richer?",
+    parts: [
+      { n: 0, title: "The story of this book", chapters: [0, 0] },
+      { n: 1, title: "Wage-Labour and Capital", chapters: [1, 9] },
+    ],
+    chapters: make(
+      5,
+      [
+        "The Story of This Book",
+        "Preliminary",
+        "What Are Wages?",
+        "By What Is the Price of a Commodity Determined?",
+        "By What Are Wages Determined?",
+        "The Nature and Growth of Capital",
+        "Relation of Wage-Labour to Capital",
+        "The General Law That Determines the Rise and Fall of Wages and Profits",
+        "The Interests of Capital and Wage-Labour Are Diametrically Opposed",
+        "Effect of Capitalist Competition on the Capitalist Class, the Middle Class and the Working Class",
+      ],
+      0
+    ),
+  },
+  {
+    n: 6,
+    kind: "prelude",
+    slug: "communist-manifesto",
+    label: "Prelude, 1848",
+    short: "Manifesto",
+    roman: "",
+    title: "The Communist Manifesto",
+    kidLine: "What did Marx and Engels want, and why did it scare so many people?",
+    parts: [
+      { n: 0, title: "The story of this book", chapters: [0, 0] },
+      { n: 1, title: "Manifesto of the Communist Party", chapters: [1, 4] },
+    ],
+    chapters: make(
+      6,
+      [
+        "The Story of This Book",
+        "Bourgeois and Proletarians",
+        "Proletarians and Communists",
+        "Socialist and Communist Literature",
+        "Position of the Communists in Relation to the Various Existing Opposition Parties",
+      ],
+      0
+    ),
+  },
+  {
     n: 1,
+    kind: "capital",
+    slug: "volume-1",
+    label: "Volume I",
+    short: "Vol. I",
     roman: "I",
-    word: "One",
     title: "The Process of Production of Capital",
     kidLine: "Where does the extra money come from when things get made?",
     parts: [
@@ -98,8 +167,11 @@ export const VOLUMES: Volume[] = [
   },
   {
     n: 2,
+    kind: "capital",
+    slug: "volume-2",
+    label: "Volume II",
+    short: "Vol. II",
     roman: "II",
-    word: "Two",
     title: "The Process of Circulation of Capital",
     kidLine: "How does money travel around and come back bigger?",
     parts: [
@@ -133,8 +205,11 @@ export const VOLUMES: Volume[] = [
   },
   {
     n: 3,
+    kind: "capital",
+    slug: "volume-3",
+    label: "Volume III",
+    short: "Vol. III",
     roman: "III",
-    word: "Three",
     title: "The Process of Capitalist Production as a Whole",
     kidLine: "Who gets which slice of the pie, and why does it shrink?",
     parts: [
@@ -203,8 +278,11 @@ export const VOLUMES: Volume[] = [
   },
   {
     n: 4,
+    kind: "bonus",
+    slug: "volume-4",
+    label: "Volume IV",
+    short: "Vol. IV",
     roman: "IV",
-    word: "Four",
     title: "Theories of Surplus-Value",
     kidLine: "What did the thinkers before Marx get right, and what did they miss?",
     parts: [
@@ -244,7 +322,9 @@ export const VOLUMES: Volume[] = [
 export const chapterCount = (v: Volume) => v.chapters.length;
 
 /** Volumes I to III: Capital proper. Volume IV is the bonus. */
-export const CAPITAL = VOLUMES.filter((v) => v.n !== 4);
+export const CAPITAL = VOLUMES.filter((v) => v.kind === "capital");
+
+export const PRELUDES = VOLUMES.filter((v) => v.kind === "prelude");
 
 export const TOTAL_CHAPTERS = CAPITAL.reduce((sum, v) => sum + chapterCount(v), 0);
 
@@ -254,9 +334,17 @@ export const READY_CHAPTERS = ALL_CHAPTERS.filter((c) => c.status === "ready");
 
 export const chapterKey = (c: Pick<Chapter, "vol" | "n">) => `${c.vol}-${c.n}`;
 
-export const chapterHref = (c: Pick<Chapter, "vol" | "n">) => `/volume-${c.vol}/chapter-${c.n}`;
-
 export const getVolume = (n: number) => VOLUMES.find((v) => v.n === n);
+
+export const getVolumeBySlug = (slug: string) => VOLUMES.find((v) => v.slug === slug);
+
+export const chapterHref = (c: Pick<Chapter, "vol" | "n">) => `/${getVolume(c.vol)!.slug}/chapter-${c.n}`;
+
+/** Position in reading order, for sorting chapter keys like "5-0" or "1-12". */
+export const readingOrder = (key: string) => {
+  const [vol, n] = key.split("-").map(Number);
+  return VOLUMES.findIndex((v) => v.n === vol) * 1000 + n;
+};
 
 export const getChapter = (vol: number, n: number) => getVolume(vol)?.chapters.find((c) => c.n === n);
 

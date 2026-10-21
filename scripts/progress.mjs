@@ -13,10 +13,10 @@ const lines = [
 ];
 for (const v of VOLUMES) {
   const done = v.chapters.filter((c) => c.status === "ready").length;
-  lines.push(`## Volume ${v.roman}: ${v.title} (${done}/${v.chapters.length})`, "");
+  lines.push(`## ${v.label}: ${v.title} (${done}/${v.chapters.length})`, "");
   for (const p of v.parts) {
-    lines.push(`**Part ${p.n}${v.n === 4 ? "" : `: ${p.title}`}**`, "");
-    for (const c of v.chapters.slice(p.chapters[0] - 1, p.chapters[1])) {
+    lines.push(v.kind === "prelude" ? `**${p.title}**` : `**Part ${p.n}${v.kind === "bonus" ? "" : `: ${p.title}`}**`, "");
+    for (const c of v.chapters.filter((c) => c.n >= p.chapters[0] && c.n <= p.chapters[1])) {
       lines.push(`- [${c.status === "ready" ? "x" : " "}] ${c.n}. ${c.title}`);
     }
     lines.push("");

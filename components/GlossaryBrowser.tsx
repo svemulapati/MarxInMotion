@@ -17,6 +17,7 @@ export interface GlossaryRow {
 
 const FILTERS = [
   { v: -1, label: "All" },
+  { v: 56, label: "Preludes" },
   { v: 1, label: "Vol. I" },
   { v: 2, label: "Vol. II" },
   { v: 3, label: "Vol. III" },
@@ -38,7 +39,7 @@ export default function GlossaryBrowser({ rows }: { rows: GlossaryRow[] }) {
     () =>
       rows.filter(
         (r) =>
-          (vol === -1 || r.vol === vol || (vol === 1 && r.vol === 0)) &&
+          (vol === -1 || r.vol === vol || (vol === 1 && r.vol === 0) || (vol === 56 && (r.vol === 5 || r.vol === 6))) &&
           (!q || r.term.toLowerCase().includes(q) || r.kid.toLowerCase().includes(q) || r.grownUp.toLowerCase().includes(q))
       ),
     [rows, vol, q]
