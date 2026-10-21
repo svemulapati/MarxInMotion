@@ -2,6 +2,305 @@
 
 Details that are uncertain or need a human check. Newest first.
 
+## The two preludes: Wage-Labour and Capital, The Communist Manifesto
+
+Added on 2026-10-20 at the user's request, before Volume I. Each opens with a Chapter 0, "The Story
+of This Book", answering: why it was written, why it mattered, how it became controversial, what
+happened to it afterwards, and why Marx had to leave the country. Items that most need a human eye:
+
+- **Exile dates, verified against the marxists.org Marx chronology:** ordered out of France
+  16 January 1845; held 18 hours by Brussels police and expelled 4 March 1848; Prussian order to
+  leave 16 May 1849; ordered out of Paris 23 August 1849; arrived in London 26 August 1849.
+- **General history, not in Marx's texts or the marxists.org prefaces:** the March 1872 Leipzig
+  treason trial (Bebel and Liebknecht) where the Manifesto was read into the record, letting it be
+  reprinted legally; the 20th-century record of states claiming the Manifesto.
+- **Wage-Labour Ch 0:** Engels dates the first article to 4 April 1849; the chronology says
+  5 to 8 and 11 April. The page says "April 1849" and cites both. The series stopped when the paper
+  was closed on 19 May 1849.
+- **Corrections to my worker briefs, made from the source:** Marx wrote "the forest of outstretched
+  arms, begging for work"; the "little house" image is in Wage-Labour Ch 6; "sells his life
+  activity" is in Ch 2.
+- **Sensitive passages:** Wage-Labour Ch 5's slavery comparison uses a racial slur in the 1891
+  English; the page explains the point without quoting it. The Manifesto's "community of women"
+  passage in Ch 2 is not covered. Both deserve a tone review.
+- **Manifesto Ch 2:** sorting the ten measures into "became common / partly / still opposed / hard to
+  judge" is the site's own judgement and says so.
+- **Glossary:** "world market" is defined once (Wage-Labour Ch 1) with the Manifesto's sense merged in.
+- **Critics** throughout are in our own words and deserve a fairness read, especially the Manifesto.
+
+### The Communist Manifesto, Chapter 4
+
+- Source: Section IV "Position of the Communists in Relation to the Various Existing Opposition
+  Parties", 1888 English translation, with Engels' 1888 note on the French Social-Democrats
+  (Ledru-Rollin, Louis Blanc, the Réforme) and marxists.org's note on the last line.
+- Verified: Chartists (England), Agrarian Reformers (America), Social-Democrats (France), Radicals
+  (Switzerland, "antagonistic elements"), the Polish agrarian party behind the Cracow insurrection of
+  1846, support for the German bourgeoisie "whenever it acts in a revolutionary way"; "but the prelude
+  to an immediately following proletarian revolution"; "the property question"; "disdain to conceal
+  their views and aims"; "forcible overthrow of all existing social conditions"; "nothing to lose but
+  their chains. They have a world to win."; "Working Men of All Countries, Unite!"; German
+  "Proletarier aller Länder, vereinigt euch!"; "Workers of the world, unite!" is a popularisation not
+  in any official translation (marxists.org note).
+- 1872 preface: Section IV "although, in principle still correct, yet in practice are antiquated";
+  the Manifesto "has become a historical document which we have no longer any right to alter".
+- General history, not the Manifesto: the Chartists' aims and the People's Charter (1838), the
+  defeat of the 1848 revolutions, Popper (The Open Society and Its Enemies, 1945), Bernstein (1899).
+- Tone check: the "forcible overthrow" line is stated plainly as the authors' own words, with the
+  reform critics given space.
+
+### The Communist Manifesto, Chapter 3
+
+- Source: Section III "Socialist and Communist Literature", 1888 English translation, with Engels'
+  notes of 1888 and 1890 (phalanstères, Home Colonies, Icaria; Karl Grün as type of "True" socialism).
+- Verified: the three families and their sub-kinds (feudal, with clerical/Christian socialism;
+  petty-bourgeois headed by Sismondi; German or "True"; conservative or bourgeois, with Proudhon's
+  Philosophie de la Misère as example; critical-utopian: Saint-Simon, Fourier, Owen); "with great
+  acuteness"; "both reactionary and Utopian"; "a bourgeoisie without a proletariat"; "the most
+  valuable materials"; "castles in the air"; Owenites opposing the Chartists.
+- Invented for Tiny Town: Old Lord, the Philosopher, Mr. Kindly; Tom voicing the guild idea in the story.
+- General history, not the Manifesto: the 1872 preface remark that this criticism "comes down only
+  to 1847"; Engels popularising "scientific" socialism later (Socialism: Utopian and Scientific,
+  1880); Owen's influence on factory reform; the Rochdale Pioneers (1844); Proudhon's and Bakunin's
+  objection to state ownership.
+- Critics are our own summaries; the co-operative and anarchist points deserve a fairness read.
+
+### The Communist Manifesto, Chapter 2
+
+- Source: Section II "Proletarians and Communists", 1888 English translation by Samuel Moore in
+  cooperation with Engels (marxists.org; Progress Publishers Selected Works 1969).
+- Verified short quotes: "formation of the proletariat into a class"; "the abolition of bourgeois
+  property"; "for nine-tenths of the population"; "merely to increase capital"; "the power to
+  subjugate the labour of others"; "The working men have no country"; "The ruling ideas of each age
+  have ever been the ideas of its ruling class"; "to win the battle of democracy"; "by degrees";
+  "despotic inroads on the rights of property"; "most advanced countries"; and the closing
+  "association, in which the free development of each is the condition for the free development of all".
+- The ten measures are listed in short form in animation 2.3, in the source's order; check the
+  short wording against the full list if reusing it.
+- 1872 preface (Marx and Engels): "no special stress is laid on the revolutionary measures proposed
+  at the end of Section II. That passage would, in many respects, be very differently worded today."
+- Site's own judgement, labelled as such: sorting the measures into "became common", "partly / other
+  forms", "still widely opposed" and "hard to judge". Measure 7 (state factories, planned farming)
+  is marked "partly" for state-owned industry; measure 9 "hard to judge".
+- Not covered in animations: the "community of women" passage and Section II's remarks on religion,
+  which are summarised only through "ruling ideas" in the grown-up text. Worth a check whether the
+  family discussion is fairly summarised for children.
+- Critics in our own words: Mises (Socialism, 1922; economic calculation), Hayek (The Road to
+  Serfdom, 1944), the Soviet collectivisation famine of 1932 to 1933 (general history), with the
+  defenders' reply.
+
+### The Communist Manifesto, Chapter 1
+
+- Source: the 1888 English translation (Samuel Moore, edited by Engels) on marxists.org.
+- Verified phrases: "A spectre is haunting Europe"; Pope and Tsar, Metternich and Guizot, "German
+  police-spies"; "nursery tale of the Spectre of Communism"; "The history of all hitherto existing
+  society is the history of class struggles"; freeman and slave, patrician and plebeian, lord and
+  serf, guild-master and journeyman; "simplified class antagonisms", "two great hostile camps";
+  "a committee for managing the common affairs of the whole bourgeoisie"; "a most revolutionary
+  part"; "naked, shameless, direct, brutal exploitation"; "established the world market";
+  "cosmopolitan character"; "scarce one hundred years", "more massive and more colossal productive
+  forces"; "All that is solid melts into air"; "like the sorcerer"; commercial crises; "fetters";
+  "an appendage of the machine"; small tradespeople and handicraftsmen "sink gradually into the
+  proletariat"; "combinations (Trades' Unions)"; "the ever expanding union of the workers", helped by
+  improved means of communication; "its own grave-diggers", fall "equally inevitable".
+- Engels' 1888 notes supply the definitions of bourgeoisie and proletariat and "That is, all written
+  history".
+- Simplifications: "rich patricians" and "poor plebeians"; the ship and railway scene; Ava's move
+  from her own shop to a wage (she was already a wage worker in Volume I, Ch 14, so here she is shown
+  in her earlier days as a small producer); Master Hal is a one-off gray character.
+- Critics summarised in our own words: Weber and the growth of middle classes; Marshall Berman's
+  1982 book title. Fairness read welcome.
+
+### The Communist Manifesto, Chapter 0
+
+- Verified in the prefaces: commissioned "at the Congress held in London in November 1847"; the
+  League "unavoidably a secret society"; "Drawn up in German, in January 1848, the manuscript was sent
+  to the printer in London a few weeks before the French Revolution of February 24"; first English
+  translation by Helen Macfarlane in the Red Republican (1850); Bakunin's Russian translation about
+  1863, Zasulich's 1882; Cologne trial "from October 4 till November 12" (1852), seven sentenced to
+  three to six years in a fortress, League then dissolved, Manifesto "seemed henceforth doomed to
+  oblivion"; 1872 preface: details "antiquated", "a historical document which we have no longer any
+  right to alter"; 1890: "the most widely circulated, the most international product of all socialist
+  literature"; Engels: the basic thought "belongs solely and exclusively to Marx".
+- Verified in the marxists.org introduction to Principles of Communism: Engels' two catechism drafts
+  (June and October 1847) and his letter of November 23-24, 1847 proposing to "drop the catechism form
+  and call the thing: Communist Manifesto".
+- Verified in Engels' 1877 biography and Lenin's 1914 sketch: expelled from France in spring 1845 at
+  the Prussian government's request; arrested and deported by Belgium at the February 1848
+  revolution; Neue Rheinische Zeitung 1 June 1848 to 19 May 1849, last issue "printed in red ink";
+  banished from Germany 16 May 1849 (Lenin); banished from Paris after 13 June 1849; then London.
+- General history, not from these texts (please confirm): Marx arrived in London in August 1849
+  (written as "that summer" in prose, "from August 1849" on the map card); the 1872 Leipzig treason
+  trial of Bebel and Liebknecht at which the Manifesto was read out; the twentieth-century record
+  (one-party states, famines, purges, camps); "printed by the million".
+- Invented for illustration: the secret meeting room, the flames on the 1848 map, the stylised map
+  (labelled "not to scale"), and the pile of copies.
+- Critics are summarised in our own words: Popper and Kolakowski on the historical record and their
+  defenders' reply; Marshall Berman (1982) and the growth of the middle classes. Fairness read welcome.
+
+### Wage-Labour and Capital, Chapter 9
+
+- Verified in the text: "March! march!"; "10, 20, 100 times as much" and a market for "1,000
+  times as much"; one labourer doing "the work of five, 10, or 20"; "the more he works, the less
+  wages he receives"; machinery replacing "skilled labourers by unskilled, men by women, adults by
+  children"; battles won "less by recruiting than by discharging the army of workers"; one man
+  replaced by "three children and one woman"; small business men and people living on interest
+  falling into the working class; "industrial earthquakes"; crises "more frequent and more
+  violent"; the closing irony that rapid growth of capital "is the most favorable condition for
+  wage-labour".
+- Correction to the brief: Marx's phrase is "the forest of outstretched arms, begging for work,
+  grows ever thicker", not "uplifted arms demanding work". The page uses Marx's wording.
+- Unfinished series: Engels' 1891 introduction says the Neue Rheinische Zeitung was suppressed on
+  19 May 1849 and that no manuscript of a continuation was found among Marx's papers. The source
+  note says so.
+- Interpretation, flagged: "with bitter irony" for the last sentence of the chapter is my reading.
+- Made up for the site: Mr. Pike and Widow Hart (gray one-offs), the machine sizes and pile counts
+  in 9.1, Sam's wage dropping to 2 coins in 9.2.
+- New glossary id: industrial-war (Marx's image).
+- Critics are my own summaries: machinery creating new jobs (the compensation debate), and
+  Bernstein (1899) on the survival of small firms.
+
+### Wage-Labour and Capital, Chapter 8
+
+- Verified in the text: "diametrically opposed"; wages rising "5 per cent, while profits rise 30
+  per cent"; "at the cost of his social position"; "the larger will be the crumbs"; "golden
+  chains"; the capitalist who weaves "a whole yard of linen in the same labour-time in which his
+  competitors weave half-a-yard", sells only "a small percentage lower", and whose privilege "is
+  not of long duration" because rivals copy him and the price falls "even below its new cost of
+  production".
+- The "little house" next to a palace is in Chapter 6, not 8. Chapter 8 only refers back to it, in
+  the grown-up text and in a critic reply.
+- Made up for the site: the bar heights (100 each), all coin prices for linen (4, 3½, 1¾ per
+  half-yard), old Jem the hand-spinner (gray one-off), the boom-year story.
+- New glossary id: golden-chains (Marx's image; not elsewhere in the glossary).
+- Critics are my own summaries: absolute vs relative position; shared interests (firm growth,
+  pension-fund share ownership).
+
+### Wage-Labour and Capital, Chapter 7
+
+- Verified in the text: the three parts of the selling price (raw materials and wear; wages;
+  profit); wages and profit both "taken out of the new value, which is produced by the labor of
+  the worker"; necessaries falling "2/3rds" while wages fall "but 1/3rd ... from three to two
+  shillings", profit up one shilling; "still more unequal"; "They stand in inverse proportion";
+  overreaching among capitalists equalises itself; the spinning machine making "100 pounds instead
+  of 50 pounds" with no more exchange value in the long run.
+- The marxists.org text is Engels' 1891 edition, which already says "labour-power"; the source
+  note says so.
+- Made up for the site: the 30-coin yarn split (24 + 3 + 3, the workshop numbers from Vol I), the
+  loaves and their prices (1 coin, then a third of a coin), Sam's basket story.
+- The ch07.terms.ts file is intentionally empty: the chapter lists existing ids
+  (nominal-wage, real-wage, relative-wage, inverse-wages-profit).
+- Critics are my own summaries: the growing-pie view, and Kaldor (1961) on stable wage shares with
+  the post-1980 decline.
+
+### Wage-Labour and Capital, Chapter 6
+
+- Verified in the text (ch06.htm): the farmer and the day-labourer, one shilling for a day, produce
+  worth two shillings; the shilling consumed "reproductively" by the capitalist and "unproductively" by
+  the worker; "Capital therefore presupposes wage-labour; wage-labour presupposes capital"; the cotton
+  worker "produces capital"; the usurer and the borrower; the "boasted community of interests"; the
+  little house beside a palace; "Our wants and pleasures have their origin in society"; American
+  silver in the 16th century; the bad harvest of the winter of 1847; nominal, real and relative wages.
+- The "sells his life activity" line in the brief is in Chapter 2 (ch02.htm), not here, so this
+  chapter does not use it.
+- Made up, labelled: the day-labourer's name (Jem, gray one-off); Grandpa Ned as Marx's farmer (a
+  tenant capitalist farmer, consistent with CONTINUITY.md); the loaf counts; the share bars.
+- Critics, in our own words: employment as positive-sum, labour's share fairly stable through much of
+  the 20th century then falling since about 1980 (general knowledge, worth confirming); Easterlin's
+  findings on relative income and happiness (cited from memory, worth confirming).
+- Glossary: defines `social-needs`; lists existing `nominal-wage`, `real-wage`, `relative-wage`.
+
+### Wage-Labour and Capital, Chapter 5
+
+- Verified in the text (ch05.htm): the economists' definition, "Accumulated labour that serves as a
+  means to new production is capital"; Marx's slavery comparison; "A cotton-spinning machine is a
+  machine for spinning cotton. Only under certain conditions does it become capital"; gold is not money
+  by itself, sugar not the price of sugar; the firearm changing armies; ancient, feudal and bourgeois
+  society as totalities of relations of production; capital as a sum of exchange values; cotton for
+  wool, rice for wheat, steamships for railroads; "a class which possesses nothing but the ability to
+  work"; "living labour serves accumulated labour".
+- **Tone decision:** Marx's slavery comparison uses a racial slur in the 1891 English. The page
+  explains the point in our own words ("a person only becomes a slave within certain social
+  relations") and never quotes the sentence. Worth a review.
+- Made up, labelled: the museum and Leo's cottage settings; the 100-coin wool, cotton and steamship
+  share (Marx's own list is cotton/wool, rice/wheat, steamships/railroads).
+- Critics, in our own words: the mainstream definition of capital as produced means of production
+  regardless of owner; Böhm-Bawerk's roundabout production and waiting.
+- Glossary: defines `accumulated-labour`; lists existing `capital`, `production-relations`,
+  `exchange-value`.
+
+### Wage-Labour and Capital, Chapter 4
+
+- Verified in the text (1891 edition, ch04.htm): wages follow "the same general laws which regulate
+  the price of commodities"; supply and demand, competition between capitalists and workers; cost of
+  production of labour-power = "maintenance of the labourer as a labourer, and for his education and
+  training"; less training means lower wages; the machine costing 1,000 shillings used up in 10 years,
+  100 shillings added annually; "cost of propagation"; "existence and propagation"; "the minimum of
+  wages"; holds for "the race" (the class), not "the single individual"; "millions of workers, do not
+  receive enough". The page says "class" where the 1891 English says "race".
+- Engels' 1891 introduction (intro.htm) confirms he changed "labour" to "labour-power" throughout.
+- Made up, labelled on the page: Sam's 3 coins split 2 + 1 (keeping Sam going, raising children); the
+  2-coin and 4-coin swings and the 3.25 settle.
+- Critics, in our own words: marginal productivity theory and rising real wages; Lassalle's "iron law
+  of wages" and Marx's later criticism of it (Critique of the Gotha Programme, 1875, general history,
+  not this text).
+
+### Wage-Labour and Capital, Chapter 3
+
+See ch00.notes.md: the notes for Chapters 0 to 3 are kept together there.
+
+### Wage-Labour and Capital, Chapter 2
+
+See ch00.notes.md: the notes for Chapters 0 to 3 are kept together there.
+
+### Wage-Labour and Capital, Chapter 1
+
+See ch00.notes.md: the notes for Chapters 0 to 3 are kept together there.
+
+### Wage-Labour and Capital, Chapter 0
+
+Checked against marxists.org on 2026-10-20: Engels' 1891 introduction (intro.htm), ch01 to ch03,
+Engels' 1869 biographical sketch (bio/marx/eng-1869.htm) and the Progress Publishers chronology
+"Karl Marx: His Life and Work" (bio/marx/lifeandwork.htm).
+
+### Verified
+- German Workers' Society founded in Brussels, late August 1847 (chronology).
+- Lectures in the latter half of December 1847 (chronology); Engels says "in 1847".
+- Printed in the Neue Rheinische Zeitung: Engels says "beginning on April 4th, 1849"; the chronology
+  says April 5 to 8 and 11. Both are mentioned in the Ch 0 source note; the page says "April 1849".
+- "To be continued" never fulfilled; paper suppressed May 19, 1849; no manuscript of the rest found
+  (Engels, 1891).
+- Earlier separate editions, the last in Hottingen-Zurich in 1884; the 1891 edition was for at least
+  10,000 copies; "not as Marx wrote it in 1849, but approximately as Marx would have written it in
+  1891" (Engels). The page quotes only the first half.
+- Engels' 3 shillings / 12 hours / 6 shillings example and "Hold on there!" (used in animation 0.3).
+- Exile: ordered to leave France January 16, 1845 under Prussian pressure; renounced Prussian
+  citizenship December 1, 1845; King of Belgium orders him out within 24 hours on March 3, 1848,
+  arrested 18 hours on March 4; Cologne from April 11, 1848; NRZ first issue June 1, 1848; trials
+  February 7 and 8, 1849 (Engels 1869: twice acquitted); Prussian expulsion order May 16, 1849
+  ("no longer a Prussian subject", Engels 1869); last "red" issue May 19, 1849; Paris early June;
+  ordered out of Paris August 23, 1849; London August 26, 1849.
+- Ch 1 to 3 quotes: "merely an illusion", "by fractions", "as simply and popularly as possible",
+  "We wish to be understood by the workers", "despot of the world market", "like an earthquake";
+  100 bales / 1,000 buyers; the citizen's 100 to 110, 120, 130, 200 pounds.
+
+### Simplified or invented (labelled on the pages)
+- "Translated into many languages" is general knowledge, not from these sources.
+- Ch 0 critics (scholars on Engels' edit; rising real wages) are my own summaries; no names given.
+- The 1844 caption says Marx wrote against the King of Prussia from Paris (the chronology lists his
+  Vorwarts! article on the King of Prussia); the 1849 Paris order is shown simply as "ordered out".
+- Tiny Town uses 3 coins a day for Sam where Marx's Ch 2 workers get 2 shillings; Marx's weaver's job
+  is given to Sam in animation 2.2.
+- Ch 1 story (Sam and Mia reading the paper in 1849) and Ch 3 story (late ship, Tom) are invented.
+- Ch 3 animation 3.2's wave is illustrative, not data.
+
+### For the integrator
+- New glossary ids: german-workers-society, neue-rheinische-zeitung, labour-into-labour-power (Ch 0);
+  world-market (Ch 1); wage-labour, life-activity (Ch 2); supply-and-demand, threefold-competition,
+  cost-of-production (Ch 3). Existing ids listed in terms: labour-power, political-economy, capital,
+  serfdom, price.
+- `MarxHead` is exported from content/wl/ch00-animations.tsx and could be reused by the Manifesto's
+  Chapter 0.
+
 ## Wrap-up and cross-volume glossary (Phase 5)
 
 - **The whole story** (/the-whole-story): one 16-step animation across all four volumes, a

@@ -58,6 +58,12 @@ const FAMILIES: TermId[][] = [
   ["smiths-dogma", "deduction-theory", "labour-commanded", "productive-labour"],
   ["ricardo-surplus-value", "inverse-wages-profit", "ricardian-school", "ricardian-socialists"],
   ["vulgar-economy", "trinity-formula", "says-law", "abstinence-theory"],
+  // the preludes
+  ["bourgeoisie", "proletariat", "class-struggle", "classes", "communist-league"],
+  ["wage-labour", "labour-power", "life-activity", "wage-form", "free-worker"],
+  ["abolition-of-private-property", "ten-measures", "expropriation-of-the-expropriators", "utopian-socialism"],
+  ["neue-rheinische-zeitung", "german-workers-society", "communist-league", "labour-into-labour-power"],
+  ["world-market", "colonial-system", "home-market"],
   // classes and the future
   ["classes", "intermediate-strata", "distribution-relations", "production-relations"],
   ["realm-of-freedom", "disposable-time", "working-day", "co-operative-factory"],

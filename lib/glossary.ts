@@ -128,6 +128,21 @@ import { TERMS as V4C21 } from "@/content/v4/ch21.terms";
 import { TERMS as V4C22 } from "@/content/v4/ch22.terms";
 import { TERMS as V4C23 } from "@/content/v4/ch23.terms";
 import { TERMS as V4C24 } from "@/content/v4/ch24.terms";
+import { TERMS as WL00 } from "@/content/wl/ch00.terms";
+import { TERMS as WL01 } from "@/content/wl/ch01.terms";
+import { TERMS as WL02 } from "@/content/wl/ch02.terms";
+import { TERMS as WL03 } from "@/content/wl/ch03.terms";
+import { TERMS as WL04 } from "@/content/wl/ch04.terms";
+import { TERMS as WL05 } from "@/content/wl/ch05.terms";
+import { TERMS as WL06 } from "@/content/wl/ch06.terms";
+import { TERMS as WL07 } from "@/content/wl/ch07.terms";
+import { TERMS as WL08 } from "@/content/wl/ch08.terms";
+import { TERMS as WL09 } from "@/content/wl/ch09.terms";
+import { TERMS as CM00 } from "@/content/cm/ch00.terms";
+import { TERMS as CM01 } from "@/content/cm/ch01.terms";
+import { TERMS as CM02 } from "@/content/cm/ch02.terms";
+import { TERMS as CM03 } from "@/content/cm/ch03.terms";
+import { TERMS as CM04 } from "@/content/cm/ch04.terms";
 
 export interface Term {
   term: string;
@@ -434,6 +449,21 @@ export const GLOSSARY = {
   ...V4C22,
   ...V4C23,
   ...V4C24,
+  ...WL00,
+  ...WL01,
+  ...WL02,
+  ...WL03,
+  ...WL04,
+  ...WL05,
+  ...WL06,
+  ...WL07,
+  ...WL08,
+  ...WL09,
+  ...CM00,
+  ...CM01,
+  ...CM02,
+  ...CM03,
+  ...CM04,
 };
 
 export type TermId = keyof typeof GLOSSARY;

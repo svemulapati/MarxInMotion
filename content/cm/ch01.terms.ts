@@ -22,11 +22,4 @@ export const TERMS = {
       "The conflict between classes with opposed interests, which the Manifesto calls the moving force of all written history: freeman and slave, lord and serf, and in modern times bourgeoisie and proletariat.",
     firstSeen: "6-1",
   },
-  "world-market": {
-    term: "World market",
-    kid: "Buying and selling that stretches all around the world, so cotton, cloth and tea cross oceans.",
-    grownUp:
-      "The global network of trade that, the Manifesto argues, modern industry created, giving production and consumption in every country a \"cosmopolitan character\". Later readers often see these pages as an early account of globalisation.",
-    firstSeen: "6-1",
-  },
 } satisfies Record<string, Term>;

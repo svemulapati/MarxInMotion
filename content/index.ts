@@ -129,6 +129,21 @@ import v4c21 from "./v4/ch21";
 import v4c22 from "./v4/ch22";
 import v4c23 from "./v4/ch23";
 import v4c24 from "./v4/ch24";
+import wl0 from "./wl/ch00";
+import wl1 from "./wl/ch01";
+import wl2 from "./wl/ch02";
+import wl3 from "./wl/ch03";
+import wl4 from "./wl/ch04";
+import wl5 from "./wl/ch05";
+import wl6 from "./wl/ch06";
+import wl7 from "./wl/ch07";
+import wl8 from "./wl/ch08";
+import wl9 from "./wl/ch09";
+import cm0 from "./cm/ch00";
+import cm1 from "./cm/ch01";
+import cm2 from "./cm/ch02";
+import cm3 from "./cm/ch03";
+import cm4 from "./cm/ch04";
 
 /** Written chapters, keyed "vol-n". Must match READY in lib/kapital.ts. */
 export const CONTENT: Record<string, ChapterContent> = {
@@ -262,4 +277,19 @@ export const CONTENT: Record<string, ChapterContent> = {
   "4-22": v4c22,
   "4-23": v4c23,
   "4-24": v4c24,
+  "5-0": wl0,
+  "5-1": wl1,
+  "5-2": wl2,
+  "5-3": wl3,
+  "5-4": wl4,
+  "5-5": wl5,
+  "5-6": wl6,
+  "5-7": wl7,
+  "5-8": wl8,
+  "5-9": wl9,
+  "6-0": cm0,
+  "6-1": cm1,
+  "6-2": cm2,
+  "6-3": cm3,
+  "6-4": cm4,
 };
