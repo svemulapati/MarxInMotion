@@ -41,7 +41,7 @@ export function MarxsLife() {
       title="0.1 · Marx's life in seven stops"
       steps={[
         { caption: "Karl Marx was born in 1818 in Trier, a small town that is now in Germany." },
-        { caption: "As a young man he wrote for newspapers. The rulers did not like what he wrote, so his papers were shut down and he had to keep moving." },
+        { caption: "As a young man he wrote for newspapers. The rulers did not like what he wrote: his papers were shut down, and he was ordered out of France, Belgium and Prussia, one after another." },
         { caption: "In 1848, with his friend Friedrich Engels, he wrote a short and famous pamphlet: The Communist Manifesto." },
         { caption: "In 1849 he moved to London. He was often poor, and spent years reading in the British Museum library, studying how money and work fit together." },
         { caption: "In 1867 he published Capital, Volume I. It was the only volume he finished himself." },

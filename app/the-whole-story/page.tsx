@@ -76,7 +76,11 @@ export default function TheWholeStoryPage() {
               Moneybags and his growing workshop, Bea at the bank, Tom in his shop, and Grandpa Ned on the Landlord&apos;s
               field.
             </p>
-            <p>Now let&apos;s put it all together, in one go, from the very first swap to the very last thinker on the shelf.</p>
+            <p>
+              The two short books at the start, <em>Wage-Labour and Capital</em> and <em>The Communist Manifesto</em>,
+              gave you a first taste. Now let&apos;s put the big book together, in one go, from the very first swap to the
+              very last thinker on the shelf.
+            </p>
           </div>
         </section>
 

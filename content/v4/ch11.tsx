@@ -57,7 +57,7 @@ const chapter: ChapterContent = {
         powers of the soil&rdquo;. Marx calls this poor: the soil has no indestructible powers, and no original ones
         either, since land is &ldquo;the product of an historical and natural process&rdquo;. And because Ricardo assumed
         values must equal average prices, he denied <strong>absolute rent</strong>, leaving the worst land rent-free in
-        theory. Marx&apos;s own answer is in Chapter 8 and in Volume III, Chapter 45.
+        theory. Marx&apos;s own answer is in Chapter 8 of this volume and in Volume III, Chapter 45.
       </p>
     </>
   ),

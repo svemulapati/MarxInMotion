@@ -158,8 +158,8 @@ export function HostileBrothers() {
       id="anim-v4-8-2"
       title="8.2 · Hostile brothers and a fence"
       steps={[
-        { caption: "Marx's own answer. Three businesses each put in 100 coins. The mill is full of machines and makes 20 of surplus-value; the tailoring makes 30. (Made-up numbers.)" },
-        { caption: "Competition pours their surplus together and shares it out by size of capital: 25 each. Marx says capitalists divide the loot like 'hostile brothers'." },
+        { caption: "Marx's own answer. Three businesses each put in 100 coins. Start with two: the mill is full of machines and makes 20 of surplus-value; the tailoring makes 30. (Made-up numbers.)" },
+        { caption: "Competition pours those two together and shares the surplus out by size of capital: 25 each. Marx says capitalists divide the loot like 'hostile brothers'." },
         { caption: "Grandpa Ned's farm still uses many hands and few machines. So his 100 coins set more workers to work, and make more surplus-value: 40." },
         {
           caption: "If the farm's 40 joined the pool, it would be shared out too. But the Landlord's fence keeps it in. Ned keeps the usual 25 like everyone else, and the extra 15 goes to the Landlord. That is absolute rent.",
