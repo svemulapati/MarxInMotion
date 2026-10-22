@@ -11,7 +11,7 @@ const chapter: ChapterContent = {
         has been thinking about it ever since.
       </p>
       <p>
-        &ldquo;If you add a little on top, and Mia adds a little on top, and Ava adds a little on top,&rdquo; he says,
+        &ldquo;If you add a little on top, and Mia adds a little on top, and the tailors add a little on top,&rdquo; he says,
         &ldquo;then everyone pays more to everyone else and nobody is any richer. That trick can&apos;t work for the whole
         town.&rdquo;
       </p>

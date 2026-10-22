@@ -83,7 +83,7 @@ const chapter: ChapterContent = {
         <p>
           In 1961 the Japanese economist Nobuo Okishio showed mathematically that a boss will only adopt a new machine if it
           cuts his costs at current prices, and that if real wages stay the same, such a change can never lower the general
-          rate of profit; it raises it. Many economists take this as a refutation of Marx&apos;s law. Some Marxist
+          rate of profit; it raises it or leaves it unchanged. Many economists take this as a refutation of Marx&apos;s law. Some Marxist
           economists reply that Okishio&apos;s model is static, while real capitalism moves through time with fixed capital
           locked in, so the theorem does not settle the matter.
         </p>

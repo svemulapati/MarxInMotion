@@ -7,17 +7,17 @@ const chapter: ChapterContent = {
   story: (
     <>
       <p>
-        Bea the banker is deciding whom to lend to. She invites Mr. Moneybags and Ava the tailor to her bank and asks
+        Bea the banker is deciding whom to lend to. She invites Mr. Moneybags and the owner of the tailoring workshop on the square, where Ava sews, and asks
         each one: &ldquo;How much extra do your workers make for you?&rdquo;
       </p>
       <p>
-        Ava&apos;s workshop is full of people with needles and very few machines. Mr. Moneybags&apos; mill is full of
+        The tailoring workshop is full of people with needles and very few machines. Mr. Moneybags&apos; mill is full of
         machines with only a few workers. Mr. Moneybags boasts that his workers are squeezed harder than anyone&apos;s.
       </p>
       <p>
         Then Bea works out each one&apos;s rate of profit, and frowns. The mill, with the harder squeeze, earns less on
-        each coin than Ava&apos;s little workshop. &ldquo;How can that be?&rdquo; says Mr. Moneybags. &ldquo;My workers
-        give me more than hers!&rdquo;
+        each coin than the tailoring workshop. &ldquo;How can that be?&rdquo; says Mr. Moneybags. &ldquo;My workers
+        give me more than theirs!&rdquo;
       </p>
     </>
   ),
