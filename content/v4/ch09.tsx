@@ -40,7 +40,7 @@ const chapter: ChapterContent = {
       <p>
         The so-called <strong>Ricardian law of rent</strong>, that better land pays rent because the price of corn is set
         by the costs on the last and worst land in use, was first stated by <strong>James Anderson</strong>, a practical
-        farmer, in a work on the corn laws in 1777. There it came in only in passing, and Marx says it went not &ldquo;almost&rdquo; but &ldquo;entirely&rdquo; unnoticed until 1815, when Edward West
+        farmer, in a work on the corn laws in 1777. There it came in only in passing, and Marx says it went &ldquo;entirely&rdquo; unnoticed until 1815, when Edward West
         and Thomas Malthus both published works on rent. Ricardo, in the preface to his <em>Principles</em>, treated West
         and Malthus as the originators; Marx thinks Ricardo did not know Anderson, but that Malthus did.
       </p>

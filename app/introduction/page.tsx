@@ -3,7 +3,7 @@ import Link from "next/link";
 import SiteBar from "@/components/SiteBar";
 import { MarxsLife, MeetTinyTown } from "@/content/intro-animations";
 import { GLOSSARY } from "@/lib/glossary";
-import { VOLUMES, chapterHref } from "@/lib/kapital";
+import { ALL_CHAPTERS, VOLUMES, chapterHref } from "@/lib/kapital";
 
 export const metadata: Metadata = {
   title: "Who was Karl Marx? · Marx in Motion",
@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 };
 
 const BUILT = [
-  { slug: "wage-labour-and-capital", year: "1849", who: "Marx's lectures to workers in Brussels, printed as newspaper articles", note: "A short warm-up" },
+  { slug: "wage-labour-and-capital", year: "1847, printed 1849", who: "Marx's lectures to workers in Brussels, printed as newspaper articles", note: "A short warm-up" },
   { slug: "communist-manifesto", year: "1848", who: "Written by Marx and Engels for the Communist League", note: "The famous pamphlet" },
   { roman: "I", year: "1867", who: "Published by Marx himself", note: "33 chapters in English editions" },
   { roman: "II", year: "1885", who: "Put together by Engels from Marx's notes", note: "21 chapters" },
@@ -110,7 +110,7 @@ export default function IntroductionPage() {
 
         <section className="pt-10">
           <p className="label">(Reinforce)</p>
-          <h2 className="mb-5 text-[26px] leading-tight tracking-[-0.02em]">How the book is built</h2>
+          <h2 className="mb-5 text-[26px] leading-tight tracking-[-0.02em]">How the books fit together</h2>
           <div className="grid gap-2 sm:grid-cols-2">
             {BUILT.map((b) => (
               <div key={b.slug ?? b.roman} className="bg-[#f1f1f1] p-4">
@@ -126,6 +126,13 @@ export default function IntroductionPage() {
           </div>
           <div className="prose-adult mt-6">
             <p>
+              The site opens with <strong>two short books</strong> Marx wrote before <em>Capital</em>:{" "}
+              <em>Wage-Labour and Capital</em>, from his 1847 talks to workers, and <em>The Communist Manifesto</em>{" "}
+              (1848), written with Friedrich Engels. Read them first as a warm-up. Each begins with a Chapter 0 that
+              tells the story of the book and why Marx had to leave one country after another. Then come the three
+              volumes of <em>Capital</em> and a bonus volume: {ALL_CHAPTERS.length} chapters in all.
+            </p>
+            <p>
               Marx finished only Volume I. <strong>Volumes II and III were assembled by Friedrich Engels</strong> from
               Marx&apos;s manuscripts after his death, so they are rougher and sometimes unfinished. The bonus
               &ldquo;Volume IV&rdquo;, <em>Theories of Surplus-Value</em>, is a critical history of the economists who
@@ -136,7 +143,7 @@ export default function IntroductionPage() {
               <strong>Chapter numbers differ between editions.</strong> For Volume I we follow the Penguin edition
               translated by Ben Fowkes (33 chapters in 8 parts). The older English translation by Samuel Moore and
               Edward Aveling uses the same numbers with different titles, while German editions group the same material
-              into 25 chapters. For Volumes II and III we follow the standard English editions. Each chapter page says
+              into 25 chapters. For Volumes II and III we follow the standard English editions, and for the two short books the sections on marxists.org. Each chapter page says
               which part of the original it covers.
             </p>
           </div>

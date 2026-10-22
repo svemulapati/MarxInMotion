@@ -15,7 +15,7 @@ const chapter: ChapterContent = {
       </p>
       <p>
         But Jones&apos;s book is full of other people: serfs who paid in days of work, peasants who paid in grain, share-croppers
-        who handed over half the harvest. Ned&apos;s own great-great-grandfather, Hob, was one of them. Rent, it turns out, has a
+        who handed over half the harvest. Ned&apos;s own great-great-great-grandfather, Hob, began as a serf on a lord&apos;s land. Rent, it turns out, has a
         history.
       </p>
     </>
