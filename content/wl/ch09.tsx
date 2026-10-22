@@ -35,7 +35,7 @@ const chapter: ChapterContent = {
     <>
       <p>
         Marx now follows the race of competition to its effects. Division of labour brings more division of labour,
-        machinery more machinery, large-scale work work on a still larger scale. Once a new method is general, a
+        machinery more machinery, large-scale work, work on a still larger scale. Once a new method is general, a
         capitalist must supply 10, 20 or 100 times as much at the same price, and may need a market for 1,000 times as
         much. Competition, he says, turns every weapon a capitalist forges against himself, and a law constantly shouts
         in his ear: &ldquo;March! march!&rdquo; This is the restless growth and <strong>concentration of capital</strong>.
