@@ -296,12 +296,50 @@ export function TheNeedlesJourney() {
  * 14.3 · Ava becomes a fragment (the cost to the worker, and two
  * kinds of division of labour)
  * ───────────────────────────────────────────────────────────── */
+/** Tiny drawn tools, centred on (0, 0), in place of emoji. */
+const ICONS: Record<string, React.ReactNode> = {
+  measure: (
+    <g>
+      <rect x="-10" y="-3" width="20" height="6" fill="#e8c35a" stroke="#000" strokeWidth=".8" />
+      {[-7, -3, 1, 5].map((x) => (
+        <line key={x} x1={x} y1="-3" x2={x} y2="0" stroke="#000" strokeWidth=".7" />
+      ))}
+    </g>
+  ),
+  design: (
+    <g transform="rotate(-40)">
+      <rect x="-9" y="-2.5" width="15" height="5" fill="#e6b800" stroke="#000" strokeWidth=".8" />
+      <path d="M6,-2.5 L10,0 L6,2.5 Z" fill="#f3e3b3" stroke="#000" strokeWidth=".8" />
+    </g>
+  ),
+  cut: (
+    <g fill="none" stroke="#000" strokeWidth="1.2">
+      <circle cx="-5" cy="5" r="3" />
+      <circle cx="5" cy="5" r="3" />
+      <line x1="-3" y1="3" x2="6" y2="-8" />
+      <line x1="3" y1="3" x2="-6" y2="-8" />
+    </g>
+  ),
+  fit: (
+    <g>
+      <ellipse rx="6" ry="8" fill="#dbe8f5" stroke="#000" strokeWidth="1" />
+      <line x1="-2" y1="-4" x2="1" y2="-6" stroke="#fff" strokeWidth="1.2" />
+    </g>
+  ),
+  sew: (
+    <g>
+      <line x1="-8" y1="8" x2="7" y2="-7" stroke="#000" strokeWidth="1.2" />
+      <path d="M7,-7 C2,-12 -6,-4 -2,2 C2,8 10,2 8,-4" fill="none" stroke={CAST.ava.color} strokeWidth="1" />
+    </g>
+  ),
+};
+
 const SKILLS = [
-  { label: "measure", icon: "📏", x: 70, y: 64 },
-  { label: "design", icon: "✏️", x: 130, y: 36 },
-  { label: "cut", icon: "✂️", x: 230, y: 36 },
-  { label: "fit", icon: "🪞", x: 290, y: 64 },
-  { label: "sew", icon: "🧵", x: 180, y: 96 },
+  { label: "measure", x: 70, y: 64 },
+  { label: "design", x: 130, y: 36 },
+  { label: "cut", x: 230, y: 36 },
+  { label: "fit", x: 290, y: 64 },
+  { label: "sew", x: 180, y: 96 },
 ];
 
 export function AvaBecomesAFragment() {
@@ -328,9 +366,7 @@ export function AvaBecomesAFragment() {
                 <g key={k.label} style={{ opacity: faded ? 0.15 : on ? 1 : 0.45, transition: "opacity 700ms" }}>
                   <line x1="180" y1="150" x2={k.x} y2={k.y + 14} stroke={CAST.ava.color} strokeOpacity={on ? 0.6 : 0.2} />
                   <circle cx={k.x} cy={k.y} r="17" fill="#fff" stroke={on ? CAST.ava.color : "#000"} strokeWidth={on ? 2 : 1} />
-                  <text x={k.x} y={k.y + 5} textAnchor="middle" fontSize="14">
-                    {k.icon}
-                  </text>
+                  <g transform={`translate(${k.x} ${k.y})`}>{ICONS[k.label]}</g>
                   <text x={k.x} y={k.y + 28} textAnchor="middle" fontSize="8.5">
                     {k.label}
                   </text>
