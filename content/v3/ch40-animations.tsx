@@ -33,7 +33,7 @@ export function FourFieldsOrOne() {
         { caption: "Last chapter: four doses of capital, £2½ each, spent on four different acres, A to D. They grew 1, 2, 3 and 4 quarters." },
         { caption: "Now Ned tries something else. He puts all four doses into one single acre, one after another: more manure, better ploughing, more care." },
         { caption: "Suppose the four doses on his one acre yield 1, 2, 3 and 4 quarters too. The total is the same 10 quarters." },
-        { caption: "Wheat still sells at £3 a quarter, the cost of the poorest dose. So the better doses make £3, £6 and £9 of surplus-profit, just as the better acres did." },
+        { caption: "Wheat still sells at £3 a quarter: the poorest dose's £2½ plus the usual profit. So the better doses make £3, £6 and £9 of surplus-profit, just as the better acres did." },
         {
           caption: "Marx calls rent from extra capital piled onto the same land differential rent II. Farming more on the same plot is what he means by intensive cultivation.",
           ms: 5200,

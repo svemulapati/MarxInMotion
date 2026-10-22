@@ -24,7 +24,7 @@ export function ThreeGreatClasses() {
         { caption: "Marx's last chapter begins with Tiny Town's three big groups, sorted by what they own." },
         { caption: "Sam owns only his ability to work, and lives on wages. Mr. Moneybags owns capital and lives on profit. The Landlord owns land and lives on rent." },
         { caption: "Wage-labourers, capitalists and landowners: Marx calls them the three great classes of modern society." },
-        { caption: "Even in England, the most developed country of his day, Marx admits the lines are blurred: in-between people like shopkeepers, clerks and doctors sit between the groups." },
+        { caption: "Even in England, the most developed country of his day, Marx admits the lines are blurred by in-between groups. (Think of Tom the shopkeeper, Clerk Pim or the doctor; Marx names no examples.)" },
         {
           caption: "But he says the big trend runs one way: tools and workshops gather into fewer, larger hands, and more and more people end up working for wages.",
           ms: 4800,

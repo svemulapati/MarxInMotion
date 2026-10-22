@@ -8,7 +8,7 @@ const chapter: ChapterContent = {
     <>
       <p>
         The valley outside Tiny Town has five wheat fields, A to E. Grandpa Ned farms one of them, and his neighbours farm
-        the rest. None of them owns a single field. Every year they all pay rent to the Landlord up on the hill.
+        the rest. None of them owns a single field. Every year they all pay rent to the Landlord, who lives far away in the city.
       </p>
       <p>
         This year the town is hungry for more bread. So the farmers try something new. Instead of farming more fields,
