@@ -105,7 +105,7 @@ export function UpsideDown() {
       title="12.2 · Everything looks upside down"
       steps={[
         { caption: "Mr. Moneybags now ships yarn overseas. He starts his price with what it cost him to make." },
-        { caption: "Ships sink, so he adds something for the risk. Insurance costs money, and he puts it in the price. Marx calls reasons like this grounds for compensating." },
+        { caption: "Ships sink, so he adds something for the risk. Insurance costs money, and he puts it in the price. Marx calls reasons like this grounds for compensation." },
         { caption: "His yarn takes months to sell abroad, so he adds something for the slow turnover. And something for his clever management. (Example amounts.)" },
         { caption: "To him, each addition seems to create part of his profit. That is how it looks in competition." },
         {

@@ -47,7 +47,7 @@ const chapter: ChapterContent = {
         For a capital of <strong>lower composition</strong> (50c + 50v) the wage bill rises to 62½. At the new average
         rate its price of production rises from 120 to 128 4/7. For a capital of <strong>higher composition</strong>{" "}
         (92c + 8v) costs rise only to 102, and its price falls to 116 4/7. Prices rise in one case and fall in the
-        other, so the sum of prices stays equal to the sum of values. Profit falls by the same amount everywhere.
+        other, so the sum of prices stays equal to the sum of values. Every capital ends up at the same, lower rate of profit.
       </p>
       <p>
         A general fall of wages by a quarter works in reverse: the average rate rises to 26 6/19%, labour-heavy prices
@@ -65,7 +65,7 @@ const chapter: ChapterContent = {
       </p>
       <p>
         This was also a practical argument. Some people in Marx&apos;s day told workers that pay rises were pointless
-        because prices would simply follow. Marx had argued against that view in a talk to workers in 1865, and this
+        because prices would simply follow. Marx had argued against that view in 1865, in a talk to the leaders of the International Working Men&apos;s Association, and this
         chapter shows why it is wrong.
       </p>
     </>

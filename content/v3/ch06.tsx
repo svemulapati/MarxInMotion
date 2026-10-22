@@ -8,7 +8,7 @@ const chapter: ChapterContent = {
     <>
       <p>
         One spring, Tom the shopkeeper comes back from the harbour looking grim. &ldquo;No cotton ships this month,&rdquo;
-        he says. &ldquo;There&apos;s a war across the ocean, and the cotton fields are empty.&rdquo;
+        he says. &ldquo;There&apos;s a war across the ocean, and the cotton can&apos;t get out.&rdquo;
       </p>
       <p>
         The little cotton that does arrive costs twice as much. Mr. Moneybags grumbles over his ledger: his rate of

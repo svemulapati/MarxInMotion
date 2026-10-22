@@ -108,7 +108,7 @@ export function TenTimesTheCotton() {
       id="anim-v3-14-2"
       title="14.2 · Ten times the cotton, not ten times the cost"
       steps={[
-        { caption: "Long ago Sam's grandmother spun one bale of cotton at her wheel in the time it takes to boil a big pot of soup." },
+        { caption: "Long ago Sam's grandmother spun one bale of cotton at her wheel in a whole season of work." },
         { caption: "In Mr. Moneybags' mill, Sam works up ten bales in the same time. Marx gives this very example: the cotton a factory spinner handles has grown enormously." },
         { caption: "So the pile of materials is ten times bigger. But is it ten times more expensive? No. Machines also make cotton growing, shipping and machine-building cheaper." },
         { caption: "Here its value has only tripled. (Made-up numbers to show the idea.) Marx: the value of constant capital does not grow as fast as its size." },
