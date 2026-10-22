@@ -2,7 +2,7 @@ import type { ChapterContent } from "@/components/ChapterTemplate";
 import { EveryCoinSeemsToSprout, TwoRulers } from "./ch02-animations";
 
 const chapter: ChapterContent = {
-  bigQuestion: "Is the boss's extra big or small? It depends on what you compare it with.",
+  bigQuestion: "Is the boss's extra big or small?",
 
   story: (
     <>

@@ -2,7 +2,7 @@ import type { ChapterContent } from "@/components/ChapterTemplate";
 import { PaidAndUnpaid, TwoWaysToMeasure } from "./ch18-animations";
 
 const chapter: ChapterContent = {
-  bigQuestion: "Is Sam's share of the day big or small? It depends how you measure it.",
+  bigQuestion: "Is Sam's share of the day big or small?",
 
   story: (
     <>
