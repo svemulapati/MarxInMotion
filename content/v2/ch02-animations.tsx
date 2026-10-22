@@ -19,12 +19,12 @@ export function WatchTheWorkshop() {
       title="2.1 · Watch the workshop instead"
       viewBox="0 0 360 225"
       steps={[
-        { caption: "Same capital, new camera. This time the story starts in the workshop on Monday: Sam is spinning. That is productive capital, P." },
-        { caption: "Saturday: the week's yarn is finished, worth more than went in (C′)." },
+        { caption: "Same capital, new camera. This time the story starts in the workshop in the morning: Sam is spinning. That is productive capital, P." },
+        { caption: "Evening: the day's yarn is finished, worth more than went in (C′)." },
         { caption: "The yarn is sold for coins (M′)..." },
-        { caption: "...and the coins buy cotton and Sam's next week (C)." },
+        { caption: "...and the coins buy cotton and Sam's next day (C)." },
         {
-          caption: "Monday again, and the workshop runs once more. Seen from here, all the buying and selling is just a pit stop between two working weeks. Marx writes P…P.",
+          caption: "Next morning the workshop runs once more. Seen from here, all the buying and selling is just a pit stop between two working days. Marx writes P…P.",
           ms: 5200,
         },
       ]}
@@ -38,7 +38,7 @@ export function WatchTheWorkshop() {
               the pit stop: selling and buying
             </text>
           </Fade>
-          <Note show={s === 4}>P … P: production renews itself, week after week</Note>
+          <Note show={s === 4}>P … P: production renews itself, day after day</Note>
         </>
       )}
     </Player>
@@ -55,12 +55,12 @@ export function TwoRoads() {
       title="2.2 · Two roads out of the yarn"
       viewBox="0 0 360 225"
       steps={[
-        { caption: "The week's yarn is worth 30 coins. 27 of them are the capital Mr. Moneybags put in. 3 are surplus-value." },
+        { caption: "The day's yarn is worth 30 coins. 27 of them are the capital Mr. Moneybags put in. 3 are surplus-value." },
         { caption: "Once it is sold, the 30 coins split in two, and each part takes its own road." },
-        { caption: "Road one: the 27 coins buy cotton and Sam's next week. The capital goes round again. Marx writes C–M–C." },
-        { caption: "Road two: the 3 coins go on Mr. Moneybags' own dinners from Mia's bakery. Marx writes c–m–c. Next week the workshop is the same size: simple reproduction." , ms: 5000 },
+        { caption: "Road one: the 27 coins buy cotton and Sam's next day. The capital goes round again. Marx writes C–M–C." },
+        { caption: "Road two: the 3 coins go on Mr. Moneybags' own dinners from Mia's bakery. Marx writes c–m–c. Tomorrow the workshop is the same size: simple reproduction." , ms: 5000 },
         {
-          caption: "Or he saves the 3 coins and puts them to work too. Then next week's workshop is bigger. Marx writes P…P′: reproduction on a growing scale.",
+          caption: "Or he saves the 3 coins and puts them to work too. Then tomorrow's workshop is bigger. Marx writes P…P′: reproduction on a growing scale.",
           ms: 5000,
         },
       ]}
@@ -152,14 +152,14 @@ export function TheMoneyThatWaits() {
       viewBox="0 0 360 225"
       steps={[
         { caption: "Mr. Moneybags wants a second spinning machine. The Forge sells one for 12 coins (a made-up price)." },
-        { caption: "Each week he saves the 3 coins of surplus-value in a chest. After week one he has 3: far too few to buy a machine." },
+        { caption: "Each day he saves the 3 coins of surplus-value in a chest. After day one he has 3: far too few to buy a machine." },
         {
           caption: "He must wait until the pile is big enough. Until then the coins cannot work. Marx calls them latent money-capital: capital that is asleep.",
           ms: 5000,
         },
-        { caption: "Week four: 12 coins. He buys the machine, the sleeping money wakes up, and the workshop grows." },
+        { caption: "Day four: 12 coins. He buys the machine, the sleeping money wakes up, and the workshop grows." },
         {
-          caption: "Weeks later he has saved 6 more coins. A pile like this can also be a reserve fund: when cotton suddenly costs more, coins from the chest keep the circuit running without a break.",
+          caption: "Days later he has saved 6 more coins. A pile like this can also be a reserve fund: when cotton suddenly costs more, coins from the chest keep the circuit running without a break.",
           ms: 5000,
         },
       ]}

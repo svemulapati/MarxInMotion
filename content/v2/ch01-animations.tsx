@@ -191,7 +191,7 @@ export function ThreeCostumes() {
       title="1.1 · Three stages, three costumes"
       viewBox="0 0 360 225"
       steps={[
-        { caption: "Monday morning. Mr. Moneybags has 27 coins. In this form his capital is money-capital, written M." },
+        { caption: "Morning. Mr. Moneybags has 27 coins. In this form his capital is money-capital, written M." },
         { caption: "Stage one, buying (M–C): 24 coins for cotton and spindle wear, 3 coins for a day of Sam's labour-power." },
         { caption: "Stage two, production (P). The coins are gone. Now the capital is cotton, spindles and Sam at work: productive capital. The dots mean buying and selling have stopped while work goes on." , ms: 4600 },
         { caption: "Out comes 20 lb of yarn worth 30 coins: commodity-capital, written C′. It already holds 3 coins of surplus-value." },

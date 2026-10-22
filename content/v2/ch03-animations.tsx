@@ -25,7 +25,7 @@ export function StartWithTheYarn() {
           caption: "Notice what this circle starts with. The other two began with plain capital. This one begins with surplus-value already inside: 3 of the 30 coins' worth is extra.",
           ms: 5000,
         },
-        { caption: "The yarn is sold (M′). The money splits: 27 coins buy cotton and Sam's week (C), 3 coins go on Mr. Moneybags' own life." },
+        { caption: "The yarn is sold (M′). The money splits: 27 coins buy cotton and Sam's next day (C), 3 coins go on Mr. Moneybags' own life." },
         { caption: "The workshop runs (P) and makes a new batch of yarn (C′)." },
         {
           caption: "So the circle ends where it began, with yarn. For it to keep turning, all that yarn must be bought and used: by other workshops, and by people eating and dressing.",

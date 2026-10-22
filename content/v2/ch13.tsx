@@ -16,7 +16,7 @@ const chapter: ChapterContent = {
         in the field till then, but my money is stuck out there all the same.&rdquo;
       </p>
       <p>
-        Mr. Moneybags stops. His money comes back every week. Ned&apos;s comes back once a year, and for most of that year
+        Mr. Moneybags stops. His money comes back within weeks. Ned&apos;s comes back once a year, and for most of that year
         nobody is working on it at all.
       </p>
     </>

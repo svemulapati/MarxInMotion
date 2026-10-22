@@ -117,7 +117,7 @@ const chapter: ChapterContent = {
       options: [
         "Because it puts labour-power, the only part that makes new value, in with raw materials",
         "Because it forgets about the machine",
-        "Because it is written in Scottish",
+        "Because Smith never wrote about workshops",
       ],
       answer: 0,
       why: "Sorted by speed of return, the wage looks like cotton. Sorted by what each part does, only labour-power creates more value than it costs.",

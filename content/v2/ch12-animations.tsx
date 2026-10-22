@@ -73,7 +73,7 @@ export function YarnOrLocomotive() {
       viewBox="0 0 360 226"
       steps={[
         {
-          caption: "Two workshops of the same size, with the same ten-hour days. Mr. Moneybags spins yarn. The Ironmaster at the Forge builds a locomotive. Each spends 10 coins a week on wages and materials.",
+          caption: "Two workshops of the same size, with the same working hours. Mr. Moneybags spins yarn. The Ironmaster at the Forge builds a locomotive. Each spends 10 coins a week on wages and materials.",
           ms: 5200,
         },
         { caption: "End of week one. Mr. Moneybags delivers his yarn and is paid: his 10 coins come back. The Ironmaster has one twelfth of a locomotive, and nothing to sell." },

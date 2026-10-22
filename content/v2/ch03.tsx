@@ -12,7 +12,7 @@ const chapter: ChapterContent = {
       </p>
       <p>
         He points at a stack of Mr. Moneybags&apos; yarn. &ldquo;This yarn will be sold. The money will buy cotton, the
-        cotton will be spun, and in a week there will be yarn on my shelf again.&rdquo;
+        cotton will be spun, and soon there will be yarn on my shelf again.&rdquo;
       </p>
       <p>
         Then he points around the square. &ldquo;And where did the cotton come from? Someone else&apos;s shelf. Where
