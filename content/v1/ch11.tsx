@@ -119,7 +119,7 @@ const chapter: ChapterContent = {
         "Because the law forbids it",
       ],
       answer: 1,
-      why: "Even working all 24 hours for no wage, 100 people make at most 1,200 shillings of value, less than the 1,500 of surplus from 500 workers.",
+      why: "Even working all 24 hours for no wage, 100 people make at most 1,200 coins of value, less than the 1,500 coins of surplus from 500 workers.",
     },
     {
       q: "What does Marx call an owner who has too few workers to stop working himself?",

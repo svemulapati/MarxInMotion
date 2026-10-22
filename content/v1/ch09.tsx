@@ -53,7 +53,7 @@ const chapter: ChapterContent = {
       <p>
         Marx then shows the product can be split the same way: of the 20 lb of yarn worth 30 coins, 16 lb stand for the
         constant capital, 2 lb for the wage and 2 lb for the surplus-value. But that is a way of dividing the product,
-        not the working day. Nassau Senior mixed the two up in 1837, when he argued that the whole net profit of an
+        not the working day. Nassau Senior mixed the two up in 1836 (his pamphlet came out in 1837), when he argued that the whole net profit of an
         11½-hour mill day came from the last hour. Using the owners&apos; own figures, Marx shows the workers made their
         wages in 5¾ hours and the profit in the other 5¾. Cut an hour, and the surplus labour falls to 4¾ hours: a lower
         rate, about 82%, but no ruin.

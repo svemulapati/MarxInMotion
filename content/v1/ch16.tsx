@@ -15,8 +15,8 @@ const chapter: ChapterContent = {
         can one be more productive than the other?&rdquo;
       </p>
       <p>
-        Leo has a puzzle of his own. When he started working for Mr. Moneybags he used his old hand loom, just like at
-        home. Now there is a whole factory of machine looms. Has he been working for a boss all along, or did something
+        Leo has a puzzle of his own. When the power looms ruined his trade, he took a job with Mr. Moneybags and, at
+        first, wove on his old hand loom, just like at home. Now there is a whole factory of machine looms. Has he been working for a boss all along, or did something
         change?
       </p>
       <p>And far away, on an island where food grows on trees, an islander wonders why anyone would work all week at all.</p>

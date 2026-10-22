@@ -26,7 +26,7 @@ const chapter: ChapterContent = {
 
   guess: (
     <p>
-      If every seller in Tiny Town adds 10 coins to every price, who ends up richer? And if Moneybags cheats Tom, is
+      If every seller in Tiny Town adds 10 per cent to every price, who ends up richer? And if Moneybags cheats Tom, is
       Tiny Town as a whole any richer than before?
     </p>
   ),
