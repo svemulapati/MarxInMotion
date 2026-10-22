@@ -163,7 +163,7 @@ export function TwoRoads() {
         { caption: "Once rent is paid in money, the old custom between lord and peasant becomes a written contract. The peasant is now really a tenant." },
         { caption: "Road one: the peasant buys himself free of the rent and owns his plot outright. He becomes a peasant proprietor." },
         {
-          caption: "Road two: a better-off peasant hires day-labourers for wages, saves, and rents more land. Marx calls these peasants a nursery school for capitalist farmers. Hob, Grandpa Ned's ancestor, took this road.",
+          caption: "Road two: a better-off peasant hires day-labourers for wages, saves, and rents more land. Marx calls these peasants a nursery school for capitalist farmers. Grandpa Ned's family ended up here too: Hob began as the lord's bailiff, and his family came to rent land and hire workers (Volume I, Chapter 29).",
           ms: 6000,
         },
         {
