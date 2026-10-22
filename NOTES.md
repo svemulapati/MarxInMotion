@@ -2,6 +2,31 @@
 
 Details that are uncertain or need a human check. Newest first.
 
+## Site-wide audit (2026-10-21 to 22)
+
+All 145 chapters plus the introduction and wrap-up were audited three ways: a static scan of every
+source file, a browser check of all 1,812 animation steps at phone width, and a chapter-by-chapter
+read by eight reviewers. About 60 anomalies were fixed. Highlights:
+
+- **Quizzes:** in 54 chapters the right answer was always the second option. The Quiz component now
+  places it at a stable, varied position per question.
+- **Layout:** labels cut off at the bottom edge in 13 animations; a hidden "65 tons" label (Vol IV
+  12.1); price tags too narrow for long labels (the shared Tag now sizes itself).
+- **Continuity:** Ava shown as a boss with her own workers (Vol III Ch 3, 17); Hob's family history
+  told three ways (Vol I 29, Vol III 47, Vol IV 24 now agree: a serf who served as the lord's bailiff,
+  whose family came to rent land and hire workers); Leo selling yarn from a spinning machine (WL Ch 5);
+  Mr. Moneybags left stranded in the colony (Vol I Ch 33 now brings him home before Vol II); Vol II's
+  first circuit told as a week, which made Sam's daily 3-coin wage look weekly (now a day).
+- **Facts and numbers:** Senior's "last hour" dated 1836 (pamphlet 1837); Price's penny "about 1,770
+  years"; the 1844 Bank Act "set aside", not cancelled; Vol III Ch 11 profit fall corrected to Marx's
+  own figures; Vol III Ch 52's in-between groups no longer attributed to Marx; Okishio stated
+  precisely; both prelude Chapter 0s now give identical exile dates.
+- **Copy:** a broken 1872 preface quote (Manifesto Ch 4), a doubled word, edition names made
+  consistent in Vol III Part V, Part V's fragmentary state noted in Ch 21 to 24, Ava's emoji skills
+  (Vol I 14.3) redrawn as icons.
+- **Checked and left as is:** four overlaps the browser flagged are intentional or harmless (tumbling
+  IOUs in Vol III 30.2, a tilted label box in Vol II 21.3, touching label boxes in Vol III 3.1 and 27.2).
+
 ## The two preludes: Wage-Labour and Capital, The Communist Manifesto
 
 Added on 2026-10-20 at the user's request, before Volume I. Each opens with a Chapter 0, "The Story

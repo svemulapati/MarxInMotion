@@ -126,16 +126,22 @@ export const Clock = ({ hours, color = "#000" }: { hours: string; color?: string
   </g>
 );
 
-/** A hanging price tag. */
-export const Tag = ({ text }: { text: string }) => (
-  <g>
-    <path d="M-16,-7 L12,-7 L18,0 L12,7 L-16,7 Z" fill="#fff" stroke="#000" strokeWidth="1" />
-    <circle cx="12" cy="0" r="1.5" fill="#000" />
-    <text x="-2" y="3" textAnchor="middle" fontSize="7.5">
-      {text}
-    </text>
-  </g>
-);
+/**
+ * A hanging price tag. The tip stays at x = 18; longer labels grow the tag
+ * to the left so the text never spills past its edge.
+ */
+export const Tag = ({ text }: { text: string }) => {
+  const left = 12 - Math.max(28, text.length * 4.3 + 8);
+  return (
+    <g>
+      <path d={`M${left},-7 L12,-7 L18,0 L12,7 L${left},7 Z`} fill="#fff" stroke="#000" strokeWidth="1" />
+      <circle cx="12" cy="0" r="1.5" fill="#000" />
+      <text x={(left + 10) / 2} y="3" textAnchor="middle" fontSize="7.5">
+        {text}
+      </text>
+    </g>
+  );
+};
 
 /** Rounded speech bubble anchored at its tail (bottom-left). */
 export const Bubble = ({ w, lines }: { w: number; lines: string[] }) => {
