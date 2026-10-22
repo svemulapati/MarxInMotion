@@ -110,7 +110,7 @@ export function DownhillOrUphill() {
       id="anim-v3-39-2"
       title="39.2 · Downhill, or uphill?"
       steps={[
-        { caption: "Marx tells it as a story. At first only the richest soil, D, is farmed. Its 4 sacks cost 60 shillings to grow, so wheat sells at 15 shillings a sack. No rent yet." },
+        { caption: "Marx tells it as a story. At first only the richest soil, D, is farmed. Its 4 sacks need 60 shillings (costs plus the usual profit), so wheat sells at 15 shillings a sack. No rent yet." },
         { caption: "The town grows and needs more bread. Soil C must be farmed too. Its wheat costs 20 shillings a sack, so the price rises to 20. Now D earns 5 shillings a sack extra." },
         { caption: "More people, more bread. Soil B comes in, the price climbs to 30, and D's extra grows to 15 shillings a sack." },
         { caption: "Finally even poor soil A is ploughed. The price reaches 60, and D's rent is 45 shillings a sack: 180 shillings in all." },
