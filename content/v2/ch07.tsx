@@ -16,7 +16,8 @@ const chapter: ChapterContent = {
         year, when the wheat is sold. You city people are always in a hurry.&rdquo;
       </p>
       <p>
-        Mr. Moneybags counts on his fingers. His coins seem to come home every three months. That means they can go out
+        Mr. Moneybags counts on his fingers. Now that his yarn waits in shops and travels to far-off towns, his coins
+        come home only every three months. That means they can go out
         and come back four times while Ned&apos;s go round only once. He starts to wonder: does the speed of the trip
         matter?
       </p>

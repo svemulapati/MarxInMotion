@@ -2,30 +2,30 @@ import type { ChapterContent } from "@/components/ChapterTemplate";
 import { ThreeCostumes, TwoShoppingLists, WhenTheCircuitStops } from "./ch01-animations";
 
 const chapter: ChapterContent = {
-  bigQuestion: "Where are Mr. Moneybags' coins on Wednesday?",
+  bigQuestion: "Where are Mr. Moneybags' coins at noon?",
 
   story: (
     <>
       <p>
         In Volume I we watched Mr. Moneybags&apos; workshop make value. Now we follow his capital as it travels. Every
-        Monday morning he counts 27 coins on his desk. Every Saturday evening he counts 30. Leo, who is curious, asks a
-        simple question: &ldquo;Where are your coins on Wednesday?&rdquo;
+        morning he counts 27 coins on his desk. Every evening he counts 30. Leo, who is curious, asks a
+        simple question: &ldquo;Where are your coins at noon?&rdquo;
       </p>
       <p>
         Mr. Moneybags opens his purse. It is empty. &ldquo;Gone,&rdquo; he says. &ldquo;But I am not any poorer.&rdquo;
       </p>
       <p>
-        Leo looks around the workshop. There is a heap of cotton, spinning wheels humming, and Sam hard at work. By Friday
-        there is a stack of fresh yarn. Somehow the 27 coins have turned into all of this, and by Saturday they will
+        Leo looks around the workshop. There is a heap of cotton, spinning wheels humming, and Sam hard at work. By the
+        afternoon there is a stack of fresh yarn. Somehow the 27 coins have turned into all of this, and by evening they will
         turn back into coins, more of them than before.
       </p>
-      <p>So where was the money on Wednesday? To answer, Marx follows capital round a whole circle.</p>
+      <p>So where was the money at noon? To answer, Marx follows capital round a whole circle.</p>
     </>
   ),
 
   guess: (
     <p>
-      Mr. Moneybags&apos; purse is empty on Wednesday, yet he says he is not poorer. In what shapes could his 27 coins
+      Mr. Moneybags&apos; purse is empty at noon, yet he says he is not poorer. In what shapes could his 27 coins
       be hiding? Count how many different shapes you think there are before you press play.
     </p>
   ),
@@ -107,10 +107,10 @@ const chapter: ChapterContent = {
 
   quiz: [
     {
-      q: "On Wednesday Mr. Moneybags' purse is empty. In which form is his capital?",
+      q: "At noon Mr. Moneybags' purse is empty. In which form is his capital?",
       options: ["Money-capital", "Productive capital: cotton, spindles and Sam at work", "It has vanished"],
       answer: 1,
-      why: "Mid-week the capital is busy in the workshop. That is productive capital, P.",
+      why: "At midday the capital is busy in the workshop. That is productive capital, P.",
     },
     {
       q: "What does C′ stand for in the circuit?",
@@ -119,14 +119,14 @@ const chapter: ChapterContent = {
       why: "C′ is commodity-capital: the finished goods, already holding surplus-value, waiting to be sold.",
     },
     {
-      q: "Nobody buys the yarn this week. What happens to the circuit?",
+      q: "Nobody buys the yarn today. What happens to the circuit?",
       options: [
         "Nothing, the workshop carries on as usual",
         "It gets stuck at selling, and unsold piles block the next round",
         "The yarn turns into money anyway",
       ],
       answer: 1,
-      why: "Capital only works while it keeps moving. Stuck at C′–M′, there is no money to buy the next week's cotton and labour.",
+      why: "Capital only works while it keeps moving. Stuck at C′–M′, there is no money to buy tomorrow's cotton and labour.",
     },
   ],
 

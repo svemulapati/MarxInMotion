@@ -8,7 +8,7 @@ const chapter: ChapterContent = {
     <>
       <p>
         A new workshop has opened at the edge of Tiny Town: the Forge, run by a man everyone calls the Ironmaster. His
-        workshop is the same size as Mr. Moneybags&apos; spinning mill. His workers work the same ten-hour days. He even
+        workshop is the same size as Mr. Moneybags&apos; spinning mill. His workers work the same long days. He even
         spends the same amount each week.
       </p>
       <p>
