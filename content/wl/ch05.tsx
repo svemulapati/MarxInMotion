@@ -12,8 +12,8 @@ const chapter: ChapterContent = {
         says. &ldquo;Machines, tools, cotton, coins. That&apos;s all capital is.&rdquo;
       </p>
       <p>
-        Leo the weaver has a machine just like it in his cottage. He works it himself and sells his own yarn. He has
-        never thought of it as capital. It is just his machine.
+        Leo the weaver has a machine just like it in his cottage. He spins his own yarn on it, weaves the yarn into
+        cloth and sells the cloth himself. He has never thought of it as capital. It is just his machine.
       </p>
       <p>
         And in Moneybags&apos; mill there is a third one, worked all day by Sam for 3 coins, while the yarn and the
@@ -103,7 +103,7 @@ const chapter: ChapterContent = {
 
   quiz: [
     {
-      q: "Leo spins his own cotton on his own machine and sells his own yarn. Is his machine capital, in Marx's sense?",
+      q: "Leo spins yarn on his own machine for his own weaving, and sells the cloth himself. Is his machine capital, in Marx's sense?",
       options: ["Yes, every machine is capital", "No, it is his own tool; nobody is hired to make it grow", "Only on market days"],
       answer: 1,
       why: "For Marx a machine becomes capital only inside a relation where it is owned by one person and worked by others for a wage.",

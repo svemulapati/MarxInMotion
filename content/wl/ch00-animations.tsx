@@ -180,9 +180,9 @@ export function RoadOfExile() {
         { caption: "January 1845: the Prussian government pushes France to get rid of him. France orders him out, and he moves to Brussels in Belgium." },
         { caption: "December 1845: tired of the Prussian police chasing him, he gives up his Prussian citizenship. Now he belongs to no country at all." },
         { caption: "March 1848: revolution in France frightens Belgium's rulers. The king orders Marx out within 24 hours, and the police lock him up for 18 hours first.", ms: 4600 },
-        { caption: "April 1848: revolution reaches Germany too. Marx goes back to Cologne and starts the Neue Rheinische Zeitung, where these lectures will be printed." },
-        { caption: "May 1849: the revolution is losing. Prussia expels him on the excuse that he is 'no longer a Prussian subject', and the paper has to close.", ms: 4600 },
-        { caption: "August 1849: back in Paris, the French government orders him out again. He crosses the sea to London, where he lives for the rest of his life.", ms: 4600 },
+        { caption: "April 1848: revolution reaches Germany too. Marx goes back to Cologne, and on 1 June starts the Neue Rheinische Zeitung, where these lectures will be printed." },
+        { caption: "16 May 1849: the revolution is losing. Prussia orders him out on the excuse that he is 'no longer a Prussian subject', and the paper has to close.", ms: 4600 },
+        { caption: "23 August 1849: back in Paris, the French government orders him out again. On 26 August he reaches London, where he lives for the rest of his life.", ms: 4600 },
       ]}
     >
       {(s) => {

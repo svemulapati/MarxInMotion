@@ -160,7 +160,7 @@ const STOPS: { at: City; year: string; why: string }[] = [
   { at: "Brussels", year: "1845 to 1848", why: "arrested and deported" },
   { at: "Paris", year: "March 1848", why: "invited back" },
   { at: "Cologne", year: "1848 to 1849", why: "banished from Germany" },
-  { at: "Paris", year: "June 1849", why: "banished again" },
+  { at: "Paris", year: "June to August 1849", why: "ordered out again" },
   { at: "London", year: "from August 1849", why: "home for good" },
 ];
 
@@ -176,7 +176,7 @@ export function MarxOnTheMove() {
         { caption: "When revolution reached Germany, Marx went to Cologne and ran a daily paper, the Neue Rheinische Zeitung, from June 1848." },
         { caption: "When the uprisings were crushed, Prussia banished him in May 1849. The paper's last issue was printed in red ink." },
         {
-          caption: "He went back to Paris, but was banished again after a protest in June 1849. So he crossed to London, and lived there for the rest of his life, often very poor.",
+          caption: "He went back to Paris in June 1849, but on 23 August France ordered him out again. On 26 August he reached London, and lived there for the rest of his life, often very poor.",
           ms: 5200,
         },
       ]}

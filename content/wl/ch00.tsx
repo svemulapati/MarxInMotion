@@ -71,12 +71,13 @@ const chapter: ChapterContent = {
         in 10,000 copies for workers. It has since been translated into many languages.
       </p>
       <p>
-        <strong>Why Marx had to leave.</strong> Marx was expelled again and again. France ordered him out in January
+        <strong>Why Marx had to leave.</strong> Marx was expelled again and again. France ordered him out on 16 January
         1845 under pressure from the Prussian government; he gave up his Prussian citizenship that December. In March
-        1848, as revolution spread from Paris, the King of Belgium ordered him out within 24 hours. After a year running
-        the paper in Cologne, Prussia expelled him in May 1849 on the excuse that he was no longer a Prussian subject.
-        Back in Paris, the French government ordered him out once more in August 1849, and he moved to London, where he
-        lived for the rest of his life.
+        1848, as revolution spread from Paris, the King of Belgium ordered him out within 24 hours; on 4 March the police
+        held him for 18 hours before he left. After a year running
+        the paper in Cologne, Prussia ordered him out on 16 May 1849, on the excuse that he was no longer a Prussian subject.
+        Back in Paris, the French government ordered him out once more on 23 August 1849, and on 26 August he arrived in
+        London, where he lived for the rest of his life.
       </p>
     </>
   ),

@@ -32,7 +32,7 @@ const chapter: ChapterContent = {
   struggle: [<WhyItWasWritten key="a" />, <MarxOnTheMove key="b" />],
   reveal: [<ForgottenThenEverywhere key="c" />],
 
-  eli5: "A small secret group asked Marx and Engels to write down what they wanted, and in 1848 they made a short booklet. It said workers should join together and change the world, which frightened many governments, so Marx was pushed out of country after country until he settled in London. The booklet was nearly forgotten, then spread around the world, and people still argue about it today.",
+  eli5: "In 1848 Marx and Engels wrote a short booklet saying workers should join together and change the world. It frightened governments, and Marx was pushed out of one country after another until he settled in London. The booklet was nearly forgotten, then spread all over the world, and people still argue about it.",
 
   grownUp: (
     <>
@@ -72,12 +72,13 @@ const chapter: ChapterContent = {
         globalisation.
       </p>
       <p>
-        <strong>Why Marx had to leave.</strong> At the Prussian government&apos;s request, France expelled Marx in 1845. He
-        moved to Brussels, where the Manifesto was written. When the February 1848 revolution stirred unrest in Belgium, the
-        Belgian government arrested and deported him. He returned to Paris, then went to Cologne, where he edited the{" "}
+        <strong>Why Marx had to leave.</strong> At the Prussian government&apos;s request, France ordered Marx out on 16 January
+        1845. He moved to Brussels, where the Manifesto was written. When the February 1848 revolution stirred unrest in Belgium, the King of
+        Belgium ordered him out within 24 hours; on 4 March 1848 the police held him for 18 hours and deported him. He returned to Paris, then went to Cologne, where he edited the{" "}
         <em>Neue Rheinische Zeitung</em> from 1 June 1848. After the 1849 risings were crushed, Prussia banished him on 16
-        May 1849, and the paper&apos;s last issue, on 19 May, was printed in red ink. Banished from Paris again after the
-        demonstration of 13 June 1849, he moved to London that summer and lived there until his death in 1883.
+        May 1849, and the paper&apos;s last issue, on 19 May, was printed in red ink. He returned to Paris in early June 1849,
+        where an attempted rising soon failed. On 23 August 1849 the French government ordered him to leave Paris within
+        24 hours, and on 26 August he arrived in London, where he lived until his death in 1883.
       </p>
     </>
   ),
@@ -160,8 +161,9 @@ const chapter: ChapterContent = {
     <p>
       The Communist Manifesto, the story of the book. Facts are from the prefaces by Marx and Engels (1872, 1882) and by
       Engels (1883, 1888, 1890, 1892, 1893), Engels&apos; 1877 biography of Marx, Lenin&apos;s 1914 biographical sketch,
-      and the marxists.org introduction to the <em>Principles of Communism</em>. The 1872 Leipzig trial, the month of
-      Marx&apos;s arrival in London, and the twentieth-century history are general history, not from these texts. Marx and
+      and the marxists.org introduction to the <em>Principles of Communism</em>. The dates of Marx&apos;s expulsions and his arrival in
+      London are from the Progress Publishers chronology <em>Karl Marx: His Life and Work</em> on marxists.org. The 1872
+      Leipzig trial and the twentieth-century history are general history, not from these texts. Marx and
       Engels both signed the Manifesto; Engels said its basic idea belonged to Marx.
     </p>
   ),

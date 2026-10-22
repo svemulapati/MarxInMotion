@@ -25,8 +25,8 @@ const chapter: ChapterContent = {
 
   guess: (
     <p>
-      Sam&apos;s 3 coins arrive at the end of the week, before Mr. Moneybags has sold any of the yarn Sam made. So are
-      the coins really Sam&apos;s share of the yarn? And if not, what are they?
+      Sam&apos;s 3 coins arrive at the end of the week, before Mr. Moneybags has sold anything Sam made. So are the
+      coins really Sam&apos;s share of what he made? And if not, what are they?
     </p>
   ),
 
@@ -107,8 +107,8 @@ const chapter: ChapterContent = {
     {
       q: "Sam's wage comes from...",
       options: [
-        "His share of the money from the yarn once it is sold",
-        "Money the boss already had, before the yarn is sold",
+        "His share of the money from the cloth once it is sold",
+        "Money the boss already had, before the cloth is sold",
         "The bank",
       ],
       answer: 1,

@@ -52,9 +52,9 @@ const chapter: ChapterContent = {
       <p>
         The ending is a declaration: communists &ldquo;disdain to conceal their views and aims&rdquo;, which can be
         attained &ldquo;only by the forcible overthrow of all existing social conditions&rdquo;. It closes with{" "}
-        <strong>&ldquo;Working Men of All Countries, Unite!&rdquo;</strong> In their 1872 preface the authors said this
-        section, though correct &ldquo;in principle&rdquo;, was &ldquo;in practice are antiquated&rdquo;, since most of these
-        parties had vanished.
+        <strong>&ldquo;Working Men of All Countries, Unite!&rdquo;</strong> In their 1872 preface the authors wrote that this
+        section, &ldquo;although in principle still correct, yet in practice&rdquo; was &ldquo;antiquated&rdquo;, since
+        most of these parties had vanished.
       </p>
     </>
   ),

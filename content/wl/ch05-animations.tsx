@@ -33,7 +33,7 @@ export function MachineOrCapital() {
       steps={[
         { caption: "The old economists said: capital is just tools, materials and food used to make more things. So is this spinning machine capital?" },
         { caption: "Put it in a museum. It is a machine for spinning cotton. Nobody works it, nobody earns from it." },
-        { caption: "Put it in Leo's cottage. He spins his own cotton and sells his own yarn. It is his tool, nothing more." },
+        { caption: "Put it in Leo's cottage. He spins his own yarn for his own weaving. It is his tool, nothing more." },
         { caption: "Now put it in Mr. Moneybags' mill, and hire Sam, who owns nothing else, to work it for a wage. Now it is capital." },
         {
           caption: "Same machine, every time. What changed is the relation between people around it. Marx says gold is only money, and a machine only capital, under certain conditions.",
