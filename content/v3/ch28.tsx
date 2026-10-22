@@ -117,8 +117,7 @@ const chapter: ChapterContent = {
 
   source: (
     <p>
-      Covers Volume III, Chapter 28 (&ldquo;Medium of Circulation and Capital; Views of Tooke and Fullarton&rdquo;), in
-      the Moscow translation on marxists.org. Volume III was put together by Friedrich Engels from Marx&apos;s manuscripts
+      Covers Volume III, Chapter 28 (&ldquo;Medium of Circulation and Capital; Views of Tooke and Fullarton&rdquo;), in the International Publishers edition on marxists.org. Volume III was put together by Friedrich Engels from Marx&apos;s manuscripts
       and published in 1894; Engels says this chapter &ldquo;had to be re-arranged in places&rdquo;. Fullarton&apos;s
       phrase &ldquo;A demand for capital on loan and a demand for additional circulation are quite distinct things&rdquo;
       is quoted in the text. The 5-coin note, the professor and the bank window are this site&apos;s illustration;

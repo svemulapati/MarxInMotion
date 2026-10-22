@@ -133,8 +133,8 @@ const chapter: ChapterContent = {
   source: (
     <p>
       Covers Volume III, Chapter 23 (&ldquo;Interest and Profit of Enterprise&rdquo;), checked against the
-      International Publishers / Progress edition on marxists.org. Volume III was assembled by Engels from Marx&apos;s
-      manuscripts and published in 1894. Marx&apos;s own points: the quantitative division becoming a qualitative one;
+      International Publishers edition on marxists.org. Volume III was assembled by Engels from Marx&apos;s
+      manuscripts and published in 1894. Chapters 21 to 36 make up Part V, which Engels found the hardest to edit (&ldquo;no finished draft&rdquo;), though he says Chapters 21 to 24 were &ldquo;in the main, complete&rdquo;. Marx&apos;s own points: the quantitative division becoming a qualitative one;
       wages of superintendence &ldquo;higher than a common labourer&apos;s&rdquo;; the double nature of supervision; the
       orchestra conductor; co-operative factories; the falling wages of management. The 100, 20, 5 and 15 coin figures
       reuse Marx&apos;s Chapter 21 example.

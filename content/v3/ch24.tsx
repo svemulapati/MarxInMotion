@@ -101,7 +101,7 @@ const chapter: ChapterContent = {
     },
     {
       q: "What was Dr. Price's famous sum about?",
-      options: ["Cotton prices", "A penny growing by compound interest over 1,800 years", "The length of the working day"],
+      options: ["Cotton prices", "A penny growing by compound interest for about 1,770 years", "The length of the working day"],
       answer: 1,
       why: "He claimed a penny at 5% compound interest from the year 1 would exceed 150 million earths of solid gold.",
     },
@@ -129,8 +129,8 @@ const chapter: ChapterContent = {
   source: (
     <p>
       Covers Volume III, Chapter 24 (&ldquo;Externalisation of the Relations of Capital in the Form of Interest-Bearing
-      Capital&rdquo;), checked against the International Publishers / Progress edition on marxists.org. Volume III was
-      assembled by Engels from Marx&apos;s manuscripts and published in 1894. Marx&apos;s own words and examples:
+      Capital&rdquo;), checked against the International Publishers edition on marxists.org. Volume III was
+      assembled by Engels from Marx&apos;s manuscripts and published in 1894. Chapters 21 to 36 make up Part V, which Engels found the hardest to edit (&ldquo;no finished draft&rdquo;), though he says Chapters 21 to 24 were &ldquo;in the main, complete&rdquo;. Marx&apos;s own words and examples:
       &ldquo;most fetish-like form&rdquo;, the pear-trees, the &ldquo;automatic fetish&rdquo;, Dr. Price&apos;s penny (150
       million earths of gold; 7s 4½d at simple interest), Pitt and the sinking fund of 1786, and the &ldquo;qualitative
       limit&rdquo;. The shape of the curves and Mia&apos;s 20 coins are this site&apos;s own.

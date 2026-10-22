@@ -138,8 +138,7 @@ const chapter: ChapterContent = {
 
   source: (
     <p>
-      Covers Volume III, Chapter 27 (&ldquo;The Role of Credit in Capitalist Production&rdquo;), in the Moscow translation
-      on marxists.org. Volume III was put together by Friedrich Engels from Marx&apos;s manuscripts and published in 1894;
+      Covers Volume III, Chapter 27 (&ldquo;The Role of Credit in Capitalist Production&rdquo;), in the International Publishers edition on marxists.org. Volume III was put together by Friedrich Engels from Marx&apos;s manuscripts and published in 1894;
       Engels says this chapter could be taken &ldquo;almost completely from the original manuscript&rdquo;. The bracketed
       note on cartels and the United Alkali Trust (about £5 million of fixed capital and £1 million of floating capital)
       is Engels&apos; own addition. The railway company, the hat-makers&apos; rate and the spinners&apos; co-operative

@@ -122,8 +122,8 @@ const chapter: ChapterContent = {
   source: (
     <p>
       Covers Volume III, Chapter 22 (&ldquo;Division of Profit. Rate of Interest. Natural Rate of Interest&rdquo;),
-      checked against the International Publishers / Progress edition on marxists.org. Volume III was assembled by Engels
-      from Marx&apos;s manuscripts and published in 1894. Marx&apos;s own points and figures: profit as the upper limit; the
+      checked against the International Publishers edition on marxists.org. Volume III was assembled by Engels
+      from Marx&apos;s manuscripts and published in 1894. Chapters 21 to 36 make up Part V, which Engels found the hardest to edit (&ldquo;no finished draft&rdquo;), though he says Chapters 21 to 24 were &ldquo;in the main, complete&rdquo;. Marx&apos;s own points and figures: profit as the upper limit; the
       lower limit &ldquo;altogether indeterminable&rdquo;; no natural rate of interest (with Massie); customs and legal
       tradition; 4½% (1842), 2% and 1½% (1843), 8% and higher (1847, citing Gilbart). The slice sizes in 22.1 are
       made up.

@@ -133,8 +133,7 @@ const chapter: ChapterContent = {
 
   source: (
     <p>
-      Covers Volume III, Chapter 26 (&ldquo;Accumulation of Money-Capital. Its Influence on the Interest Rate&rdquo;), in
-      the Moscow translation on marxists.org. Volume III was put together by Friedrich Engels from Marx&apos;s manuscripts
+      Covers Volume III, Chapter 26 (&ldquo;Accumulation of Money-Capital. Its Influence on the Interest Rate&rdquo;), in the International Publishers edition on marxists.org. Volume III was put together by Friedrich Engels from Marx&apos;s manuscripts
       and published in 1894; Engels says this chapter needed &ldquo;a sifting of the references&rdquo;, and most of it
       quotes the parliamentary reports of 1847 to 1858. Figures from the text: the 1847 bank rate by month; at least £9
       million of gold paid abroad for food in 1847; Overstone&apos;s &ldquo;value of capital&rdquo;; Gurney&apos;s

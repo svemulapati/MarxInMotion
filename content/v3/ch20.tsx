@@ -141,7 +141,7 @@ const chapter: ChapterContent = {
   source: (
     <p>
       Covers Volume III, Chapter 20 (&ldquo;Historical Facts about Merchant&apos;s Capital&rdquo;), checked against the
-      International Publishers / Progress edition on marxists.org. Volume III was assembled by Engels from Marx&apos;s
+      International Publishers edition on marxists.org. Volume III was assembled by Engels from Marx&apos;s
       manuscripts and published in 1894. Marx&apos;s own examples: the Venetians, Genoese and Dutch carrying trade;
       Carthage, Rome and the Portuguese; England and Holland; the English 17th-century clothier; &ldquo;the really
       revolutionising path&rdquo;. The Spice Coast and Cloth Hills are this site&apos;s own.

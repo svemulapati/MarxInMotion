@@ -32,7 +32,7 @@ const chapter: ChapterContent = {
   struggle: [<PeelsRule key="a" />],
   reveal: [<LockedDoorsInAStorm key="b" />],
 
-  eli5: "A law said the bank could only print notes to match its gold. In a crisis gold left, so the bank had to lend less just when everyone needed it most. Twice the government had to cancel the rule to stop the panic.",
+  eli5: "A law said the bank could only print notes to match its gold. In a crisis gold left, so the bank had to lend less just when everyone needed it most. Twice the government had to set the rule aside to stop the panic.",
 
   grownUp: (
     <>

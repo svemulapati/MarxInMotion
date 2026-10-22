@@ -133,8 +133,7 @@ const chapter: ChapterContent = {
 
   source: (
     <p>
-      Covers Volume III, Chapter 25 (&ldquo;Credit and Fictitious Capital&rdquo;), in the Moscow translation on
-      marxists.org. Volume III was put together by Friedrich Engels from Marx&apos;s manuscripts and published in 1894.
+      Covers Volume III, Chapter 25 (&ldquo;Credit and Fictitious Capital&rdquo;), in the International Publishers edition on marxists.org. Volume III was put together by Friedrich Engels from Marx&apos;s manuscripts and published in 1894.
       Engels writes that Part V gave him the most trouble, and that this chapter needed &ldquo;a sifting of the
       references&rdquo;; much of it is quotations from 1840s and 1850s parliamentary reports. Figures from the text:
       Leatham&apos;s £528,493,842 of bills in 1839; the Liverpool banker&apos;s &ldquo;drawn for produce or for
