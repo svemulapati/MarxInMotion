@@ -35,6 +35,7 @@ export function DoubleTheDose() {
   return (
     <Player
       id="anim-v3-41-1"
+      viewBox="0 0 360 236"
       title="41.1 · Double the dose"
       steps={[
         { caption: "Marx's starting table, in pounds: on each acre A to D, £2½ of capital. Wheat sells at £3 a quarter, set by soil A. Rents: £0, £3, £6, £9. Total £18." },
@@ -100,6 +101,7 @@ export function GoodDosesPoorDoses() {
   return (
     <Player
       id="anim-v3-41-2"
+      viewBox="0 0 360 236"
       title="41.2 · Good doses, poor doses"
       steps={[
         { caption: "Start again from the first table: £2½ on each acre, rents £0, £3, £6 and £9." },

@@ -19,6 +19,7 @@ export function SixHoursNotTwelve() {
   return (
     <Player
       id="anim-v4-21-1"
+      viewBox="0 0 360 236"
       title="21.1 · Six hours instead of twelve"
       steps={[
         { caption: "In 1821 a short pamphlet appeared with no author's name on it. Marx calls it an important advance on Ricardo." },
@@ -95,6 +96,7 @@ export function DoesTheSpindleWork() {
   return (
     <Player
       id="anim-v4-21-2"
+      viewBox="0 0 360 236"
       title="21.2 · Does the spindle make anything?"
       steps={[
         { caption: "In 1825 Thomas Hodgskin wrote Labour Defended against the Claims of Capital. He took Ricardo's rule and turned it on the bosses." },

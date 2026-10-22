@@ -37,6 +37,7 @@ export function ThePriceOfBorrowing() {
   return (
     <Player
       id="anim-v3-26-1"
+      viewBox="0 0 360 236"
       title="26.1 · The price of borrowing"
       steps={[
         { caption: "Bea's bank is full of spare coins, and only a few bosses want to borrow. So she lends cheaply. The interest rate is the price of borrowing money." },

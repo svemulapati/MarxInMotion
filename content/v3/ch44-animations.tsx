@@ -151,7 +151,7 @@ export function NaturesFreeGift() {
     <Player
       id="anim-v3-44-2"
       title="44.2 · Nature's free gift"
-      viewBox="0 0 360 226"
+      viewBox="0 0 360 242"
       steps={[
         { caption: "Two of the Landlord's fields. The left one has a stream that drains it by itself. The right one is soggy, and its wheat drowns." },
         {

@@ -18,6 +18,7 @@ export function FiveHundredInSixHundredOut() {
   return (
     <Player
       id="anim-v2-17-1"
+      viewBox="0 0 360 236"
       title="17.1 · 500 in, 600 out?"
       steps={[
         { caption: "Picture all the bosses of Tiny Town as one team. Together they put 500 coins into circulation, buying cotton, tools and labour-power." },

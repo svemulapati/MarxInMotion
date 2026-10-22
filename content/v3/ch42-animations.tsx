@@ -34,6 +34,7 @@ export function SoilADropsOut() {
   return (
     <Player
       id="anim-v3-42-1"
+      viewBox="0 0 360 236"
       title="42.1 · Soil A drops out"
       steps={[
         { caption: "Last chapter ended here: £5 of capital on each acre, 20 quarters in all, wheat at £3, rents of £36." },

@@ -19,6 +19,7 @@ export function SameSurplusDifferentProfit() {
   return (
     <Player
       id="anim-v3-7-1"
+      viewBox="0 0 360 236"
       title="7.1 · Same surplus, different profit"
       steps={[
         { caption: "Two workshops, A and B. Each pays its workers 1,000 coins of wages, and each gets 1,000 coins of surplus-value. Same workers, same hours, same squeeze." },

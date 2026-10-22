@@ -190,6 +190,7 @@ export function HicRhodus() {
   return (
     <Player
       id="anim-5-3"
+      viewBox="0 0 360 236"
       title="5.3 · Marx's three rules"
       steps={[
         { caption: "Marx sets Moneybags a puzzle with three rules. Rule one: he must buy everything at its fair value. No cheating." },

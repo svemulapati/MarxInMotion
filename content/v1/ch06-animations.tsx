@@ -203,6 +203,7 @@ export function WhatADayIsWorth() {
   return (
     <Player
       id="anim-6-2"
+      viewBox="0 0 360 236"
       title="6.2 · What is a day of Sam's work worth?"
       steps={[
         { caption: "Labour-power is a commodity, so its value is set like any other: by the work it takes to produce it. And Sam is produced by the things that keep him alive. First, food and drink." },

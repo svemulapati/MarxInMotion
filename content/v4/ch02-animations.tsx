@@ -40,6 +40,7 @@ export function FromTheMarketToTheField() {
   return (
     <Player
       id="anim-v4-2-1"
+      viewBox="0 0 360 236"
       title="2.1 · From the market to the field"
       steps={[
         {

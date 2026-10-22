@@ -103,7 +103,7 @@ export function ThreeMinesOnePrice() {
           <Fade show={s >= 2}>
             <rect x="8" y="6" width="344" height="18" fill="#000" />
             <text x="180" y="18.5" textAnchor="middle" fontSize="9" fill="#fff" fontWeight="600">
-              one price: £2 a ton, set by mine I
+              {s === 4 ? "one price: £2 a ton · total rent: 30 + 40 = £70" : "one price: £2 a ton, set by mine I"}
             </text>
           </Fade>
           <Fade show={s >= 3}>
@@ -111,12 +111,6 @@ export function ThreeMinesOnePrice() {
             <text x="107" y="35.5" fontSize="7">absolute rent</text>
             <rect x="170" y="30" width="8" height="6" fill={RENT} />
             <text x="181" y="35.5" fontSize="7">differential rent</text>
-          </Fade>
-          <Fade show={s === 4}>
-            <rect x="110" y="70" width="140" height="18" fill="#fff" stroke="#000" />
-            <text x="180" y="82.5" textAnchor="middle" fontSize="9" fontWeight="700">
-              total rent: 30 + 40 = £70
-            </text>
           </Fade>
         </>
       )}

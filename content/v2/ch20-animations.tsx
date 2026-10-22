@@ -324,6 +324,7 @@ export function TheCoinsComeHome() {
   return (
     <Player
       id="anim-v2-20-3"
+      viewBox="0 0 360 236"
       title="20.3 · The coins come home"
       steps={[
         { caption: "The Ironmaster runs the Forge, in Department I. He starts the year with 1,000 coins for wages." },
