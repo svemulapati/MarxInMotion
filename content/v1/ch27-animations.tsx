@@ -133,7 +133,7 @@ export function TheCommonLand() {
             <Fade show={s >= 1 && s <= 3}>
               <Figure name="Lord of the Manor" x={322} y={208} scale={0.7} />
               <g transform="translate(280 194)">
-                <Tag text="wool: dear" />
+                <Tag text="wool ↑" />
               </g>
             </Fade>
 

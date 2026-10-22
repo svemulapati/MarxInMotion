@@ -183,7 +183,7 @@ export function TheSufficientPrice() {
       title="33.2 · The “sufficient price”"
       steps={[
         { caption: "A writer called Edward Gibbon Wakefield studied this problem. Where land is free, he said, workers soon become farmers, and bosses cannot find hands." },
-        { caption: "His plan, which he called “systematic colonisation”: the government puts a high price on the empty land, a “sufficient price”." },
+        { caption: "His plan, which he called “systematic colonisation”: the government puts a high price on the colony's unsold land, a “sufficient price”." },
         { caption: "Now a newcomer must work for wages for years before he can save enough to buy a farm." },
         { caption: "And the money from land sales pays to ship more workers from Europe, so there are always people looking for wages." },
         {
@@ -200,10 +200,10 @@ export function TheSufficientPrice() {
           {/* the land, with or without a price */}
           <rect x="226" y="120" width="120" height="60" fill="#e3efd9" stroke="#3f8f3a" />
           <text x="286" y="196" textAnchor="middle" fontSize="9">
-            empty land
+            colony land
           </text>
           <Place x={300} y={110} show={s >= 1}>
-            <Tag text="high price" />
+            <Tag text="pricey" />
           </Place>
           <Fade show={s === 0}>
             <text x="286" y="110" textAnchor="middle" fontSize="9" fontWeight="600" fill="#3f8f3a">

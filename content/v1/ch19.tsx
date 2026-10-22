@@ -7,8 +7,8 @@ const chapter: ChapterContent = {
   story: (
     <>
       <p>
-        It is Saturday evening. Mr. Moneybags counts 3 coins into Sam&apos;s hand. &ldquo;Your pay for the day,&rdquo; he
-        says, &ldquo;times six days.&rdquo; Sam walks home feeling fairly treated. He worked, he was paid, nobody cheated
+        It is Saturday evening. Mr. Moneybags counts 18 coins into Sam&apos;s hand. &ldquo;Your pay: 3 coins a day,&rdquo; he
+        says, &ldquo;for six days.&rdquo; Sam walks home feeling fairly treated. He worked, he was paid, nobody cheated
         him.
       </p>
       <p>

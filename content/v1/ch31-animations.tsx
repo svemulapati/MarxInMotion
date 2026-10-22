@@ -67,7 +67,7 @@ export function TheSlowRoadAndTheFastRoad() {
         { caption: "Some capitalists grew slowly. A small master saved a little, hired one more helper, then another. Marx says this road went at a snail's pace." },
         { caption: "But after the great sea voyages at the end of the 1400s, a world market opened up. The snail's road was far too slow for it." },
         { caption: "So a faster road was taken, using the power of the state. Marx names four levers: colonies, national debt, heavy taxes, and protection of home industry." },
-        { caption: "Each lever pushed money into a few hands, and pushed small farmers and craftspeople out of work of their own." },
+        { caption: "Each lever pushed money into a few hands, and pushed small farmers and craftspeople out of working for themselves." },
         { caption: "Marx sums it up in one sentence: “Force is the midwife of every old society pregnant with a new one.”", ms: 4600 },
       ]}
     >

@@ -16,7 +16,8 @@ const chapter: ChapterContent = {
       </p>
       <p>
         Months later, a letter arrives in Tiny Town. Mia reads it out loud in the bakery, and everyone laughs, then goes
-        quiet. Mr. Moneybags is all alone. His workers have every one of them gone off to farm land of their own.
+        quiet. Mr. Moneybags is all alone. His workers have every one of them gone off to farm land of their own. By spring he is back home in Tiny Town,
+        poorer and a little wiser.
       </p>
       <p>How can a man with a fortune in money and tools end up with nobody to work for him?</p>
     </>

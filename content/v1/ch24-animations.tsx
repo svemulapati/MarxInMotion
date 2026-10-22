@@ -275,7 +275,7 @@ export function TwoSouls() {
           ms: 4800,
         },
         {
-          caption: "But he can never stop growing. A rival with a bigger mill would beat him. Competition makes it a law, and Marx mocks the old economists' motto: “Accumulate, accumulate! That is Moses and the prophets!”",
+          caption: "But he can never stop growing. A rival with a bigger mill would beat him. Competition makes it a law, and Marx sums it up in the old economists' own motto: “Accumulate, accumulate! That is Moses and the prophets!”",
           ms: 5600,
         },
         {
