@@ -7,8 +7,8 @@ const chapter: ChapterContent = {
   story: (
     <>
       <p>
-        Bea is the richest person in Tiny Town, or so everyone says. Her book lists thousands of coins of deposits, piles
-        of bills, government bonds and railway shares.
+        Everyone says Bea&apos;s bank is the richest place in Tiny Town. Her book lists thousands of coins of deposits,
+        piles of bills, government bonds and railway shares.
       </p>
       <p>
         One morning Sam is sent to the bank with a message and the vault door is open. He peeks in. There is a pile of
@@ -139,8 +139,7 @@ const chapter: ChapterContent = {
 
   source: (
     <p>
-      Covers Volume III, Chapter 29 (&ldquo;Component Parts of Bank Capital&rdquo;), in the Moscow translation on
-      marxists.org. Volume III was put together by Friedrich Engels from Marx&apos;s manuscripts and published in 1894;
+      Covers Volume III, Chapter 29 (&ldquo;Component Parts of Bank Capital&rdquo;), in the International Publishers edition on marxists.org. Volume III was put together by Friedrich Engels from Marx&apos;s manuscripts and published in 1894;
       Engels says this chapter could be taken &ldquo;almost completely from the original manuscript&rdquo;. Marx&apos;s
       own figures: £100 at 5%; £100 a year capitalised at £2,000; the £100 share paying 10% worth £200; the £5 income worth
       £50 at 10%; the £114,752,225 fall by 23 October 1847 (from the Bank of England governor&apos;s evidence; Chapter 25

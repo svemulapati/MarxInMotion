@@ -126,7 +126,7 @@ const chapter: ChapterContent = {
   source: (
     <p>
       Covers Volume III, Chapter 19 (&ldquo;Money-Dealing Capital&rdquo;), checked against the International
-      Publishers / Progress edition on marxists.org. Volume III was assembled by Engels from Marx&apos;s manuscripts and
+      Publishers edition on marxists.org. Volume III was assembled by Engels from Marx&apos;s manuscripts and
       published in 1894. Marx&apos;s own points: the purely technical movements of money as a separate business; money-changing
       and the bullion trade as its original forms; concentration on a large scale; the money-dealers&apos; profit as
       &ldquo;a deduction from the surplus-value&rdquo;. The Amsterdam bank of 1609 comes from a source Marx quotes in a

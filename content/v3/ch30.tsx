@@ -139,8 +139,7 @@ const chapter: ChapterContent = {
 
   source: (
     <p>
-      Covers Volume III, Chapter 30 (&ldquo;Money-Capital and Real Capital. I&rdquo;), in the Moscow translation on
-      marxists.org. Volume III was put together by Friedrich Engels from Marx&apos;s manuscripts and published in 1894.
+      Covers Volume III, Chapter 30 (&ldquo;Money-Capital and Real Capital. I&rdquo;), in the International Publishers edition on marxists.org. Volume III was put together by Friedrich Engels from Marx&apos;s manuscripts and published in 1894.
       Engels says the &ldquo;real difficulty&rdquo; of Part V began here: this chapter &ldquo;was put together by means of
       transpositions and excisions&rdquo;, and much of it quotes parliamentary reports. From the text: the reports on the
       Bank Acts of 1857 and 1858; the crisis of August 1857 starting in the United States; &ldquo;the poverty and restricted

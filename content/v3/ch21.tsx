@@ -125,8 +125,8 @@ const chapter: ChapterContent = {
   source: (
     <p>
       Covers Volume III, Chapter 21 (&ldquo;Interest-Bearing Capital&rdquo;), checked against the International
-      Publishers / Progress edition on marxists.org. Volume III was assembled by Engels from Marx&apos;s manuscripts and
-      published in 1894. Marx&apos;s own example: an average rate of profit of 20%, £100 yielding £20, and £5 paid as
+      Publishers edition on marxists.org. Volume III was assembled by Engels from Marx&apos;s manuscripts and
+      published in 1894. Chapters 21 to 36 make up Part V, which Engels found the hardest to edit (&ldquo;no finished draft&rdquo;), though he says Chapters 21 to 24 were &ldquo;in the main, complete&rdquo;. Marx&apos;s own example: an average rate of profit of 20%, £100 yielding £20, and £5 paid as
       interest, shown here as coins. Also his: the &ldquo;sui generis&rdquo; commodity, the path M&ndash;M&ndash;C&ndash;M&prime;&ndash;M&prime;,
       interest as &ldquo;an irrational form of price&rdquo;, and his reply to Gilbart&apos;s &ldquo;natural justice&rdquo;.
       Ava&apos;s 5-coin coat is this site&apos;s own.
