@@ -108,7 +108,7 @@ export function WhereDidTheFirstCoinsGo() {
       id="anim-23-2"
       title="23.2 · Where did the first 100 coins go?"
       steps={[
-        { caption: "Mr. Moneybags starts his workshop with 100 coins of his own savings. Every year it brings him 20 coins of surplus-value." },
+        { caption: "Let's use simple round numbers. Say Mr. Moneybags started with 100 coins of his own savings, and every year the workshop brings him 20 coins of surplus-value." },
         { caption: "He spends all 20 on himself: dinners, a carriage, a new hat. The workshop stays the same size. Marx calls this simple reproduction. After one year he has eaten 20 coins." },
         { caption: "After three years he has eaten 60 coins. His workshop looks just as it did, so he thinks his own 100 coins are still safely in it." },
         { caption: "After five years he has eaten 100 coins, as much as he put in. The value now in his workshop is nothing but surplus-value made by his workers. Not one coin's worth of his own savings is left.", ms: 5200 },

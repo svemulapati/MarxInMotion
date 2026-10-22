@@ -227,9 +227,9 @@ function Shop({ name, children }: { name: string; children: React.ReactNode }) {
 }
 
 const SHOPS = [
-  { name: "Mia's bakery", x: 236, y: 96, draw: <Loaf /> },
+  { name: "the bakery", x: 236, y: 96, draw: <Loaf /> },
   { name: "the mill", x: 304, y: 96, draw: <Linen /> },
-  { name: "Tom's shop", x: 270, y: 158, draw: <Candle /> },
+  { name: "the shop", x: 270, y: 158, draw: <Candle /> },
 ];
 
 export function BuyersAreBorn() {
@@ -240,7 +240,7 @@ export function BuyersAreBorn() {
       steps={[
         { caption: "On their old farm, Sam's great-grandparents made almost everything they used: bread from their own grain, linen from their own flax, candles from their own tallow. Made at home, used at home." },
         { caption: "Then they were driven off the land and into Tiny Town. Now they have nothing to make things with, only their hands." },
-        { caption: "So everything must be bought. Their wages go to Mia for bread, to the mill for cloth, to Tom's shop for candles." },
+        { caption: "So everything must be bought. Their wages go to the baker for bread, to the mill for cloth, to the shop for candles." },
         { caption: "Meanwhile the big farm sells its grain to the town, and the mill sells its cloth back to the countryside. Things that were never sold before have become commodities." },
         {
           caption: "Marx's point: the same events that made wage workers also made customers. Many small households became one great home market for industrial capital.",
